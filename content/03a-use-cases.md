@@ -2,6 +2,8 @@
 
 *An inventory of campus problems the network could solve, each to test before building*
 
+> **At VSU.** By the author's observation, a post in one of VSU's largest community groups on Facebook asked students in September 2026 what product or service they wished the university had, and the most commented answers were drinking water stations and transport around the campus. [Unresolved] Around the Third SOUA, students in The Amaranth's vox pop asked for things of the same kind: more transport between distant departments, and laboratory equipment one student called very old. [Established] (E-055) Neither water nor a ride is software, and CAMPUS cannot install a water station. [Proposed] What a network could do is smaller and testable: help a request reach the office that can act on it, and keep a record of what became of it the last time someone asked (P-23); this inventory lists 29 such candidates, each a symptom to ask about before anything is built, the way a doctor takes the history before naming a diagnosis. [Proposed] (D-038)
+
 Chapter 3 names three use cases from the author's experience. This inventory widens the search to 29 candidate problems across six areas of university life, each paired with the use case that would answer it and the platforms that already solve something similar. Every entry is a hypothesis. [Unresolved] The inventory decides what to ask in interviews and surveys; only evidence decides what gets built or is shown as Established. [Established] (D-036, D-038, D-151)
 
 ## How to read it
