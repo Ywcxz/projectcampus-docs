@@ -2,11 +2,13 @@
 
 *The Strategic Plan, DIGITS, and the path into the institution*
 
+> **At VSU.** In the Third State of the University Address, the President said: "But technology, by itself, does not transform a university." The real change, the address went on, comes when people, processes, data, and technology begin working as one system, and for students, DIGITS aims at a simpler point of access to university services and information. [Established] (VSU, 18 September 2026) CAMPUS starts from the same conviction, from the students' side: its hard parts are people, not software. [Proposed] ([Chapter 3](03-social-network.md)) Where it fits beside DIGITS is VSU's to decide, and this chapter treats VSU's plans as context, never as a place CAMPUS claims. [Established] (D-017; D-183)
+
 CAMPUS is written for VSU, so it must fit VSU's plans without claiming a place in them. The Strategic Plan 2017–2027 serves as an alignment framework, not a mandate. DIGITS is context, and CAMPUS's relationship to it is VSU's decision. [Established] (D-016; D-017)
 
 ## Strategic Plan 2017–2027
 
-The plan's seven goals are reference points for checking whether a CAMPUS idea addresses a real VSU priority. They are not evidence that VSU needs CAMPUS. [Established] (D-016)
+The plan's seven goals are reference points for checking whether a CAMPUS idea addresses a real VSU priority. They are not evidence that VSU needs CAMPUS. [Established] (D-016) The plan works as a compass, not a map: it says which way VSU is heading, not which path a project must take to get there. [Proposed]
 
 | VSU goal | Where CAMPUS might contribute | Through |
 | --- | --- | --- |
