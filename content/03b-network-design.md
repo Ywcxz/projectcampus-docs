@@ -2,6 +2,8 @@
 
 *Members, places, knowledge, and rules: a design to test before it is built*
 
+> **At VSU.** By the author's observation, the same kinds of questions fill VSU's community groups on Facebook every semester: what a scholarship still needs before its deadline, whether a subject still has slots, whether classes are really suspended, who found a lost ID, which boarding house near campus still has a bed, and where the nearest printing place is open, and once, a photo of an injured dog, posted in the hope that a veterinary student would see it. [Unresolved] (P-03, P-10) Each is posted to everyone in the group, answered by whoever happens to see it, and asked again by the next student a week or a semester later, while the people who could answer, from the office responsible to the Faculty of Veterinary Medicine, may never see it. [Unresolved] (P-10; E-057) Some have an answer already written somewhere, some need a person who knows, and some only an office can settle. [Proposed] The network would route each one that way: first to the answer that already exists, then to the members who chose to help with that topic, then to the office responsible. [Established] (D-071)
+
 This chapter turns the principles of [Chapter 3](03-social-network.md) into a working design: who can join, how the network is organized, who can see what, how questions find the people who know, how knowledge is kept and when it fades, how helpers are recognized, how notices, trade, and pseudonymous speech work, how the network is governed, and what runs underneath. Every part is a proposal for field research and a pilot to test, and the first version would include only what the evidence calls for. [Proposed]
 
 > **In short.** Members sign in with VSU accounts and carry roles. They join places tied to real VSU offices, units, organizations, buildings, and subjects, each looked after by stewards for a term and with boards for notices, questions, guides, events, and discussion. A question is routed to members who chose to help with its topic and to the office responsible, after the network has shown any answer that already exists. Knowledge is labelled, dated, and kept, while conversation fades on a schedule. Helping is recognized without public scores. Pseudonyms hide a member from other members but not from the network, and are never revealed for criticizing the university. Moderators enforce rules written with the community, offices answer concerns, and neither does the other's job. Everything runs on open components VSU could host. [Proposed]
@@ -116,7 +118,7 @@ Subject places hold what outlasts a semester: questions, guides such as what sen
 
 ### Stewards, not owners
 
-A steward looks after a place on behalf of the people it serves, for a term, and then hands it on. No one owns a place: an office's staff steward the office's place while they hold their posts, and an organization's officers steward its place for their term, then pass it to the next officers. [Established] (D-144) The word is chosen over "owner", which suggests that a person owns an office or an organization, and over "admin", which this document keeps for running the platform (D-066). [Established] (D-144)
+A steward looks after a place on behalf of the people it serves, for a term, and then hands it on. No one owns a place: an office's staff steward the office's place while they hold their posts, and an organization's officers steward its place for their term, then pass it to the next officers. [Established] (D-144) The word is chosen over "owner", which suggests that a person owns an office or an organization, and over "admin", which this document keeps for running the platform (D-066). [Established] (D-144) A place works like a barangay: it exists because the place does, its officials serve a term and hand over, and it outlives every captain. [Proposed]
 
 ### Three rules that keep places healthy
 
@@ -169,7 +171,7 @@ Labels travel. A reshare or quote keeps the original's label and links back to i
 
 ### Knowledge that knows its age
 
-Notices, confirmed answers, and guides carry a state, the academic year they apply to, and, where one exists, the document they rest on, such as a Board of Regents resolution or a page of the Citizen's Charter. [Established] (D-063)
+Notices, confirmed answers, and guides carry a state, the academic year they apply to, and, where one exists, the document they rest on, such as a Board of Regents resolution or a page of the Citizen's Charter. [Established] (D-063) Like the best-before date on a carton of milk, the state tells a reader whether an answer is still good before they rely on it. [Proposed]
 
 | State | Means | Shown as |
 | --- | --- | --- |
@@ -243,7 +245,7 @@ Ranking or classifying members by their activity could also count as profiling, 
 
 ## What people see: a home that ends
 
-The home screen is a digest, not a feed. [Established] (D-061)
+The home screen is a digest, not a feed. [Established] (D-061) It reads like a newspaper, which ends, rather than a slot machine, which is built never to. [Proposed]
 
 1. **Official now.** Unread notices from the offices whose places the member belongs to, urgent ones first.
 2. **For you.** Replies to the member's posts, and questions in the topics they help with.
