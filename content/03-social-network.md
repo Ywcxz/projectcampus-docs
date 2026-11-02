@@ -2,6 +2,8 @@
 
 *A campus community space that VSU designs and governs*
 
+> **At VSU.** By the author's observation, each new batch starts its own group chats, one for the batch and others for scholarships, and the student who creates each one becomes, without meaning to, the keeper of one of the busiest information channels the batch has. [Unresolved] (P-10) Answers about enrollment, scholarships, and dormitories are given there, buried under newer messages within days, and given again to the next student who asks. [Unresolved] (P-10) A year later the next batch starts new chats, and seniors who answered the same questions year after year begin to stop. [Unresolved] (P-08, P-10) The network is proposed for exactly that loss: a place where an answer, once given, stays findable, dated, and marked with who stands behind it. [Proposed] (D-063, D-070)
+
 Much of VSU's campus life already runs on a social network: questions about enrollment and scholarships, notices of suspended classes, organizations recruiting members, students selling books and looking for rooms. That network is mostly Facebook and Messenger, built for attention and conversation and governed from outside the university. [Unresolved] The centerpiece proposal of CAMPUS is VSU's own alternative for campus life: a community space where students, faculty, staff, and offices can do what they now do on Facebook, in a form designed and governed for the university, to connect relevant information to the right people and close the gap between students and the institution. [Established] (D-035) It leads the first pitch, to OVPSAS. Nothing about it has been approved, built, or tested. [Established] ([Overview](00-overview.md))
 
 > **In short.** Facebook is built to hold attention, and group chats to carry a conversation. Neither gets a question to the person who knows the answer, keeps that answer for the next batch, or shows who stands behind it and whether it is still true. The network is built for those three jobs: routing, memory, and trust. [Proposed] VSU already holds many of the pieces, from a university account for every student to a learning system, a helpdesk, and an advisory system; what it lacks is a community space that joins them, governed by VSU and its students together. [Proposed] The software is the easy part. The hard parts are people: offices that answer, helpers who stay, moderators who act, and an owner inside VSU. [Proposed] Because every answer kept makes the next question easier, the network's value compounds over years, so a pilot has to seed its memory and measure reuse, and only such a pilot can show whether students would move. [Proposed]
@@ -151,7 +153,7 @@ Research supports the choice of feed. In a preregistered study of 806 Twitter us
 
 ### Group chats: for talking now, not for knowing later
 
-Much campus coordination runs on Messenger group chats, and 90.6% of Philippine internet users aged 16 and over had used Messenger in the past month. [Established] ([Chapter 10](10-related-work.md)) In the author's experience, batches, classes, and organizations each keep their own. [Unresolved] Group chats are good at what they were made for, talking in the moment, and poor at what campus knowledge needs. [Proposed]
+Much campus coordination runs on Messenger group chats, and 90.6% of Philippine internet users aged 16 and over had used Messenger in the past month. [Established] ([Chapter 10](10-related-work.md)) In the author's experience, batches, classes, and organizations each keep their own. [Unresolved] Group chats are good at what they were made for, talking in the moment, and poor at what campus knowledge needs. [Proposed] A group chat works like a classroom blackboard: right for the lesson, and wiped for the next class. The network would be the notebook students keep. [Proposed]
 
 | What campus knowledge needs | In a group chat | On the network |
 | --- | --- | --- |
@@ -166,7 +168,7 @@ Every row is a proposal. [Proposed] The network would not replace group chats. C
 
 ### What Facebook does better
 
-Facebook will keep doing some things far better than any campus network. It already has everyone, costs nothing to join, connects students with family and friends beyond VSU, and offers mature apps for video and messaging. [Established] The network does not compete for those. A student would keep Facebook for life beyond the campus and use the network for campus tasks, the way staff keep personal apps and use an office chat at work. [Proposed]
+Facebook will keep doing some things far better than any campus network. It already has everyone, costs nothing to join, connects students with family and friends beyond VSU, and offers mature apps for video and messaging. [Established] The network does not compete for those. A student would keep Facebook for life beyond the campus and use the network for campus tasks, the way staff keep personal apps and use an office chat at work. [Proposed] VSU's own staff already do this: their work chat is Output Messenger, listed for employees only, and VSU's public list of services shows no equivalent for students. [Established] ([Chapter 10](10-related-work.md))
 
 ### Why not Facebook, done better?
 
