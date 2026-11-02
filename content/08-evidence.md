@@ -2,6 +2,8 @@
 
 *What CAMPUS claims, what it has shown, and how it will find out*
 
+> **At VSU.** Around the Third SOUA, VSU's student media published eleven students' views on what the university should address. [Established] (E-055; E-056) It is tempting to call that evidence, but the publication chose the eleven, so their words can prompt a hypothesis, as they prompted P-23, without showing how common a problem is. [Established] (E-055; E-056) CAMPUS fixes the bars a problem must clear before any data is read, like setting the hoop's height before the game, not after the shot. [Established] (D-038) Until a problem clears them, it stays a question here, and a negative answer is a valid result. [Established] (D-038)
+
 CAMPUS has not yet shown, with VSU evidence, that the problems it addresses exist at VSU. Every problem below is a hypothesis to test, and a negative answer is a valid result. [Established] (D-038; [Overview](00-overview.md))
 
 ## Problem hypotheses

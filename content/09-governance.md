@@ -2,7 +2,9 @@
 
 *Who said it, who may see it, and who decides*
 
-A campus network raises trust problems before technical ones. CAMPUS labels every piece of information by type, decides who may see a connection separately from whether it exists, and treats governance as part of the design. [Proposed]
+> **At VSU.** In 2021, VSU's own privacy training put its guiding rule in one line: don't collect what you can't protect. [Established] (VSU, 24 February 2021) CAMPUS starts from that rule. Every piece of information carries a label saying what kind it is, and who may see a connection is decided apart from whether it exists: your adviser knows your grades, but that doesn't put them on the bulletin board. [Proposed] (D-063; D-005) The 2025 case of a VSU community group that no one answerable ran shows what is at stake when no one decides. [Established] (E-023)
+
+A campus network raises trust problems before technical ones. CAMPUS labels every piece of information by type, decides who may see a connection separately from whether it exists, and treats governance as part of the design. [Proposed] Communities have governed shared resources this way for centuries: among the commons Elinor Ostrom found to last are the zanjeras, irrigation communities in the Philippines whose farmers share water under rules they make and enforce themselves. [Established] (Ostrom, 1990) A campus network is that kind of shared resource, and [Chapter 3.2](03b-network-design.md) designs its governance from the same principles. [Proposed]
 
 ## Six types of information
 
@@ -59,6 +61,8 @@ No product moves to wider use if data authority is unclear, permissions can't be
 
 ## Sources
 
-Checked on 28 October 2026. Each entry starts with the author and date a citation names, and ends with its source type.
+Checked on 28 October 2026; the VSU and Ostrom entries on 2 November 2026. Each entry starts with the author and date a citation names, and ends with its source type.
 
+- Ostrom, E. (1990). *Governing the Commons*, chapter 3, including its section on zanjera irrigation communities in the Philippines ([table of contents](https://toc.uni.li/FLMF045179.pdf)). Cambridge University Press. [doi:10.1017/CBO9780511807763](https://doi.org/10.1017/CBO9780511807763). Scholarly.
+- VSU. [VSU commits to data privacy and protection](https://www.vsu.edu.ph/articles/news/1919-vsu-commits-to-data-privacy-and-protection), 24 February 2021. Official.
 - Chacon, S., and Straub, B. (2014). [Pro Git, Viewing the Commit History](https://git-scm.com/book/en/v2/Git-Basics-Viewing-the-Commit-History), 2nd edition. Apress. External, reference.
