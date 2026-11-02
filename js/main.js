@@ -869,7 +869,7 @@ async function renderAll(el, chapters) {
       <div class="lockup"><span>Project CAMPUS</span><span class="x">×</span><span class="vsu">Visayas State University</span></div>
       <div class="eyebrow">The whole document</div>
       <h1>Project CAMPUS</h1>
-      <p class="subtitle">A different approach to digital transformation for Visayas State University</p>
+      <p class="subtitle">A student-first proposal for Visayas State University</p>
       <p class="doc-byline">Master document, version 0.2. Prepared by Leo M. Subingsubing, Visayas State University Main Campus alumnus, Pangasugan, Baybay City, Leyte.</p>
       <p class="doc-note">Not officially affiliated with Visayas State University. No VSU office has reviewed, endorsed, or adopted this proposal.</p>
       <p class="doc-howto screen-only">Every chapter on one page, to read straight through or to print. To save it as a PDF, use your browser's Print command and choose "Save as PDF".</p>

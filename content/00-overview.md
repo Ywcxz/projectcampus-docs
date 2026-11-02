@@ -2,7 +2,7 @@
 
 *What CAMPUS is, where it stands, and how to read this document*
 
-CAMPUS (Connecting All Members, Places, and University Services) is a proposal for a different approach to digital transformation at Visayas State University. It imagines a digital layer over the physical university that connects people, organizations, knowledge, places, services, and opportunities, designed around VSU's own culture, values, policies, geography, and people. It is not a commercial product and not a plan for Philippine higher education in general. [Established] (D-001; D-029)
+CAMPUS (Connecting All Members, Places, and University Services) is a student-first proposal for Visayas State University. It imagines a digital layer over the physical university that connects students with the people, organizations, knowledge, places, services, and opportunities they need, designed around VSU's own culture, values, policies, geography, and people. It complements VSU's systems and DIGITS rather than offering an alternative to them. It is not a commercial product and not a plan for Philippine higher education in general. [Established] (D-001; D-029; D-183)
 
 ## Where it stands, October 2026
 
