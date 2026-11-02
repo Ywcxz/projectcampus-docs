@@ -2,6 +2,8 @@
 
 *Scheduled, pooled campus delivery, a later module of the network*
 
+> **At VSU.** By the author's observation, when someone at VSU heads to the market, a friend will often ask, "Pasabuy?": could you buy this for me while you're there? [Unresolved] By the author's observation, VSU's community groups also carry posts from students looking for someone to deliver food, while the fast-food center is far from parts of upper campus and busy students, faculty, and staff often have no one to send. [Unresolved] Hop-It would organize the pasabuy: orders that accept a delivery window share a scheduled run, the way a jeepney leaves on schedule along its route and each rider pays less than for a taxi. [Proposed] It is a later module of the network, kept for when its own evidence calls for it. [Established] (D-098)
+
 Hop-It is a campus delivery experiment in which customers accept a scheduled delivery window so that orders can be pooled into shared runs. It was planned as the first CAMPUS product and the proof that the project can ship. Since 15 October 2026 it is a later module of the network instead, and a small prototype of the network is the first build. [Established] (D-098, D-099) Its specification is kept for when it is taken up. [Established] (D-027; D-098) Two documents are its sources of truth: the Alpha PRD v1.0 (28 September 2026), which controls, and the Functional Specification v1.0 (27 September 2026). This chapter summarizes them and never overrides them. [Established] (D-027)
 
 ## Where the idea came from
