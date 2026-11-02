@@ -2,6 +2,8 @@
 
 *Buying and selling among verified VSU members*
 
+> **At VSU.** By the author's observation, VSU's community groups on Facebook carry a steady trade among students: uniforms and lab gowns passed on to the next batch, books and gadgets, and services such as printing, offered by dormitory residents with printers of their own to students in lower-campus dormitories looking for the nearest printing place. [Unresolved] (P-21) In an open group, strangers can join, and a buyer can't tell whether a seller is from VSU. [Unresolved] (P-21) The marketplace would keep that trade among verified VSU members, with meeting points in public places on campus: the difference between buying from a stall you know at the VSU Market and from a stranger at the terminal. [Proposed] It is a later module, built only on its own evidence. [Established] (D-098)
+
 The marketplace is a place for VSU's students and employees to buy and sell from each other: books, uniforms, gadgets, and dormitory items. It is a later module of the network, not a separate product, and not part of the network's first version. [Established] (D-098) It began as one of the network's use cases, and its design below moved here from Chapter 3.2. [Established] ([Chapter 3.1](03a-use-cases.md); [Chapter 3.2](03b-network-design.md))
 
 ## At a glance
