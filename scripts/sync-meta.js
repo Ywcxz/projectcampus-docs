@@ -50,7 +50,7 @@ function block(m) {
     `<meta property="og:image" content="${SITE}/img/og-card.png">`,
     `<meta property="og:image:width" content="1200">`,
     `<meta property="og:image:height" content="630">`,
-    `<meta property="og:image:alt" content="Project CAMPUS: a different approach to digital transformation for Visayas State University. An independent proposal.">`,
+    `<meta property="og:image:alt" content="Project CAMPUS: a student-first proposal for Visayas State University. An independent proposal.">`,
     `<meta name="twitter:card" content="summary_large_image">`,
     `<link rel="icon" href="img/favicon.svg" type="image/svg+xml">`,
     `<link rel="icon" href="favicon.ico" sizes="32x32">`,
