@@ -2,6 +2,8 @@
 
 *Who to ask, what to ask for, and how to earn each step*
 
+> **At VSU.** VSU's University Student Services Office (USSO) has a history of leaving its own office. Its USSO Days began in 2014 as Guidance Services Days, to help students feel less intimidated in using guidance services, and in 2016 they set up booths at the Eco Park offering scholarship and other student services. A guidance counselor gave the reason: the office cannot serve students who feel apprehensive in approaching it, and most students were usually unaware of the services it offered. [Established] (E-058) The office brought its services to the Eco Park again in 2018 and 2019, the second time for three days. [Established] (E-059) The network would take the same idea further: the office's answers, and the way to its services, kept where students look first, all year, under the office's own name. [Proposed] Whether USSO Days still run is not known. [Unresolved]
+
 The network leads the first pitch, which goes to OVPSAS, the Office of the Vice President for Student Affairs and Services. [Established] (D-024) This chapter plans how to propose it: whom at VSU it concerns, how it serves OVPSAS's own mandate, what the university would gain and give, which asks come in which order, how a pilot would be set up, and which questions to expect. It follows the project's rule that credibility comes from evidence, never from claims. [Established] (project rule 7)
 
 > **In short.** Propose the network as a way to deliver services OVPSAS already owes students, and as a memory that spares offices and seniors from answering the same questions every year, not as an app or a complaints channel. Ask in steps that match the milestone ladder: first, permission to run the survey and the interviews and, separately, interest in CAMPUS; then, with evidence, one office's commitment to answer students; then a one-semester pilot in one community, judged against thresholds fixed in advance and compared with a well-run Facebook group. Bring evidence and a stop condition to every step, and a plan for VSU to own the network or for it to end cleanly. [Proposed]
@@ -99,6 +101,8 @@ Steps 1 and 2 stay separate so that permission to do research never depends on i
 | Exit | If the pilot stops, members receive their posts and the network closes on a set date |
 | Cost | One small server and the author's time; office and moderator time measured |
 
+The pilot is built like a variety trial in agricultural research: one plot, one season, grown beside a control and judged against marks set before planting. Here the plot is one community, the season one semester, the control a well-run Facebook group, and the marks the thresholds of Q-35. [Proposed]
+
 Every row is a proposal. [Proposed] The comparison group would be run on Facebook by the office or the student council, and measured by hand and through members' surveys, never by tools that read Facebook, in keeping with project rule 8. [Proposed]
 
 ## Questions to expect
@@ -124,6 +128,7 @@ Every row is a proposal. [Proposed] The comparison group would be run on Faceboo
 
 ## How to frame it
 
+- **Carrying further what VSU began.** VSU's student services office already takes its services to where students are, so that they feel less intimidated asking (E-058, E-059), and the Third SOUA asks for a campus where students feel comfortable asking for help (VSU, 18 September 2026). The network is offered as the next step of that work, run with the offices that answer, not as a replacement for their counters, staff, or events. [Proposed] (D-183)
 - **A network with a memory, not a complaints channel.** Lead with what the network does for everyone, offices included: questions that reach the people who know, answers that stay found, and notices people can check. Student voice is one part of it, answered by offices under the rules of D-066. Pitched as a grievance platform, it would put the offices it needs on the defensive. [Proposed]
 - **Described by what it does.** "Social network" may be heard as one more Facebook for VSU to moderate, and "university operating system" as a bid for the work DIGITS plans. Describing the network by its three jobs (routing, memory, and trust) avoids both. [Proposed]
 - **Beside DIGITS, not inside or above it.** The network complements VSU's systems from the community side. Whether and how it relates to DIGITS is VSU's decision. [Established] (D-017)
@@ -138,12 +143,12 @@ The pitch is the interactive site, presented in person: once with the concept no
 3. **Where VSU's conversation lives.** The Facebook study's counts by kind of channel, with no community group named. (D-044)
 4. **Every batch starts over.** The same questions asked year after year, and answers lost within days. It stays on the path, shown as a question with how we'd find out until the interviews and the survey clear the D-038 bars. (D-151; D-175)
 5. **Where concerns go.** At the services offices: a concern raised and answered from zero each time, with no way to see what became of it the last time (P-23), shown as a question until it clears the D-038 bars. (D-151; D-175)
-6. **What VSU already has.** Its systems, shown with respect, and the gap between them.
+6. **What VSU already has.** Its systems, and its offices' own outreach, such as USSO Days, shown with respect, and the gap between them. (E-058, E-059)
 7. **The network in three jobs, kept by memory.** Reaching the people who know, answers someone stands behind, and talking across roles, and what it will never have.
 8. **How it would be governed.** With the community, by VSU's own principles, with due process, and with moderation kept apart from VSU's responses.
 9. **The test.** The pilot, its comparison, its thresholds, and its stop conditions.
 10. **The ask.** One office's commitment, then one semester.
-11. **Who is behind it.** The network prototype's working software (D-099), the field research, and the decision register.
+11. **Who is behind it.** The network's first place, the first build (D-178), the field research, and the decision register.
 
 The framing should be cultivation rather than construction: a community network is not installed but grown, with its members, in ground prepared for it. [Proposed] The builders of an institution-run network that outlasted its predecessor drew the same conclusion in 2010, calling gardening a better metaphor than architecture because the system keeps changing as people use it. [Established] (Athabasca University's Landing, March 2010) Which image the site uses is still open. [Unresolved]
 
@@ -171,7 +176,7 @@ The framing should be cultivation rather than construction: a community network 
 
 ## Sources
 
-Checked on 8 and 9 October 2026; the Third SOUA was checked again on 28 October 2026. Each entry starts with the author and date a citation names, and ends with its source type ([Chapter 9](09-governance.md)). Facts already in the [evidence register](08-evidence.md) are cited by their E- number instead.
+Checked on 8 and 9 October 2026; the Third SOUA was checked again on 28 October 2026, and the Student Services page on 2 November 2026. Each entry starts with the author and date a citation names, and ends with its source type ([Chapter 9](09-governance.md)). Facts already in the [evidence register](08-evidence.md) are cited by their E- number instead.
 
 - Commission on Higher Education. [CMO No. 09, s. 2013, Enhanced Policies and Guidelines on Student Affairs and Services](https://legacy.ched.gov.ph/wp-content/uploads/2017/10/CMO-No.09-s2013.pdf), listed on [CHED's 2013 memorandum orders](https://legacy.ched.gov.ph/2013-ched-memorandum-orders/). Official. The scanned order could not be read as text; its grouping of services is taken from VSU's accreditation page below.
 - VSU. [Fifth VP, campus chancellors in VSU's new org structure](https://www.vsu.edu.ph/articles/news/1746-fifth-vp-campus-chancellors-in-vsu-s-new-org-structure), 10 January 2020. Official.
