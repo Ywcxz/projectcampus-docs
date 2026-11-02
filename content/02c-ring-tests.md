@@ -2,6 +2,8 @@
 
 *A bench test the author can run alone, and a campus test VSU ICT could run later*
 
+> **At VSU.** In 2013, Typhoon Haiyan cut VSU's outside link: it destroyed the internet leased line and about 90% of the fiber backbone. [Established] (E-009) On a desk, the author can do the same to a small copy of the campus ring, cut its uplink, and see what keeps working, with each measure and pass mark fixed before the test runs and the results published with their scripts. [Established] (D-088) Like a wind tunnel, which tests the model and not the weather, the bench can show that the mechanisms work; only VSU's own network can show VSU's traffic, crowds, and use. [Proposed]
+
 Every claim about what the campus ring would do is a hypothesis until something measures it. [Established] ([Overview](00-overview.md)) Some of it can only be measured on VSU's own network, which needs VSU ICT's agreement. [Established] ([Chapter 2](02-intranet.md)) The mechanisms themselves can be tested on a bench, by the author alone, with the author's own equipment, synthetic data, and no VSU systems or people: whether services keep working when the uplink is cut, whether one copy can serve many, and whether phones catch up after an outage without knocking the service over. [Proposed] (D-088)
 
 > **In short.** Seven tests, each with its measure and its pass mark fixed before it runs. The bench can show that the design works and put numbers on it; it cannot show VSU's traffic, its crowded rooms, or whether anyone would use the result. Results are published with the scripts that produced them, so anyone can run them again. [Proposed]

@@ -2,6 +2,8 @@
 
 *How people would connect, where the network strains, and what changes for VSU's systems*
 
+> **At VSU.** In 2023, VSU's free Wi-Fi reached 1,772 students in 25 dormitories and cottages with no data cap or time limit, and close to 98% of the Main Campus was on the VSU Unifi network. [Established] (E-010; VSU, 30 May 2023) Coverage is not capacity, though: a classroom in the morning, the VSU Market at noon, and the gym during the intramurals each need room for a crowd that moves. [Proposed] Like jeepney seats at rush hour, there can be enough in the town and still too few on the route everyone takes at once. [Proposed] Whether students in academic buildings during class hours are served as well as those in the dormitories is a question only VSU ICT's measurements can answer. [Unresolved] (P-19)
+
 The intranet direction rests on two practical questions: whether people can actually connect wherever they are on campus, and what happens to the systems VSU already runs. This chapter takes both from public sources. The real answers sit with VSU ICT, which runs the network. [Established] (VSU, 30 May 2023)
 
 ## How campus Wi-Fi serves people today
@@ -60,7 +62,7 @@ Crowds move with the class schedule, and access points cannot follow them, so a 
 
 ## Academic first, a fair share for the rest
 
-The owner's direction is that the campus network puts university and academic services first and carries everything else on a fair share, without blocking it. [Established] (D-059) Other universities have done versions of this. [Established] (Truman State University, n.d.; E-017; EdTech Magazine, 6 August 2019)
+The owner's direction is that the campus network puts university and academic services first and carries everything else on a fair share, without blocking it. [Established] (D-059) It works like a priority lane: everyone gets through, and academic traffic goes first. [Proposed] Other universities have done versions of this. [Established] (Truman State University, n.d.; E-017; EdTech Magazine, 6 August 2019)
 
 - **Truman State University** ranks traffic in five tiers: mission-critical services such as its learning platform, university servers, and library databases; academic browsing and collaboration, with academic buildings and classrooms given priority; non-academic browsing, streaming, and gaming; large downloads and updates; and peer-to-peer file sharing, capped. Lower tiers are slowed rather than blocked.
 - **Purdue University** found in 2016 that only 4% of the traffic in one life sciences building went to academic sites. It then filtered bandwidth-heavy sites such as Netflix, Hulu, and Steam in classrooms on weekdays from 7 a.m. to 9 p.m., kept a separate recreational network in hallways and lounges, left residence halls out, let instructors ask for exceptions, and saw campus bandwidth use fall by about a third.
