@@ -2,6 +2,8 @@
 
 *What has been decided, what changed, and what is still open*
 
+> **At VSU.** VSU's Board of Regents records its decisions as numbered resolutions, such as BOR Resolution No. 162, s. 2024, its guidelines on suspending classes and work in typhoons and other calamities. [Established] (E-025) A numbered resolution can be found, cited, and replaced by a later one, and no one has to remember who said what in which meeting. [Proposed] This register does the same for CAMPUS: a chat, a call, or a draft is the meeting, and a decision counts only once it is a numbered row here. [Established] ([Overview](00-overview.md)) A number is never reused, so a decision withdrawn stays visible as withdrawn. [Proposed]
+
 This is the only place decisions are recorded. A decision made in a chat, a call, or a draft counts only once it is entered here. [Established]
 
 Each decision carries a status: Established, Proposed (awaiting the project owner), Deferred, Under review, or Superseded by a later decision.
