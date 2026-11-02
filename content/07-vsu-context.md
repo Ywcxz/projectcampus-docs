@@ -68,7 +68,7 @@ Owning only what nobody else owns keeps CAMPUS from becoming an accidental secon
 
 ## Sources
 
-Checked on 28 October 2026. Each entry starts with the author and date a citation names, and ends with its source type ([Chapter 9](09-governance.md)). Facts already in the [evidence register](08-evidence.md) are cited by their E- number instead.
+Checked on 28 October 2026; the Third SOUA's quoted lines were checked again on 2 November 2026. Each entry starts with the author and date a citation names, and ends with its source type ([Chapter 9](09-governance.md)). Facts already in the [evidence register](08-evidence.md) are cited by their E- number instead.
 
 - VSU. [VSU implements new vision, mission, organizational structures](https://www.vsu.edu.ph/articles/news/2666-vsu-implements-new-vision-mission-organizational-structures), 16 January 2025. Official.
 - VSU. [Third State of the University Address](https://www.vsu.edu.ph/articles/news/3045-3rd-state-of-the-university-address), 18 September 2026. Official.
