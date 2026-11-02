@@ -2,6 +2,8 @@
 
 *Possible futures, recorded so they don't steer today's work*
 
+> **At VSU.** In January 2025, VSU created new research centers, among them a Geospatial and GIS Research and Services Center. [Established] ([Chapter 3](03-social-network.md)) A student who wants to learn GIS still has to know where to look, and finding the person who knows, across the whole university, is one of the directions recorded here, not part of the first build. [Proposed] (D-022) Two others, the learning record and the bridge from high school to college, wait for a later revision of this document. [Unresolved] The chapter works as a seed bank, not a field: ideas stored so nothing is lost, and planted only when their own evidence calls for them. [Proposed]
+
 None of these is a commitment. Each needs its own evidence, governance review, and recorded decision before any work starts. [Established] (v0.1 D-020) They are written down so good ideas aren't lost, and so none of them quietly widens the scope.
 
 | Direction | What it would do | Why it waits |

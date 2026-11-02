@@ -2,6 +2,8 @@
 
 *How VSU communicates on public Facebook pages and groups, observed by hand*
 
+> **At VSU.** In 2025, a public Facebook group for VSU people that began as a lost-and-found page had grown past 12,500 members, with administrators no one could clearly identify. [Established] (E-023) How many groups like it exist, who runs them, and which are official has never been mapped. [Established] (D-041; D-042) This study maps that landscape by hand and by observation alone, the way a birdwatcher counts: kinds, not individuals, recorded without touching the nest. [Proposed] No community group, person, or post is ever named or linked. [Established] (D-044; D-041)
+
 The network is proposed as VSU's own alternative to Facebook for campus life (D-035), yet what VSU's Facebook landscape actually looks like has never been mapped. [Established] (D-041; D-042) This study maps it by observation alone: which public pages and groups exist, who runs them, how official information travels through them, and what happens to the questions people ask there. It has not started. [Established] (D-041)
 
 ## Why observe before asking
