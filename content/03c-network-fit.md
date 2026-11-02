@@ -2,6 +2,8 @@
 
 *What VSU already has, what is missing, what would change, and whether it can be done*
 
+> **At VSU.** Today a VSU student can request a document and follow its status online, open a ticket on the helpdesk, take her courses on VSUEE, and receive typhoon advisories on WAIS. [Established] (E-004; E-005; E-026) Each system does its own job. What none of them offers her is a place to ask a question in public, see an office's answer, and find it again next semester. [Proposed] This chapter takes stock of what VSU already has and asks what the network would add between those systems, never in place of them. [Proposed] (D-004; D-183)
+
 The network has to fit a university that already runs many systems and plans more under DIGITS. This chapter takes stock of them from public sources, measures what is missing against the concepts the network depends on, sets out what would change for each system, draws lessons from similar systems, and judges whether the network is feasible. The real answers about VSU's systems sit with their owners. [Established] (D-004)
 
 > **In short.** VSU already has much of what the network would build on: an account for every member, a learning system with a mobile app, a helpdesk, a document tracker, public feeds of its news and announcements, pages listing its graduate faculty's research interests, and an advisory system. [Established] (E-021; E-005; VSU, 29 July 2022; E-004; E-024; E-040; E-026) Measured against seventeen concepts, its systems cover none fully for students, thirteen in part, and three not at all, with one unknown. [Proposed] What is missing is a community space, a memory that keeps what is learned, and the connections between the pieces. The network would change little for any existing system, it is technically easy and cheap to pilot, and its real costs are people, legal duties, a memory that takes years to pay off, and winning students over. [Proposed]
@@ -33,7 +35,7 @@ Every row is drawn from VSU's public pages and news. [Established] (E-021; E-022
 
 ## What is missing
 
-The network depends on seventeen concepts. The table compares each with the closest thing VSU's systems offer students today. "Partly" means some VSU system offers part of the concept to students, and "No" means none does; the reading is the author's, from public sources. [Proposed]
+The network depends on seventeen concepts. The table compares each with the closest thing VSU's systems offer students today. "Partly" means some VSU system offers part of the concept to students, and "No" means none does; the reading is the author's, from public sources. [Proposed] Put simply, VSU has built the rooms, each for its own job; what is missing is the hallway, where people meet between them and find their way to the right door. [Proposed]
 
 | Concept | Closest today | VSU systems | What is missing |
 | --- | --- | --- | --- |
