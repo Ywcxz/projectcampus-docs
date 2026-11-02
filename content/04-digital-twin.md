@@ -2,9 +2,11 @@
 
 *A living model of the campus, and the university's long-term aspiration*
 
-A digital twin is an interactive model of the campus: its buildings, rooms, roads, and utilities, the offices in them and what they handle, and what is happening across the grounds. It has its own chapter beside the network because it could become a project as large as the network itself. [Established] (D-081) The author expects it is what VSU would want most from a digital campus in the long run; whether VSU shares that aim is not known. [Unresolved] It keeps the conditions that held it back as a later direction: it needs spatial data, operational integration, and infrastructure far beyond any first product. [Established] (D-077)
+> **At VSU.** VSU's Main Campus spreads 188 buildings over 61.6 hectares of grounds, among them 21 student dormitories and 17 academic buildings. [Established] ([Chapter 2](02-intranet.md)) In 2015, VSU's orientation for new students included a campus walk, led by USSO staff, the student councils, and peer facilitators. [Established] (E-060) The walk is over in an afternoon, but the questions keep coming for weeks: where to replace a lost ID, where to request a transcript, which office signs which form. [Proposed] The twin's first step would keep that walk going: a student starts from her question and gets the office, its room and hours, what to bring, and the way there, whenever she needs it. [Proposed] (D-079)
 
-The Main Campus has 61.6 hectares of grounds and 188 buildings. [Established] ([Chapter 2](02-intranet.md)) The twin's first, smallest step is something people on those grounds could use right away: finding places, and knowing which office handles what. [Proposed] (D-079)
+A digital twin is an interactive model of the campus: its buildings, rooms, roads, and utilities, the offices in them and what they handle, and what is happening across the grounds. It has its own chapter beside the network because it could become a project as large as the network itself. [Established] (D-081) The author expects it is what VSU would want most from a digital campus in the long run; whether VSU shares that aim is not known. [Unresolved] It keeps the conditions that held it back as a later direction: it needs spatial data, operational integration, and infrastructure far beyond any first product. [Established] (D-077) The author sees the twin as the long-term aim that would serve students best, possibly as a full-scale model built with VSU's own spatial data; which data and tools that would need is open. [Unresolved] (Q-75)
+
+The twin's first, smallest step is something people on those grounds could use right away: finding places, and knowing which office handles what. [Proposed] (D-079)
 
 ## At a glance
 
@@ -27,6 +29,8 @@ Each step stands on its own, and none commits VSU to the next. [Proposed]
 3. **VSU's spatial data.** The GIS inventory's layers, if VSU shares them. [Unresolved] (Q-49)
 4. **Status offices already keep.** Room bookings, outages, and maintenance, linked where VSU permits. [Proposed]
 5. **Sensors.** Energy, water, and occupancy readings carried on the campus network's later stage ([Chapter 2](02-intranet.md)). [Deferred] VSU named campus-wide environmental monitoring and connected lab equipment among the aims of its IPv6 work in 2024. [Established] (E-044)
+
+The twin and the network keep one list of places: the twin says where, the network says who can help, and the receptionist is the door into both. [Proposed] (D-144; D-181)
 
 The network's later modules build on the early steps: Housing shows distance and the way to campus from the twin's places, and the marketplace's meeting points are places in it ([Chapter 3](03-social-network.md)). [Proposed]
 
