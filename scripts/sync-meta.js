@@ -18,7 +18,7 @@ const COVER = {
   file: "index.html",
   title: "Project CAMPUS — Master Document",
   description:
-    "A proposal for a digital layer over Visayas State University that connects people, organizations, knowledge, places, services, and opportunities. Independent and alumni-led.",
+    "A student-first proposal for a digital layer over Visayas State University that connects students with the people, organizations, knowledge, places, services, and opportunities they need. Independent and alumni-led.",
   type: "website",
 };
 
@@ -30,7 +30,7 @@ function pageMeta(ch) {
   return {
     file: `${ch.slug}.html`,
     title: `${ch.title} — Project CAMPUS`,
-    description: `${ch.subtitle}. ${where} of Project CAMPUS, an independent proposal for Visayas State University.`,
+    description: `${ch.subtitle}. ${where} of Project CAMPUS, an independent, student-first proposal for Visayas State University.`,
     type: "article",
   };
 }
@@ -65,7 +65,7 @@ const DOCUMENT = {
   file: "document.html",
   title: "The Whole Document — Project CAMPUS",
   description:
-    "Every chapter of the Project CAMPUS master document on one page, to read straight through, print, or save as a PDF. An independent proposal for Visayas State University.",
+    "Every chapter of the Project CAMPUS master document on one page, to read straight through, print, or save as a PDF. An independent, student-first proposal for Visayas State University.",
   type: "article",
 };
 

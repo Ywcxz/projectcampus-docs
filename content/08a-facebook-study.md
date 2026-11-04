@@ -6,6 +6,8 @@ The network is proposed as VSU's own alternative to Facebook for campus life (D-
 
 In 2025, a public Facebook group for VSU people that began as a lost-and-found page had grown past 12,500 members, with administrators no one could clearly identify, and VSU's student media investigated it for online hate and a false accusation against a student. [Established] (E-023)
 
+> **In short.** Four starting hypotheses are tested, from whether official announcements change as they travel to whether groups are replaced when their founders leave, each against cut-offs fixed before any data was read. [Established] (D-042; D-053) The author does it all by hand, records no names, links, or screenshots, and reports findings only by kind of channel. [Established] (D-041; D-044) It cannot show what happens in private chats or how many students a problem affects, so on its own it never makes a problem Established. [Established] (D-038) The workbook is built and checked on synthetic data, so the census can begin. [Established] (D-043)
+
 ## Why observe before asking
 
 - The network's problem hypotheses about Facebook come from the author's own observations as an alumnus, which makes them community knowledge, not evidence. [Established] ([Chapter 8](08-evidence.md); [Chapter 9](09-governance.md))
