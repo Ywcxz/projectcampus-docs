@@ -6,6 +6,8 @@ CAMPUS has not yet shown, with VSU evidence, that the problems it addresses exis
 
 Around the Third SOUA, VSU's student media published eleven students' views on what the university should address. [Established] (E-055; E-056) It is tempting to call that evidence, but the publication chose the eleven, so their words can prompt a hypothesis, as they prompted P-23, without showing how common a problem is. [Established] (E-055; E-056) CAMPUS fixes the bars a problem must clear before any data is read, like setting the hoop's height before the game, not after the shot. [Established] (D-038)
 
+> **In short.** CAMPUS will find out through student interviews, a student survey, observation of public Facebook channels, and systems discovery with VSU's offices, and each product passes its gates in order: whether the problem is real, whether the product does the job better, and whether it can be built and run. [Proposed] The bars are at least 4 of 12 interviews describing a specific past incident and a share of survey respondents set in advance, and a problem is shown as Established only once it clears them. [Established] (D-038) The people who take part come first: consent before anything, adults only in the first round, and no responses, contact details, or interview notes in this repository. [Established] (D-094; D-086)
+
 ## Problem hypotheses
 
 | ID | Hypothesis | Bears on | Status |

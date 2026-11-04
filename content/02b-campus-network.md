@@ -6,6 +6,8 @@ The intranet direction rests on two practical questions: whether people can actu
 
 A classroom in the morning, the VSU Market at noon, and the gym during the intramurals each hold a crowd for an hour or two, then empty as it moves on. [Proposed] Like jeepney seats at rush hour, a network can have room enough across the town and still too little on the route everyone takes at once. [Proposed]
 
+> **In short.** VSU's public record shows broad coverage, close to 98% of the Main Campus by 2023, while the author's experience is that the network serves dormitory residents best; both can be true, because coverage, capacity, and access are different ways for a network to fall short. [Proposed] (VSU, 30 May 2023) The main answer is indoor access points sized room by room for each room's busiest hour, with outdoor ones where students wait between classes, rather than taller towers. [Proposed] Academic services would go first, and everything else would get a fair, published share, slowed but never blocked. [Proposed] (D-059) Joining would take a VSU account, no existing system would move or lose its authority, and the largest recurring cost is people. [Proposed]
+
 ## How campus Wi-Fi serves people today
 
 VSU's public record describes broad coverage. [Established] (VSU, 18 January 2021; E-010; VSU, 30 May 2023)
