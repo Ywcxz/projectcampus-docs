@@ -191,6 +191,13 @@ function cellCountSep(line) {
     check(Boolean(article.querySelector("p.subtitle")), `${label} has a subtitle line`);
     check(article.querySelectorAll("h2").length > 0, `${label} has sections`);
     check(!article.querySelector(".chapter-error"), `${label} loaded without error`);
+    for (const fig of article.querySelectorAll("figure.diagram")) {
+      const name = fig.dataset.svg;
+      const svgEl = fig.querySelector(".diagram-art svg");
+      check(Boolean(svgEl), `${label} diagram ${name} is drawn`);
+      check(Boolean(fig.querySelector("details.diagram-text pre")), `${label} diagram ${name} keeps its text version`);
+      check(Boolean(svgEl && svgEl.getAttribute("role") === "img" && svgEl.querySelector("title") && svgEl.querySelector("desc")), `${label} diagram ${name} has a role, a title, and a description`);
+    }
     const text = article.textContent;
     check(!/\*\*|\]\(|^\s*#{1,4}\s|\|\s*-{3,}/m.test(text), `${label} no raw Markdown in rendered text`);
     check(!RAW_TAG.test(text), `${label} every claim tag rendered as a stamp`);
@@ -307,6 +314,8 @@ function cellCountSep(line) {
   check(!/\(D-061/.test(cited), "citations leave no brackets behind");
   check(/One\.<sup class="cite">.*?<\/sup> <span class="tag tag-proposed">/.test(cited), "the number sits against the claim, before its stamp");
   check(md("> **Note.** Text").includes('class="field-card"'), "renderer makes field cards");
+  check(/<figure class="diagram" data-svg="img\/diagrams\/x\.svg">[\s\S]*<details class="diagram-text">[\s\S]*<pre><code>A<\/code><\/pre>/.test(md("```text svg=x\nA\n```")), "renderer pairs a drawn diagram with its text version");
+  check(md("```text\nA\n```") === "<pre><code>A</code></pre>", "a plain text diagram stays text");
   check(md("# T\n\n*Sub*").includes('class="subtitle"'), "renderer detects the subtitle");
   check(md("| a | b |\n| --- | --- |\n| 1 | 2 |").includes("<td>1</td>"), "renderer builds tables");
   check(md("- one\n- two").includes("<li>two</li>"), "renderer builds lists");

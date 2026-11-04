@@ -31,6 +31,7 @@ The site renders a small subset (see `js/main.js`):
 - pipe tables with a `| --- |` separator row and no `|` inside cells
 - `> **Label.** text` for a pinned field card, `> text` for a pull quote
 - fenced code blocks for text diagrams, and `---` for a rule
+- a drawn diagram: open the text diagram's fence with ```` ```text svg=name ```` to show `img/diagrams/name.svg` above it, with the text diagram kept beneath as its "Text version". The text is the source: when they differ, the text wins, and the drawing is redrawn to match. The SVG needs `role="img"`, a `title`, and a `desc`, and the render test checks all three (D-188)
 
 Link between chapters by file name, as in `[Hop-It](03g-hop-it.md)`. The site rewrites these to its own pages.
 

@@ -10,7 +10,7 @@ By the author's observation, the same questions fill VSU's community groups on F
 
 ## The model at a glance
 
-```text
+```text svg=network-model
 Member ──is──► VSU role    student · faculty · staff · alumni, later
    │
    ├──joins──► Place ──tied to──► a VSU office, department, organization,

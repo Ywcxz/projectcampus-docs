@@ -397,11 +397,17 @@ function renderMarkdown(source, linkMap = {}, cites = null) {
     if (/^\s*$/.test(line)) { i++; continue; }
 
     if (/^```/.test(line)) {
+      // A text diagram can name a drawn twin: ```text svg=name shows
+      // img/diagrams/name.svg, with the text kept beneath it as the source.
+      const svg = (line.match(/^```text\s+svg=([a-z0-9-]+)\s*$/) || [])[1];
       const code = [];
       i++;
       while (i < lines.length && !/^```\s*$/.test(lines[i])) code.push(lines[i++]);
       i++;
-      out.push(`<pre><code>${escapeHtml(code.join("\n"))}</code></pre>`);
+      const pre = `<pre><code>${escapeHtml(code.join("\n"))}</code></pre>`;
+      out.push(svg
+        ? `<figure class="diagram" data-svg="img/diagrams/${svg}.svg"><div class="diagram-art"></div><details class="diagram-text"><summary>Text version</summary>${pre}</details></figure>`
+        : pre);
       afterTitle = false;
       continue;
     }
@@ -536,7 +542,7 @@ async function loadRefIndex(chapters) {
 
 function linkifyRefs(root, index, here) {
   if (!root || !Object.keys(index).length) return;
-  const skip = "a, code, pre, h1, h2, h3, h4, .eyebrow, .lockup";
+  const skip = "a, code, pre, h1, h2, h3, h4, .eyebrow, .lockup, .diagram";
   const walker = document.createTreeWalker(root, NodeFilter.SHOW_TEXT, {
     acceptNode(node) {
       REF_MENTION.lastIndex = 0;
@@ -847,6 +853,26 @@ const printSource = (path) =>
 
 /* ── The whole document on one page ───────────────────────────── */
 
+// Draws each diagram from its SVG, inline so it follows the page's colors.
+// If the drawing can't load, the text version opens in its place.
+async function hydrateDiagrams(root) {
+  const figures = [...root.querySelectorAll("figure.diagram[data-svg]")];
+  await Promise.all(figures.map(async (fig) => {
+    const art = fig.querySelector(".diagram-art");
+    try {
+      const res = await fetch(fig.dataset.svg);
+      if (!res.ok) throw new Error(`HTTP ${res.status}`);
+      const text = await res.text();
+      if (!/^\s*<svg[\s>]/.test(text)) throw new Error("not an SVG");
+      art.innerHTML = text;
+    } catch (err) {
+      fig.classList.add("no-art");
+      const details = fig.querySelector("details");
+      if (details) details.open = true;
+    }
+  }));
+}
+
 async function renderAll(el, chapters) {
   const linkMap = {};
   chapters.forEach((c) => { if (c.source && c.slug) linkMap[c.source.split("/").pop()] = `#ch-${c.slug}`; });
@@ -888,6 +914,7 @@ async function renderAll(el, chapters) {
     })
     .join("");
   el.innerHTML = intro + sections;
+  hydrateDiagrams(el);
 
   // Section anchors carry their chapter's slug, so they stay unique on one page.
   el.querySelectorAll(".doc-chapter").forEach((section) => {
@@ -942,6 +969,7 @@ async function renderChapter(chapters) {
     const res = await fetch(ch.source);
     if (!res.ok) throw new Error(`HTTP ${res.status}`);
     el.innerHTML = header + renderMarkdown(await res.text(), linkMap, newCites());
+    const drawn = hydrateDiagrams(el);
     const index = await refs;
     fillReferences(el, index, linkMap);
     linkifyRefs(el, index, ch.slug);
@@ -949,6 +977,7 @@ async function renderChapter(chapters) {
     initRefPreviews(el, index, linkMap);
     groupClaims(el);
     initLens(el, el.querySelector(".subtitle"));
+    await drawn;
   } catch (err) {
     console.warn("renderChapter() failed:", err.message);
     el.innerHTML = `${header}<h1>${escapeHtml(ch.title)}</h1>

@@ -546,6 +546,21 @@ button { font-family: var(--font-body); cursor: pointer; background: none; borde
   padding: 14px 16px; margin: 4px 0 24px; overflow-x: auto; max-width: 640px;
 }
 .chapter pre code { background: none; border: none; padding: 0; font-size: inherit; }
+.chapter figure.diagram { margin: 8px 0 26px; max-width: 700px; }
+.diagram-art { overflow-x: auto; -webkit-overflow-scrolling: touch; }
+.diagram-art svg { width: 100%; min-width: 560px; height: auto; }
+.diagram .dg-node rect { fill: var(--paper-2); stroke: var(--rule-2); }
+.diagram .dg-key rect { fill: var(--green-bg); stroke: var(--green); }
+.diagram .dg-title text { fill: var(--ink); font-family: var(--font-body); }
+.diagram .dg-sub text { fill: var(--ink-2); font-family: var(--font-body); }
+.diagram .dg-label text { fill: var(--ink-2); font-family: var(--font-body); }
+.diagram .dg-edge path { stroke: var(--ink-3); }
+.diagram .dg-arrow { fill: var(--ink-3); }
+.diagram .dg-pin { fill: var(--gold); }
+.diagram-text { margin-top: 6px; }
+.diagram-text summary { cursor: pointer; font-size: 13px; color: var(--ink-2); }
+.diagram-text pre { margin-top: 8px; }
+.diagram.no-art .diagram-art { display: none; }
 .chapter hr { border: none; border-top: 1px solid var(--rule); margin: 40px 0; max-width: 640px; }
 
 .table-wrap { overflow-x: auto; margin: 6px 0 28px; -webkit-overflow-scrolling: touch; }
@@ -756,6 +771,9 @@ button { font-family: var(--font-body); cursor: pointer; background: none; borde
   .chapter table.wide { min-width: 0; }
   .table-wrap { overflow: visible; }
   .chapter pre { white-space: pre-wrap; max-width: none; }
+  .diagram-text { display: none; }
+  .diagram-art svg { min-width: 0; }
+  .diagram.no-art .diagram-text { display: block; }
   .chapter h1 { font-size: 26pt; }
   .chapter h2 { font-size: 15pt; margin-top: 22pt; }
   .chapter h3 { font-size: 12pt; }
