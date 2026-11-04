@@ -8,6 +8,26 @@ In the author's experience as a Mechanical Engineering graduate of VSU, a thesis
 
 ## Outputs and steps
 
+```text svg=build-order
+Master document, the reference for everything after it
+  ──► the network's first place, with its receptionist
+        ──► one learning simulation, once the first place exists
+  ──► concept note, printed, with a PDF
+  ──► interactive site, built now, with placeholders
+  ──► student survey site, built, and kept closed
+
+first place + concept note + interactive site
+  ──► OVPSAS, in person, with two separate asks:
+      permission for the survey and interviews, and interest in CAMPUS
+  ──► field research: survey · interviews · office workflows
+      · Facebook study
+  ──► the pitch, with findings: the interactive site again,
+      with findings in place of placeholders
+student survey site ──► field research, once permission is granted
+```
+
+[Established] (D-083; D-084; D-100; D-114; D-151; D-178)
+
 1. **Master document.** This document, the reference for everything after it. Decisions live in its register.
 2. **The network's first place, with its receptionist.** The first thing people can use: one place of the network, seeded with real public information (the Citizen's Charter, VSU's service pages, and the guide's seven sourced entries) and with made-up members labeled as made up (D-108), with a receptionist at its door that points students to what people wrote and writes no answers of its own (D-178, D-181). It needs nothing from VSU (D-014). It starts once Q-33 (compose or build) and Q-58 (its name) are answered; its code will live in a repository of its own, private until its licence and the commercial path are settled (D-179, D-184; Q-77). Real members wait for a pilot and a privacy review (D-178).
 3. **One learning simulation.** Once the first place exists, a simulation for one Mechanical Engineering course, its topic chosen with an instructor of VSU's Department of Mechanical Engineering and tried in that class under the instructor's lead (D-178). Its design, and how it relates to the rest of CAMPUS, are for a later revision of this document. [Unresolved]
@@ -23,6 +43,21 @@ Hop-It's Alpha is no longer on this list: delivery is a later module of the netw
 Field research feeds Chapters 2 and 8 and supplies the interactive site's real VSU examples. [Proposed]
 
 ## The milestone ladder
+
+```text svg=milestone-ladder
+                                       Adoption
+                                  Collaboration
+                             Pilot
+                   Permission to prototype
+              Alignment
+         Interest
+Recognition
+
+Tracked apart, never a stage: research permission · ethics clearance
+· access to VSU's data or systems, each asked for in writing
+```
+
+[Established] (D-029; D-090)
 
 | Stage | What it means | Evidence that it happened |
 | --- | --- | --- |
