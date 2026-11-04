@@ -4,7 +4,7 @@
 
 CAMPUS (Connecting All Members, Places, and University Services) is a student-first proposal for Visayas State University. It imagines a digital layer over the physical university that connects students with the people, organizations, knowledge, places, services, and opportunities they need, designed around VSU's own culture, values, policies, geography, and people. It complements VSU's systems and DIGITS rather than offering an alternative to them. It is not a commercial product and not a plan for Philippine higher education in general. [Established] (D-001; D-029; D-183)
 
-By the author's observation, when a student asks about a scholarship, a grade, or enrollment in one of VSU's community groups on Facebook, the reply that comes most often is some version of "go to USSO." [Unresolved] (P-03) The advice is usually right: the University Student Services Office handles scholarships, student housing, and the recognition of organizations. [Established] (E-058; [Chapter 3.3](03c-network-fit.md)) But a reply can't say which window, what to bring, whether the office has already answered the same question, or whether that answer still holds. [Proposed] CAMPUS starts there: a receptionist that points students to answers people at VSU have already written, each with its source and date, and to the right office when none exists yet. [Proposed] (D-178, D-181)
+By the author's observation, when a student asks about a scholarship, a grade, or enrollment in one of VSU's community groups on Facebook, the reply that comes most often is some version of "go to USSO." [Unresolved] (P-03) The advice is usually right: the University Student Services Office handles scholarships, student housing, and the recognition of organizations. [Established] (E-058; [Chapter 2.3](02c-network-fit.md)) But a reply can't say which window, what to bring, whether the office has already answered the same question, or whether that answer still holds. [Proposed] CAMPUS starts there: a receptionist that points students to answers people at VSU have already written, each with its source and date, and to the right office when none exists yet. [Proposed] (D-178, D-181)
 
 ## Where it stands, November 2026
 
@@ -40,9 +40,9 @@ university
 | Part | What it is | Status |
 | --- | --- | --- |
 | [CAMPUS](01-campus.md) | The umbrella vision: a digital layer over the physical university | Proposed |
-| [Campus intranet](02-intranet.md) | The long-term backbone: local-first infrastructure, offered as a direction for VSU ICT and DIGITS, not an immediate ask | Direction only |
-| [Social/academic network](03-social-network.md) | The one product CAMPUS proposes: VSU's own alternative to Facebook for campus life, with discussions, groups, and student services, designed and governed for the university and free of ads and endless feeds. The marketplace, Housing, and Hop-It's delivery are its later modules | Proposed; leads the first pitch; its first place is the first build |
-| [Digital twin](04-digital-twin.md) | A living model of the campus and what happens in it: possibly the largest project of all and the university's long-term aspiration, starting from finding places and knowing which office handles what | Research only; first step proposed |
+| [Social/academic network](02-social-network.md) | The one product CAMPUS proposes: VSU's own alternative to Facebook for campus life, with discussions, groups, and student services, designed and governed for the university and free of ads and endless feeds. The marketplace, Housing, and Hop-It's delivery are its later modules | Proposed; leads the first pitch; its first place is the first build |
+| [Digital twin](03-digital-twin.md) | A living model of the campus and what happens in it: possibly the largest project of all and the university's long-term aspiration, starting from finding places and knowing which office handles what | Research only; first step proposed |
+| [Campus intranet](04-intranet.md) | The long-term backbone: local-first infrastructure, offered as a direction for VSU ICT and DIGITS, not an immediate ask | Direction only |
 | [Later directions](06-later-directions.md) | High-school-to-college bridging, learning record, research discovery, analytics and AI | Not commitments |
 
 ## What comes next

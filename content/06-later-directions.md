@@ -4,7 +4,7 @@
 
 None of the directions below is a commitment. Each needs its own evidence, governance review, and recorded decision before any work starts. [Established] (v0.1 D-020) They are written down so good ideas aren't lost, and so none of them quietly widens the scope: a seed bank, not a field. [Proposed]
 
-In January 2025, VSU created new research centers, among them a Geospatial and GIS Research and Services Center. [Established] ([Chapter 3](03-social-network.md)) A student who wants to learn GIS still has to know where to look; finding the person who knows, across the whole university, is the research discovery below, a later direction and not part of the first build. [Proposed] (D-022)
+In January 2025, VSU created new research centers, among them a Geospatial and GIS Research and Services Center. [Established] ([Chapter 2](02-social-network.md)) A student who wants to learn GIS still has to know where to look; finding the person who knows, across the whole university, is the research discovery below, a later direction and not part of the first build. [Proposed] (D-022)
 
 | Direction | What it would do | Why it waits |
 | --- | --- | --- |
@@ -15,7 +15,7 @@ In January 2025, VSU created new research centers, among them a Geospatial and G
 
 The learning record and high-school-to-college bridging wait for a later revision of this document. [Unresolved]
 
-The digital twin was listed here until 9 October 2026, when it moved out, keeping the same conditions; it now has its own chapter. [Established] ([Chapter 4](04-digital-twin.md); D-077; D-081)
+The digital twin was listed here until 9 October 2026, when it moved out, keeping the same conditions; it now has its own chapter. [Established] ([Chapter 3](03-digital-twin.md); D-077; D-081)
 
 Pathways, v0.1's education-to-career dimension, is not on the current list. It stays parked in the archive unless a decision revives it (v0.1 §7.4; D-022).
 

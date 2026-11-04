@@ -2,7 +2,7 @@
 
 *Members, places, knowledge, and rules: a design to test before it is built*
 
-This chapter turns the principles of [Chapter 3](03-social-network.md) into a working design: who can join, how the network is organized, who can see what, how questions find the people who know, how knowledge is kept and when it fades, how helpers are recognized, how notices, trade, and pseudonymous speech work, how the network is governed, and what runs underneath. Every part is a proposal for field research and a pilot to test, and the first version would include only what the evidence calls for. [Proposed]
+This chapter turns the principles of [Chapter 2](02-social-network.md) into a working design: who can join, how the network is organized, who can see what, how questions find the people who know, how knowledge is kept and when it fades, how helpers are recognized, how notices, trade, and pseudonymous speech work, how the network is governed, and what runs underneath. Every part is a proposal for field research and a pilot to test, and the first version would include only what the evidence calls for. [Proposed]
 
 By the author's observation, the same questions fill VSU's community groups on Facebook every semester: what a scholarship still needs, whether a subject still has slots, whether classes are really suspended, who found a lost ID, which boarding house has a bed, where to print, and once, a photo of an injured dog, posted in the hope that a veterinary student would see it. [Unresolved] (P-03, P-10) Each goes to whoever happens to be in the group and is asked again a semester later, while the people who could answer, from the office responsible to the Faculty of Veterinary Medicine, may never see it. [Unresolved] (P-10; E-057)
 
@@ -75,9 +75,9 @@ No VSU role gives authority in a place by default. A faculty member is not a pla
 
 ## Places: the network shaped like VSU
 
-A place is the network's unit: anywhere VSU's people gather around something real at VSU, whether an office, a department, an organization, a subject, a dormitory, a building, or an interest its members share. Each has stewards who look after it for a term, a membership rule, and its own boards. Places exist because the thing they serve exists, not because someone started a chat: the scholarships place exists because scholarships do, and it outlives every student who joins it. [Established] (D-062, D-144) VSU's 2025 case, in which a lost-and-found group's creator said he had been removed and the only visible administrator appeared to be a dummy account, shows what happens when a community belongs to whoever controls it. [Established] (E-023; [Chapter 3](03-social-network.md))
+A place is the network's unit: anywhere VSU's people gather around something real at VSU, whether an office, a department, an organization, a subject, a dormitory, a building, or an interest its members share. Each has stewards who look after it for a term, a membership rule, and its own boards. Places exist because the thing they serve exists, not because someone started a chat: the scholarships place exists because scholarships do, and it outlives every student who joins it. [Established] (D-062, D-144) VSU's 2025 case, in which a lost-and-found group's creator said he had been removed and the only visible administrator appeared to be a dummy account, shows what happens when a community belongs to whoever controls it. [Established] (E-023; [Chapter 2](02-social-network.md))
 
-Places are the P in CAMPUS, and the word is meant literally where it can be: a physical place on the network, such as a building or the VSU Market, is the same place on the digital twin's map ([Chapter 4](04-digital-twin.md)), with its location attached. [Proposed] (D-144) Many of VSU's organizations have no office of their own, so a place on the network may be the only home that outlasts their officers. [Proposed]
+Places are the P in CAMPUS, and the word is meant literally where it can be: a physical place on the network, such as a building or the VSU Market, is the same place on the digital twin's map ([Chapter 3](03-digital-twin.md)), with its location attached. [Proposed] (D-144) Many of VSU's organizations have no office of their own, so a place on the network may be the only home that outlasts their officers. [Proposed]
 
 | Kind of place | Examples at VSU | Stewards | Who joins | Who posts notices |
 | --- | --- | --- | --- | --- |
@@ -91,7 +91,7 @@ Places are the P in CAMPUS, and the word is meant literally where it can be: a p
 | Building or landmark | The VSU Market, the library, a faculty's building | The office that manages it | Anyone | The managing office |
 | Large event | An event that recurs every year, such as the intramurals | The office or council that organizes it | Anyone | The organizers |
 | Interest | A crop, coastal research, GIS, photography | The members who start it | Anyone | Its stewards |
-| Marketplace, a later module | Books, uniforms, gadgets, dormitory items, in the marketplace module ([Chapter 3.5](03e-marketplace.md)) | The network's moderators | Verified members | Moderators |
+| Marketplace, a later module | Books, uniforms, gadgets, dormitory items, in the marketplace module ([Chapter 2.5](02e-marketplace.md)) | The network's moderators | Verified members | Moderators |
 | Concerns | Problems with services or facilities | The student council and OVPSAS, jointly | Students | The council |
 | Hometown, later | Students from the same province or town | The members who start it | Anyone from there | Its stewards |
 
@@ -281,9 +281,9 @@ An event is an entity, not a post that scrolls away. It has a time, a place, org
 
 ## Student services, and the link to the marketplace
 
-The marketplace is a later module of the network, not part of its first version. [Established] (D-098) Its design, including who may sell, what may be sold, and how trust is earned, is in [Chapter 3.5](03e-marketplace.md). The network links to it from the places where trading comes up, such as a dormitory or a subject's book exchange, and shares its verified membership and moderators with it. [Proposed]
+The marketplace is a later module of the network, not part of its first version. [Established] (D-098) Its design, including who may sell, what may be sold, and how trust is earned, is in [Chapter 2.5](02e-marketplace.md). The network links to it from the places where trading comes up, such as a dormitory or a subject's book exchange, and shares its verified membership and moderators with it. [Proposed]
 
-- **Services, later.** Tutoring, printing, layout, and photography listings, reviewed only by confirmed clients, with deliveries handed to Hop-It ([Chapter 3.7](03g-hop-it.md)). [Proposed]
+- **Services, later.** Tutoring, printing, layout, and photography listings, reviewed only by confirmed clients, with deliveries handed to Hop-It ([Chapter 2.7](02g-hop-it.md)). [Proposed]
 
 ## Pseudonymous sections
 
@@ -320,8 +320,8 @@ Three rules sit around it. [Proposed]
 | What problem? | P-23: concerns don't add up, and students can't see what became of one raised before [Unresolved] |
 | Who needs it? | Students first; the student council, which carries concerns to offices; and offices, which answer once instead of many times [Proposed] |
 | What evidence? | None from VSU yet. [Unresolved] The survey's question on hearing back about a raised concern, and its question on what students want back, test it. [Established] (D-117, D-132) |
-| Relation to existing systems? | VSU runs a helpdesk and publishes a Citizen's Charter of its services; personal requests stay with them and with the offices. [Established] (E-004; D-064; [Chapter 3](03-social-network.md)) Whether VSU has a channel for collective concerns, and how the council carries concerns to offices today, is not recorded here. [Unresolved] |
-| Stage? | Later, with student voice ([Chapter 3.1](03a-use-cases.md)); it depends on the speech rules (Q-16) and an office's commitment (D-068) [Proposed] |
+| Relation to existing systems? | VSU runs a helpdesk and publishes a Citizen's Charter of its services; personal requests stay with them and with the offices. [Established] (E-004; D-064; [Chapter 2](02-social-network.md)) Whether VSU has a channel for collective concerns, and how the council carries concerns to offices today, is not recorded here. [Unresolved] |
+| Stage? | Later, with student voice ([Chapter 2.1](02a-use-cases.md)); it depends on the speech rules (Q-16) and an office's commitment (D-068) [Proposed] |
 | Privacy, governance, and cost? | Pseudonyms under D-065, and supporters never shown; the council's time each week, and an office's time to acknowledge and answer [Proposed] |
 | How could it be disproved? | Few respondents report never hearing back about a concern they raised (D-132); or, in a pilot, offices don't acknowledge within the agreed time, or students keep reposting instead of following the record [Proposed] |
 
@@ -382,7 +382,7 @@ The network grows outward in steps, each with its own verification and its own g
 
 1. **College students, faculty, and staff** of the Main Campus, through VSU accounts. The first pilot stops here, with college students aged 18 and over (D-069).
 2. **Alumni.** VSU accounts can be revoked at graduation, so graduates need a separate path, such as verification against VSU's graduation records, with an alumni role. [Proposed] (Q-45) Alumni would then mentor, answer career questions, and keep helping in the places they knew, which serves the Strategic Plan's goal of Strong Alumni Engagement. [Proposed]
-3. **Applicants and their parents.** A public "Ask VSU" section, where they can ask about programs, admission, and student life and be answered by verified students, alumni, and offices, extends the use case of a window for aspiring students ([Chapter 3.1](03a-use-cases.md)). [Proposed] Parents of first-generation students, who could not ask anyone at home with a college degree, may gain the most. [Proposed] Applicants may be minors, so the section would allow public questions and answers only, with no private messages to them. [Proposed]
+3. **Applicants and their parents.** A public "Ask VSU" section, where they can ask about programs, admission, and student life and be answered by verified students, alumni, and offices, extends the use case of a window for aspiring students ([Chapter 2.1](02a-use-cases.md)). [Proposed] Parents of first-generation students, who could not ask anyone at home with a college degree, may gain the most. [Proposed] Applicants may be minors, so the section would allow public questions and answers only, with no private messages to them. [Proposed]
 
 Out of scope are minors from outside VSU and the general public. [Proposed] A knowledge exchange open to every level of education, from elementary pupils to professionals, is a different product with different safety duties, and it falls outside CAMPUS (D-021). [Proposed] If the idea belongs anywhere, it is closer to the Education Protocol Concept, which [Chapter 6](06-later-directions.md) records as a separate project. [Proposed]
 
@@ -390,11 +390,13 @@ Out of scope are minors from outside VSU and the general public. [Proposed] A kn
 
 - **An installable web app first.** Android accounted for about 87% of mobile web page views in the Philippines in September 2026, and iPhones have received push notifications from web apps added to the home screen since iOS 16.4 in 2023. [Established] (StatCounter, September 2026; WebKit, 16 February 2023) One web app can therefore reach almost every phone without app store approval. [Proposed]
 - **Text first.** Compressed images, no autoplay video, and only what changed fetched at each sync, so daily use costs little mobile data. [Proposed] How little is for a pilot to measure. [Unresolved]
-- **Readable offline.** Notices, guides, and saved events stay on the phone, the device ring of [Chapter 2](02-intranet.md). [Proposed] (D-034)
+- **Readable offline.** Notices, guides, and saved events stay on the phone, the device ring of [Chapter 4](04-intranet.md). [Proposed] (D-034)
 - **Languages.** Members write in any language. The interface would start in English and Filipino and add Cebuano and Waray if the survey shows people want them. [Proposed] (Q-41) VSU's own barangay, Pangasugan, is among the few places where a further language, Baybayanon, is spoken. [Established] (Baybay language, n.d.)
 - **Accessibility.** Scalable text, enough contrast, and support for screen readers, aiming at the Web Content Accessibility Guidelines, in line with the services for students with special needs that CHED lists among student affairs services. [Proposed]
 
 ## What runs underneath
+
+The ring numbers on the right are the four rings of [Chapter 4](04-intranet.md), from the device (Ring 1) to the internet (Ring 4).
 
 ```text svg=network-underneath
 Phones and laptops: installable web app, offline copies          Ring 1
@@ -415,7 +417,7 @@ and announcements; WAIS                       document tracker, VSUEE,
 - **Sign-in.** For a pilot, members can prove membership with a one-time code sent to their VSU email address, which needs no integration with VSU's systems. Single sign-on through OpenID Connect with VSU's Google accounts, limited to the vsu.edu.ph domain, or with VSU's own identity system, would come later with VSU ICT's agreement. [Proposed] (Q-06)
 - **Official feeds.** VSU's website already publishes RSS feeds of its news and its announcements. [Established] (E-024; VSU, n.d.-d) The network could carry them into the university's official place with their source shown, and could show WAIS advisories, which WAIS already generates as JSON, if VSU's disaster risk management office agrees. [Proposed] (Q-40)
 - **Sync.** The channel model's tiers: official notices within about a minute, other boards on a slower cycle, and archives only when opened. [Established] (D-034)
-- **Build.** Two paths are open. One composes open-source parts, such as a forum engine like Discourse and, if needed, a Matrix server, behind a thin VSU layer for roles, places, labels, states, and routing. The other builds the network from scratch on the stack Hop-It's PRD names. [Proposed] (Q-33) The first is faster and better tested; the second fits the labels, states, and routing more closely and shows more of what the project can build. Either way, everything runs in containers VSU could host later, with no dependence on one cloud's proprietary services ([Chapter 2](02-intranet.md)). [Proposed]
+- **Build.** Two paths are open. One composes open-source parts, such as a forum engine like Discourse and, if needed, a Matrix server, behind a thin VSU layer for roles, places, labels, states, and routing. The other builds the network from scratch on the stack Hop-It's PRD names. [Proposed] (Q-33) The first is faster and better tested; the second fits the labels, states, and routing more closely and shows more of what the project can build. Either way, everything runs in containers VSU could host later, with no dependence on one cloud's proprietary services ([Chapter 4](04-intranet.md)). [Proposed]
 - **Security.** Encrypted connections and storage, a log of every moderator and administrator action, regular backups, and a breach process run with VSU's data protection officer. [Proposed] VSU's own privacy training in 2021 put the guiding rule simply: don't collect what you can't protect. [Established] (VSU, 24 February 2021)
 
 ## Scenes

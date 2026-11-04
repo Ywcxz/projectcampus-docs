@@ -4,7 +4,7 @@
 
 The largest risk is that the problems are smaller than assumed. The second is that one person cannot carry a proposal this broad. Stopping or narrowing a direction is a valid outcome, not a failure. [Established] ([Chapter 8](08-evidence.md))
 
-Under VSU's guidelines, collegiate classes are suspended automatically when Signal No. 3 is raised, and typhoon suspensions are announced by 4:30 a.m. [Established] ([Chapter 3.2](03b-network-design.md); E-025) No one debates it during the storm: the decision was made before it, and everyone knows what follows. [Proposed] CAMPUS sets its stop conditions the same way, in advance, each with the action it triggers. [Proposed] It has already stopped one thing: its first housing site was retired. [Established] (D-028)
+Under VSU's guidelines, collegiate classes are suspended automatically when Signal No. 3 is raised, and typhoon suspensions are announced by 4:30 a.m. [Established] ([Chapter 2.2](02b-network-design.md); E-025) No one debates it during the storm: the decision was made before it, and everyone knows what follows. [Proposed] CAMPUS sets its stop conditions the same way, in advance, each with the action it triggers. [Proposed] It has already stopped one thing: its first housing site was retired. [Established] (D-028)
 
 | Risk | Applies to | What reduces it | Signal to narrow or stop |
 | --- | --- | --- | --- |

@@ -2,7 +2,7 @@
 
 *A bench test the author can run alone, and a campus test VSU ICT could run later*
 
-Every claim about what the campus ring would do is a hypothesis until something measures it. [Established] ([Overview](00-overview.md)) Some of it can only be measured on VSU's own network, which needs VSU ICT's agreement. [Established] ([Chapter 2](02-intranet.md)) The mechanisms themselves can be tested on a bench, by the author alone, with the author's own equipment, synthetic data, and no VSU systems or people: whether services keep working when the uplink is cut, whether one copy can serve many, and whether phones catch up after an outage without knocking the service over. [Proposed] (D-088)
+Every claim about what the campus ring would do is a hypothesis until something measures it. [Established] ([Overview](00-overview.md)) Some of it can only be measured on VSU's own network, which needs VSU ICT's agreement. [Established] ([Chapter 4](04-intranet.md)) The mechanisms themselves can be tested on a bench, by the author alone, with the author's own equipment, synthetic data, and no VSU systems or people: whether services keep working when the uplink is cut, whether one copy can serve many, and whether phones catch up after an outage without knocking the service over. [Proposed] (D-088)
 
 Typhoon Haiyan ran the first of these tests for real in 2013: it cut VSU's outside link, destroying the internet leased line and about 90% of the fiber backbone, and a new backbone was finished only in 2017. [Established] (E-009)
 
@@ -15,7 +15,7 @@ Typhoon Haiyan ran the first of these tests for real in 2013: it cut VSU's outsi
 | What does it test? | Whether the campus ring's mechanisms work: island mode, one copy serving many, notice delivery, posting while offline, catching up after an outage, data use, and running on battery. [Proposed] |
 | What does it need? | A small server, a Wi-Fi access point, a few phones, and scripts that act like hundreds of phones, all the author's own, with synthetic content only. Nothing from VSU. [Proposed] (D-014) |
 | What can it show? | That the design works in a lab, with numbers: requests, bytes, seconds, megabytes, and hours. [Proposed] |
-| What can't it show? | VSU's traffic, Wi-Fi capacity in VSU's crowded rooms, how often VSU's links fail, or whether people would use any of it. Those need Stage 0's measurements with VSU ICT and the field research of Chapter 8. [Established] ([Chapter 2](02-intranet.md); [Chapter 8](08-evidence.md)) |
+| What can't it show? | VSU's traffic, Wi-Fi capacity in VSU's crowded rooms, how often VSU's links fail, or whether people would use any of it. Those need Stage 0's measurements with VSU ICT and the field research of Chapter 8. [Established] ([Chapter 4](04-intranet.md); [Chapter 8](08-evidence.md)) |
 | When? | After the concept note goes to OVPSAS, so it never delays the survey; when exactly is the owner's call. [Proposed] (D-088) |
 | How could it fail? | A mechanism the design depends on fails even in a lab, which would narrow the direction before anyone at VSU is asked for anything. [Proposed] |
 
@@ -37,7 +37,7 @@ Real phones (a few) ─────────┤
        standing in for services hosted off campus
 ```
 
-The server runs open components of the kind Hop-It's PRD names, in containers VSU could host later: Docker, PostgreSQL, and FastAPI, with an ordinary web cache in front. [Proposed] The uplink can be switched on, slowed to imitate a congested link, or cut. [Proposed] The scripted phones run on a computer on the same network, so they test the servers, the cache, and the sync, not the radio; how Wi-Fi copes with a crowded room is for the campus test and [Chapter 2.2](02b-campus-network.md). [Proposed] The content is synthetic: notices, files, and discussions written for the test, never VSU's data. [Established] (D-014)
+The server runs open components of the kind Hop-It's PRD names, in containers VSU could host later: Docker, PostgreSQL, and FastAPI, with an ordinary web cache in front. [Proposed] The uplink can be switched on, slowed to imitate a congested link, or cut. [Proposed] The scripted phones run on a computer on the same network, so they test the servers, the cache, and the sync, not the radio; how Wi-Fi copes with a crowded room is for the campus test and [Chapter 4.2](04b-campus-network.md). [Proposed] The content is synthetic: notices, files, and discussions written for the test, never VSU's data. [Established] (D-014)
 
 ## The tests
 
@@ -53,7 +53,7 @@ Each test's measure and pass mark would be fixed before it runs, as the survey's
 | 6. Data per day | A scripted day of campus use: notices, discussion, and a few files | Megabytes per phone per day, against the same content loaded as ordinary web pages | A measurement, not a pass mark |
 | 7. Battery | The server and the access point run on a battery pack | Hours of service | A measurement, set beside the four hours for which VSU's solar backup can keep its internet services running (E-043) |
 
-Every row is a proposal. [Proposed] Test 2 checks request collapsing, which HTTP's caching standard allows (E-046); test 1 checks that the cache can keep serving its last copy when the origin is unreachable, as RFC 5861 allows; test 4 checks the phone's outbox, which local-first software depends on (Kleppmann et al., 2019); and test 5 checks the order and the random delays of [Chapter 2.1](02a-emergencies.md). [Proposed] Test 6 puts a number on the network's "text first" promise ([Chapter 3.2](03b-network-design.md)), which the survey's answers on spending (Q-28) can then be set against. [Proposed]
+Every row is a proposal. [Proposed] Test 2 checks request collapsing, which HTTP's caching standard allows (E-046); test 1 checks that the cache can keep serving its last copy when the origin is unreachable, as RFC 5861 allows; test 4 checks the phone's outbox, which local-first software depends on (Kleppmann et al., 2019); and test 5 checks the order and the random delays of [Chapter 4.1](04a-emergencies.md). [Proposed] Test 6 puts a number on the network's "text first" promise ([Chapter 2.2](02b-network-design.md)), which the survey's answers on spending (Q-28) can then be set against. [Proposed]
 
 Each test can also be shown as a scene on the interactive site: the uplink cut at ten in the morning on a class day, a suspension announced by 4:30 a.m. and read by thousands, a report written in a dormitory with no signal, and the morning the link comes back after a typhoon. [Proposed]
 
@@ -62,7 +62,7 @@ Each test can also be shown as a scene on the interactive site: the uplink cut a
 - If tests 1 to 5 pass, the mechanisms hold in a lab, and the question moves to whether VSU's traffic and outages justify them, which is Stage 0's measurement with VSU ICT. [Proposed]
 - If test 1 fails because sign-in, name lookups, or certificates need the internet, the design solves that before anything else. [Proposed]
 - If test 2 or test 5 fails, the cache or the sync design changes before anything is built on it. [Proposed]
-- If test 6 shows that a day of campus use costs little data, the case for light use from afar ([Chapter 2](02-intranet.md)) gains a number; if it costs a lot, that case narrows. [Proposed]
+- If test 6 shows that a day of campus use costs little data, the case for light use from afar ([Chapter 4](04-intranet.md)) gains a number; if it costs a lot, that case narrows. [Proposed]
 
 ## Publishing the results
 
