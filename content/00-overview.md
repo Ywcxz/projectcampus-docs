@@ -17,6 +17,26 @@ By the author's observation, when a student asks about a scholarship, a grade, o
 
 ## The structure
 
+```text svg=campus-structure
+CAMPUS ──complements──► VSU's systems and DIGITS
+a student-first digital     how CAMPUS relates to DIGITS
+layer over the physical     is VSU's to decide
+university
+   │
+   ├──proposes──► Social/academic network   the one product;
+   │                 │                      its first place is the first build
+   │                 ├──► Later modules     marketplace · Housing · Hop-It's
+   │                 │                      delivery, each waiting for its
+   │                 │                      own evidence
+   │                 └──► Campus intranet   long-term infrastructure,
+   │                                        a direction only
+   ├──► Digital twin       research only; its first step, places and
+   │                       an office guide, proposed
+   └──► Later directions   not commitments
+```
+
+[Established] (D-017; D-079; D-081; D-098; D-178; D-183)
+
 | Part | What it is | Status |
 | --- | --- | --- |
 | [CAMPUS](01-campus.md) | The umbrella vision: a digital layer over the physical university | Proposed |
