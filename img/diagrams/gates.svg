@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 455" role="img" aria-labelledby="dg-gates-title dg-gates-desc" font-family="IBM Plex Sans, sans-serif">
+  <title id="dg-gates-title">The gates, in order</title>
+  <desc id="dg-gates-desc">Six gates passed in order. Problem: is the problem real and meaningful at VSU? Value: does the product do the job better than what people use now? Feasibility: can it be built and run within acceptable complexity? Institutional fit: can it coexist with VSU's systems and governance? User value in a pilot: do real users keep using it for real tasks? Expansion: is there evidence from users, technology, the institution, and governance all at once? Any gate can end in proceed, narrow, redefine, or stop.</desc>
+  <defs>
+    <marker id="dg-gates-arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path class="dg-arrow" d="M0,0 L10,5 L0,10 z" fill="#8B9083"/>
+    </marker>
+  </defs>
+  <g class="dg-edge" fill="none" stroke="#8B9083" stroke-width="1.4">
+    <path d="M110,60 V78" marker-end="url(#dg-gates-arrow)"/>
+    <path d="M110,120 V138" marker-end="url(#dg-gates-arrow)"/>
+    <path d="M110,180 V198" marker-end="url(#dg-gates-arrow)"/>
+    <path d="M110,240 V258" marker-end="url(#dg-gates-arrow)"/>
+    <path d="M110,300 V318" marker-end="url(#dg-gates-arrow)"/>
+  </g>
+  <g class="dg-node" fill="#EAEAE0" stroke="#C3BEA9" stroke-width="1.2">
+    <rect x="20" y="20" width="660" height="40" rx="6"/>
+    <rect x="20" y="80" width="660" height="40" rx="6"/>
+    <rect x="20" y="140" width="660" height="40" rx="6"/>
+    <rect x="20" y="200" width="660" height="40" rx="6"/>
+    <rect x="20" y="260" width="660" height="40" rx="6"/>
+    <rect x="20" y="320" width="660" height="55" rx="6"/>
+  </g>
+  <g class="dg-node dg-tint" fill="#E2E2D3" stroke="#C3BEA9" stroke-width="1.2">
+    <rect x="20" y="395" width="660" height="40" rx="6" stroke-dasharray="5 4"/>
+  </g>
+  <g class="dg-title" font-size="14" font-weight="600" fill="#1F2A22">
+    <text x="36" y="45">1. Problem</text>
+    <text x="36" y="105">2. Value</text>
+    <text x="36" y="165">3. Feasibility</text>
+    <text x="36" y="225">4. Institutional fit</text>
+    <text x="36" y="285">5. User value in a pilot</text>
+    <text x="36" y="345">6. Expansion</text>
+    <text x="350" y="420" text-anchor="middle">Any gate can end in: proceed · narrow · redefine · stop</text>
+  </g>
+  <g class="dg-sub" font-size="11.5" fill="#52594C">
+    <text x="230" y="45">Is the problem real and meaningful at VSU?</text>
+    <text x="230" y="105">Does the product do the job better than what people use now?</text>
+    <text x="230" y="165">Can it be built and run within acceptable complexity?</text>
+    <text x="230" y="225">Can it coexist with VSU's systems and governance?</text>
+    <text x="230" y="285">Do real users keep using it for real tasks?</text>
+    <text x="230" y="345">Is there evidence from users, technology, the institution,</text>
+    <text x="230" y="360">and governance all at once?</text>
+  </g>
+</svg>

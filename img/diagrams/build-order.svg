@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 495" role="img" aria-labelledby="dg-build-order-title dg-build-order-desc" font-family="IBM Plex Sans, sans-serif">
+  <title id="dg-build-order-title">What gets made, in order</title>
+  <desc id="dg-build-order-desc">From the master document, the reference for everything after it, come four things: the network's first place with its receptionist, the concept note, the interactive site, built now with placeholders, and the student survey site, built and kept closed. One learning simulation follows once the first place exists. The first place, the concept note, and the interactive site go to OVPSAS in person, with two separate asks: permission for the survey and the interviews, and interest in CAMPUS. Field research follows, using the survey site once permission is granted, and then the pitch, with findings in place of placeholders.</desc>
+  <defs>
+    <marker id="dg-build-order-arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path class="dg-arrow" d="M0,0 L10,5 L0,10 z" fill="#8B9083"/>
+    </marker>
+  </defs>
+  <g class="dg-edge" fill="none" stroke="#8B9083" stroke-width="1.4">
+    <path d="M97,75 V103" marker-end="url(#dg-build-order-arrow)"/>
+    <path d="M265,75 V103" marker-end="url(#dg-build-order-arrow)"/>
+    <path d="M433,75 V103" marker-end="url(#dg-build-order-arrow)"/>
+    <path d="M601,75 V103" marker-end="url(#dg-build-order-arrow)"/>
+    <path d="M265,177 V213" marker-end="url(#dg-build-order-arrow)"/>
+    <path d="M433,177 V213" marker-end="url(#dg-build-order-arrow)"/>
+    <path d="M97,177 V250 H186" marker-end="url(#dg-build-order-arrow)"/>
+    <path d="M97,250 V318" marker-end="url(#dg-build-order-arrow)"/>
+    <path d="M356,285 V318" marker-end="url(#dg-build-order-arrow)"/>
+    <path d="M601,177 V347 H526" marker-end="url(#dg-build-order-arrow)"/>
+    <path d="M356,375 V403" marker-end="url(#dg-build-order-arrow)"/>
+  </g>
+  <g class="dg-node" fill="#EAEAE0" stroke="#C3BEA9" stroke-width="1.2">
+    <rect x="20" y="20" width="660" height="55" rx="6"/>
+  </g>
+  <g class="dg-node dg-key" fill="#D5E6D3" stroke="#17643A" stroke-width="1.4">
+    <rect x="20" y="105" width="155" height="72" rx="6"/>
+  </g>
+  <g class="dg-node" fill="#EAEAE0" stroke="#C3BEA9" stroke-width="1.2">
+    <rect x="188" y="105" width="155" height="72" rx="6"/>
+    <rect x="356" y="105" width="155" height="72" rx="6"/>
+    <rect x="524" y="105" width="155" height="72" rx="6"/>
+    <rect x="188" y="215" width="336" height="70" rx="6"/>
+    <rect x="20" y="320" width="155" height="58" rx="6"/>
+    <rect x="188" y="320" width="336" height="55" rx="6"/>
+    <rect x="188" y="405" width="336" height="70" rx="6"/>
+  </g>
+  <g class="dg-title" font-size="14" font-weight="600" fill="#1F2A22">
+    <text x="350" y="45" text-anchor="middle">Master document</text>
+    <text x="97.5" y="129.5" text-anchor="middle">The network's</text>
+    <text x="97.5" y="147.5" text-anchor="middle">first place</text>
+    <text x="265.5" y="138.5" text-anchor="middle">Concept note</text>
+    <text x="433.5" y="131" text-anchor="middle">Interactive site</text>
+    <text x="601.5" y="138.5" text-anchor="middle">Student survey site</text>
+    <text x="356" y="240" text-anchor="middle">OVPSAS, in person</text>
+    <text x="97.5" y="345" text-anchor="middle">One learning</text>
+    <text x="97.5" y="363" text-anchor="middle">simulation</text>
+    <text x="356" y="345" text-anchor="middle">Field research</text>
+    <text x="356" y="430" text-anchor="middle">The pitch, with findings</text>
+  </g>
+  <g class="dg-sub" font-size="11.5" fill="#52594C">
+    <text x="350" y="60" text-anchor="middle">the reference for everything after it</text>
+    <text x="97.5" y="162.5" text-anchor="middle">with its receptionist</text>
+    <text x="265.5" y="153.5" text-anchor="middle">printed, with a PDF</text>
+    <text x="433.5" y="146" text-anchor="middle">built now,</text>
+    <text x="433.5" y="161" text-anchor="middle">with placeholders</text>
+    <text x="601.5" y="153.5" text-anchor="middle">built, and kept closed</text>
+    <text x="356" y="255" text-anchor="middle">two separate asks: permission for the survey</text>
+    <text x="356" y="270" text-anchor="middle">and interviews, and interest in CAMPUS</text>
+    <text x="356" y="360" text-anchor="middle">survey · interviews · office workflows · Facebook study</text>
+    <text x="356" y="445" text-anchor="middle">the interactive site again, with findings</text>
+    <text x="356" y="460" text-anchor="middle">in place of placeholders</text>
+  </g>
+</svg>

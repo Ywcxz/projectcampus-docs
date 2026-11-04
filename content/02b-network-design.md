@@ -215,6 +215,18 @@ VSU already lists its graduate faculty by department, with each one's specializa
 
 The network remembers knowledge and lets conversation fade. [Established] (D-070)
 
+```text svg=knowledge-life
+a post
+  ├──► Knowledge     confirmed answers · guides · official notices
+  │                  · event records
+  │                  kept as the network's memory, with its state shown:
+  │                  current · updated · superseded · archived
+  └──► Conversation  discussion · unconfirmed answers · comments
+                     archived after a set period, then deleted
+```
+
+[Established] (D-063; D-070)
+
 | Kind | Examples | How long it is kept | Can its author remove their name? |
 | --- | --- | --- | --- |
 | Knowledge | Confirmed answers, guides, official notices, event records | As the network's memory, for as long as it is useful, with its state shown | Yes; the post stays, credited to the author's role, such as a 2026 graduate of the Faculty of Engineering |

@@ -59,12 +59,22 @@ The work runs in five streams: problem and user research, institutional systems 
 
 The network and each of its later modules pass these gates in order, and any gate can end in proceed, narrow, redefine, or stop. [Proposed] (adapted from v0.1 §11)
 
-1. **Problem.** Is the problem real and meaningful at VSU?
-2. **Value.** Does the product do the job better than what people use now?
-3. **Feasibility.** Can it be built and run within acceptable complexity?
-4. **Institutional fit.** Can it coexist with VSU's systems and governance?
-5. **User value in a pilot.** Do real users keep using it for real tasks?
-6. **Expansion.** Is there evidence from users, technology, the institution, and governance all at once?
+```text svg=gates
+1. Problem                  Is the problem real and meaningful at VSU?
+   ▼
+2. Value                    Does the product do the job better than
+   ▼                        what people use now?
+3. Feasibility              Can it be built and run within acceptable
+   ▼                        complexity?
+4. Institutional fit        Can it coexist with VSU's systems and
+   ▼                        governance?
+5. User value in a pilot    Do real users keep using it for real tasks?
+   ▼
+6. Expansion                Is there evidence from users, technology,
+                            the institution, and governance all at once?
+
+Any gate can end in: proceed · narrow · redefine · stop
+```
 
 ## Protecting the people who take part
 
