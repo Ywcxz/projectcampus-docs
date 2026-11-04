@@ -21,7 +21,7 @@ Typhoon Haiyan ran the first of these tests for real in 2013: it cut VSU's outsi
 
 ## The bench
 
-```text
+```text svg=ring-bench
 Scripted phones (hundreds) ──┐
 Real phones (a few) ─────────┤
                      Wi-Fi access point

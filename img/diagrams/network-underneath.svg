@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 385" role="img" aria-labelledby="dg-network-underneath-title dg-network-underneath-desc" font-family="IBM Plex Sans, sans-serif">
+  <title id="dg-network-underneath-title">What runs underneath</title>
+  <desc id="dg-network-underneath-desc">Phones and laptops, in Ring 1, run an installable web app with offline copies. They connect to the server, in the cloud for a pilot (Ring 4) and on campus if VSU chooses (later Ring 2). The server handles sign-in with VSU accounts, roles, places and boards; posts, labels, and states, routing by topic, and search; notifications, the retention schedule, moderation, and the audit log; a chat server, only if a pilot calls for it; and later modules, each on its own evidence: the marketplace, Housing, and Hop-It. The server reads VSU's public feeds, with permission (website news and announcements, and WAIS), and links into VSU systems: the helpdesk, the document tracker, VSUEE, and my.VSU.</desc>
+  <defs>
+    <marker id="dg-network-underneath-arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path class="dg-arrow" d="M0,0 L10,5 L0,10 z" fill="#8B9083"/>
+    </marker>
+  </defs>
+  <g class="dg-edge" fill="none" stroke="#8B9083" stroke-width="1.4">
+    <path d="M110,75 V105"/>
+    <path d="M145,240 V300"/>
+    <path d="M415,240 V300"/>
+  </g>
+  <g class="dg-node" fill="#EAEAE0" stroke="#C3BEA9" stroke-width="1.2">
+    <rect x="20" y="20" width="520" height="55" rx="6"/>
+  </g>
+  <g class="dg-node dg-key" fill="#D5E6D3" stroke="#17643A" stroke-width="1.4">
+    <rect x="20" y="105" width="520" height="135" rx="6"/>
+  </g>
+  <g class="dg-node" fill="#EAEAE0" stroke="#C3BEA9" stroke-width="1.2">
+    <rect x="20" y="300" width="250" height="70" rx="6"/>
+    <rect x="290" y="300" width="250" height="70" rx="6"/>
+  </g>
+  <g class="dg-node dg-tint" fill="#E2E2D3" stroke="#C3BEA9" stroke-width="1.2">
+    <rect x="560" y="35" width="120" height="24" rx="6"/>
+    <rect x="560" y="140" width="120" height="40" rx="6"/>
+  </g>
+  <g class="dg-label" font-size="11.5" font-style="italic" fill="#52594C">
+    <text x="153" y="274">reads, with permission</text>
+    <text x="423" y="274">links into</text>
+  </g>
+  <g class="dg-title" font-size="14" font-weight="600" fill="#1F2A22">
+    <text x="36" y="45">Phones and laptops</text>
+    <text x="36" y="130">Server</text>
+    <text x="36" y="325">VSU's public feeds</text>
+    <text x="306" y="325">VSU systems</text>
+  </g>
+  <g class="dg-sub" font-size="11.5" fill="#52594C">
+    <text x="36" y="60">installable web app, offline copies</text>
+    <text x="36" y="145">in the cloud for a pilot, on campus if VSU chooses</text>
+    <text x="36" y="165">sign-in with VSU accounts · roles · places and boards</text>
+    <text x="36" y="180">posts, labels, and states · routing by topic · search</text>
+    <text x="36" y="195">notifications · retention schedule · moderation and audit log</text>
+    <text x="36" y="210">chat server, only if a pilot calls for it</text>
+    <text x="36" y="225">later modules, each on its own evidence: marketplace, Housing, Hop-It</text>
+    <text x="36" y="340">website news and announcements;</text>
+    <text x="36" y="355">WAIS</text>
+    <text x="306" y="340">helpdesk, document tracker,</text>
+    <text x="306" y="355">VSUEE, my.VSU</text>
+    <text x="620" y="52" text-anchor="middle">Ring 1</text>
+    <text x="620" y="157.5" text-anchor="middle">Ring 4,</text>
+    <text x="620" y="172.5" text-anchor="middle">later Ring 2</text>
+  </g>
+</svg>

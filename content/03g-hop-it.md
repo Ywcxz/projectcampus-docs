@@ -28,7 +28,7 @@ The name comes from the Bisaya *hapit*, as in *magpahapit ko sa tindahan*: askin
 
 For comparable completed orders, scheduled bundled delivery will reduce distance, rider time, and operational cost per order compared with individual delivery, without breaking agreed guardrails on lateness, cancellations, failures, or participant acceptability. [Proposed] The PRD labels this a hypothesis to measure, never to assume.
 
-```text
+```text svg=hopit-hypothesis
 scheduled flexibility → compatible demand → human-confirmed bundle
 → shared delivery run → lower effort per completed order
 → service outcomes checked against guardrails
@@ -75,7 +75,7 @@ Settled since the PRD: sign-in uses a username and password (D-091), and the fir
 
 ## Road to a decision
 
-```text
+```text svg=hopit-road
 PRD → runnable Alpha slices → synthetic rehearsal → individual baseline
 → controlled bundled cohort → evidence report → iterate, expand, or stop
 ```

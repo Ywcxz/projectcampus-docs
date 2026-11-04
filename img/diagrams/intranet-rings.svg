@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 323" role="img" aria-labelledby="dg-intranet-rings-title dg-intranet-rings-desc" font-family="IBM Plex Sans, sans-serif">
+  <title id="dg-intranet-rings-title">Four rings</title>
+  <desc id="dg-intranet-rings-desc">Four nested rings. Ring 4, the outermost, is the internet: outside sites and platforms, and anyone outside reaching VSU through a gateway. Inside it, Ring 3 is VSU-wide: the other VSU campuses and offices on VSU's network, and a research network if VSU joins one. Inside that, Ring 2 is the campus: VSU's servers, fiber, and Wi-Fi, where campus-made data lives. At the center, Ring 1 is the device: what each phone or laptop keeps, so the latest notices open with no connection.</desc>
+  <defs>
+    <marker id="dg-intranet-rings-arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path class="dg-arrow" d="M0,0 L10,5 L0,10 z" fill="#8B9083"/>
+    </marker>
+  </defs>
+  <g class="dg-node" fill="#EAEAE0" stroke="#C3BEA9" stroke-width="1.2">
+    <rect x="20" y="20" width="660" height="283" rx="6"/>
+  </g>
+  <g class="dg-node dg-tint" fill="#E2E2D3" stroke="#C3BEA9" stroke-width="1.2">
+    <rect x="40" y="75" width="620" height="212" rx="6"/>
+  </g>
+  <g class="dg-node" fill="#EAEAE0" stroke="#C3BEA9" stroke-width="1.2">
+    <rect x="60" y="145" width="580" height="126" rx="6"/>
+  </g>
+  <g class="dg-node dg-tint" fill="#E2E2D3" stroke="#C3BEA9" stroke-width="1.2">
+    <rect x="80" y="200" width="540" height="55" rx="6"/>
+  </g>
+  <g class="dg-title" font-size="14" font-weight="600" fill="#1F2A22">
+    <text x="36" y="44">Ring 4 · Internet</text>
+    <text x="56" y="99">Ring 3 · VSU-wide</text>
+    <text x="76" y="169">Ring 2 · Campus</text>
+    <text x="96" y="224">Ring 1 · Device</text>
+  </g>
+  <g class="dg-sub" font-size="11.5" fill="#52594C">
+    <text x="180" y="44">outside sites and platforms, and anyone</text>
+    <text x="180" y="59">outside reaching VSU through a gateway</text>
+    <text x="200" y="99">the other VSU campuses and offices on</text>
+    <text x="200" y="114">VSU's network, and a research network</text>
+    <text x="200" y="129">if VSU joins one</text>
+    <text x="220" y="169">VSU's servers, fiber, and Wi-Fi;</text>
+    <text x="220" y="184">campus-made data lives here</text>
+    <text x="240" y="224">what each phone or laptop keeps, so the</text>
+    <text x="240" y="239">latest notices open with no connection</text>
+  </g>
+</svg>

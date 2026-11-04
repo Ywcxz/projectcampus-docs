@@ -550,6 +550,7 @@ button { font-family: var(--font-body); cursor: pointer; background: none; borde
 .diagram-art { overflow-x: auto; -webkit-overflow-scrolling: touch; }
 .diagram-art svg { width: 100%; min-width: 560px; height: auto; }
 .diagram .dg-node rect { fill: var(--paper-2); stroke: var(--rule-2); }
+.diagram .dg-tint rect { fill: var(--paper-3); stroke: var(--rule-2); }
 .diagram .dg-key rect { fill: var(--green-bg); stroke: var(--green); }
 .diagram .dg-title text { fill: var(--ink); font-family: var(--font-body); }
 .diagram .dg-sub text { fill: var(--ink-2); font-family: var(--font-body); }

@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 440" role="img" aria-labelledby="dg-network-function-title dg-network-function-desc" font-family="IBM Plex Sans, sans-serif">
+  <title id="dg-network-function-title">How it would function</title>
+  <desc id="dg-network-function-desc">VSU's systems of record (my.VSU, VSUEE, the helpdesk, the document tracker, WAIS, website news and announcements, and OneVSU, which is planned) sit above the network. The network links and hands off to them, and receives official feeds from them, with permission. The network: places shaped like VSU, each looked after by stewards; boards for notices, questions, guides, events, and discussion; questions routed to helpers and to the office responsible; knowledge labelled, dated, and kept, while conversation fades. Below it, members (students, faculty, staff, offices, and organizations) join as verified members with roles, and the network sends share cards into group chats.</desc>
+  <defs>
+    <marker id="dg-network-function-arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path class="dg-arrow" d="M0,0 L10,5 L0,10 z" fill="#8B9083"/>
+    </marker>
+  </defs>
+  <g class="dg-edge" fill="none" stroke="#8B9083" stroke-width="1.4">
+    <path d="M230,170 V92" marker-end="url(#dg-network-function-arrow)"/>
+    <path d="M470,90 V168" marker-end="url(#dg-network-function-arrow)"/>
+    <path d="M200,350 V272" marker-end="url(#dg-network-function-arrow)"/>
+    <path d="M530,270 V348" marker-end="url(#dg-network-function-arrow)"/>
+  </g>
+  <g class="dg-node" fill="#EAEAE0" stroke="#C3BEA9" stroke-width="1.2">
+    <rect x="130" y="20" width="440" height="70" rx="6"/>
+  </g>
+  <g class="dg-node dg-key" fill="#D5E6D3" stroke="#17643A" stroke-width="1.4">
+    <rect x="60" y="170" width="580" height="100" rx="6"/>
+  </g>
+  <g class="dg-node" fill="#EAEAE0" stroke="#C3BEA9" stroke-width="1.2">
+    <rect x="60" y="350" width="280" height="70" rx="6"/>
+    <rect x="420" y="350" width="220" height="70" rx="6"/>
+  </g>
+  <g class="dg-label" font-size="11.5" font-style="italic" fill="#52594C">
+    <text x="222" y="134" text-anchor="end">links and hand-offs</text>
+    <text x="478" y="134">official feeds, with permission</text>
+    <text x="192" y="315" text-anchor="end">verified members with roles</text>
+    <text x="538" y="315">share cards</text>
+  </g>
+  <g class="dg-title" font-size="14" font-weight="600" fill="#1F2A22">
+    <text x="350" y="45" text-anchor="middle">VSU's systems of record</text>
+    <text x="350" y="195" text-anchor="middle">The network</text>
+    <text x="200" y="375" text-anchor="middle">Members</text>
+    <text x="530" y="390" text-anchor="middle">Group chats</text>
+  </g>
+  <g class="dg-sub" font-size="11.5" fill="#52594C">
+    <text x="350" y="60" text-anchor="middle">my.VSU · VSUEE · helpdesk · document tracker · WAIS</text>
+    <text x="350" y="75" text-anchor="middle">website news and announcements · OneVSU (planned)</text>
+    <text x="350" y="210" text-anchor="middle">places shaped like VSU, each looked after by stewards</text>
+    <text x="350" y="225" text-anchor="middle">boards: notices · questions · guides · events · discussion</text>
+    <text x="350" y="240" text-anchor="middle">questions routed to helpers and to the office responsible</text>
+    <text x="350" y="255" text-anchor="middle">knowledge labelled, dated, and kept; conversation fades</text>
+    <text x="200" y="390" text-anchor="middle">students · faculty · staff · offices</text>
+    <text x="200" y="405" text-anchor="middle">organizations</text>
+  </g>
+</svg>
