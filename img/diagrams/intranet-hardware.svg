@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 515" role="img" aria-labelledby="dg-intranet-hardware-title dg-intranet-hardware-desc" font-family="IBM Plex Sans, sans-serif">
+  <title id="dg-intranet-hardware-title">How the hardware would be structured</title>
+  <desc id="dg-intranet-hardware-desc">From top to bottom. Ring 1: phones, laptops, and sensors connect over Wi-Fi with university sign-in to access points on PoE+ switches in each building, which connect by fiber to building switches. Ring 2: building switches join core switches over a fiber backbone, then the data center, with a server cluster, storage, and backup, and campus services: names, sign-in, caches, library, chat, campus systems, and CAMPUS apps. Ring 3: firewalls and a gateway, connected to the other VSU campuses. Ring 4: two or more internet providers on separate routes.</desc>
+  <defs>
+    <marker id="dg-intranet-hardware-arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path class="dg-arrow" d="M0,0 L10,5 L0,10 z" fill="#8B9083"/>
+    </marker>
+  </defs>
+  <g class="dg-edge" fill="none" stroke="#8B9083" stroke-width="1.4">
+    <path d="M110,60 V100"/>
+    <path d="M110,140 V180"/>
+    <path d="M200,200 H400"/>
+    <path d="M110,220 V260"/>
+    <path d="M110,335 V375"/>
+    <path d="M240,395 H400"/>
+    <path d="M110,415 V455"/>
+  </g>
+  <g class="dg-node" fill="#EAEAE0" stroke="#C3BEA9" stroke-width="1.2">
+    <rect x="20" y="20" width="560" height="40" rx="6"/>
+    <rect x="20" y="100" width="560" height="40" rx="6"/>
+    <rect x="20" y="180" width="180" height="40" rx="6"/>
+    <rect x="400" y="180" width="180" height="40" rx="6"/>
+    <rect x="20" y="260" width="560" height="75" rx="6"/>
+    <rect x="20" y="375" width="220" height="40" rx="6"/>
+    <rect x="400" y="375" width="180" height="40" rx="6"/>
+    <rect x="20" y="455" width="560" height="40" rx="6"/>
+  </g>
+  <g class="dg-node dg-tint" fill="#E2E2D3" stroke="#C3BEA9" stroke-width="1.2">
+    <rect x="600" y="28" width="80" height="24" rx="6"/>
+    <rect x="600" y="188" width="80" height="24" rx="6"/>
+    <rect x="600" y="383" width="80" height="24" rx="6"/>
+    <rect x="600" y="463" width="80" height="24" rx="6"/>
+  </g>
+  <g class="dg-label" font-size="11.5" font-style="italic" fill="#52594C">
+    <text x="118" y="84">Wi-Fi with university sign-in</text>
+    <text x="118" y="164">fiber</text>
+    <text x="300" y="194" text-anchor="middle">fiber backbone</text>
+  </g>
+  <g class="dg-title" font-size="14" font-weight="600" fill="#1F2A22">
+    <text x="36" y="45">Phones, laptops, sensors</text>
+    <text x="36" y="125">Access points on PoE+ switches in each building</text>
+    <text x="36" y="205">Building switches</text>
+    <text x="416" y="205">Core switches</text>
+    <text x="36" y="285">Data center</text>
+    <text x="36" y="305">Campus services</text>
+    <text x="36" y="400">Firewalls and gateway</text>
+    <text x="416" y="400">Other VSU campuses</text>
+    <text x="36" y="480">Two or more internet providers on separate routes</text>
+  </g>
+  <g class="dg-sub" font-size="11.5" fill="#52594C">
+    <text x="180" y="285">server cluster · storage · backup</text>
+    <text x="180" y="305">names · sign-in · caches · library</text>
+    <text x="180" y="320">chat · campus systems · CAMPUS apps</text>
+    <text x="640" y="45" text-anchor="middle">Ring 1</text>
+    <text x="640" y="205" text-anchor="middle">Ring 2</text>
+    <text x="640" y="400" text-anchor="middle">Ring 3</text>
+    <text x="640" y="480" text-anchor="middle">Ring 4</text>
+  </g>
+</svg>

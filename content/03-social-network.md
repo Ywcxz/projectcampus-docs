@@ -210,7 +210,7 @@ VSU's own principles point the same way. In January 2025 VSU set out its guiding
 
 ## How it would function
 
-```text
+```text svg=network-function
                   VSU's systems of record
      my.VSU · VSUEE · helpdesk · document tracker · WAIS
      website news and announcements · OneVSU (planned)

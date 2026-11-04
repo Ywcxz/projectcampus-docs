@@ -55,7 +55,7 @@ Condensed from v0.1's architectural invariants (v0.1 §6.18):
 
 ## Conceptual layers
 
-```text
+```text svg=campus-layers
 Experience        discussions · groups · chat · services · search · places
 Relational layer  people, organizations, places, and knowledge, and the links
                   between them, with time, provenance, and permissions

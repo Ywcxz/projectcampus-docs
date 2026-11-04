@@ -190,7 +190,7 @@ The patterns come from Stack Exchange's accepted answers and Piazza's instructor
 
 Most social platforms broadcast: a question goes to everyone in a group, and whoever happens to be online answers. The network routes. [Established] (D-071)
 
-```text
+```text svg=network-routing
 a member writes a question
   ──► answers that already exist are shown first ──► found: done
   ──► the asker picks a topic and whom to ask:
@@ -396,7 +396,7 @@ Out of scope are minors from outside VSU and the general public. [Proposed] A kn
 
 ## What runs underneath
 
-```text
+```text svg=network-underneath
 Phones and laptops: installable web app, offline copies          Ring 1
       │
 Server: in the cloud for a pilot, on campus if VSU chooses       Ring 4, later Ring 2

@@ -40,7 +40,7 @@ In software research, local-first means that the primary copy of a person's data
 
 ### Four rings
 
-```text
+```text svg=intranet-rings
 Ring 4  Internet    outside sites and platforms, and anyone
                     outside reaching VSU through a gateway
 Ring 3  VSU-wide    the other VSU campuses and offices on
@@ -225,7 +225,7 @@ VSU's STRIDES framework and its continuity planning are where such measures woul
 
 VSU's land runs from the shore of the Camotes Sea to the top of Mt. Pangasugan, 1,099.4 hectares in all, but its campus grounds cover 61.6 hectares, and its 188 buildings include 21 student dormitories and 17 academic buildings. [Established] (VSU, n.d.) Wireless coverage follows people, so planning starts from buildings and gathering places rather than from the land area or a few tall towers. [Proposed]
 
-```text
+```text svg=intranet-hardware
 Phones, laptops, sensors                             Ring 1
       │  Wi-Fi with university sign-in
 Access points on PoE+ switches in each building
