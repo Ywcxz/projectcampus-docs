@@ -2,9 +2,9 @@
 
 *How people would connect, where the network strains, and what changes for VSU's systems*
 
-> **At VSU.** In 2023, VSU's free Wi-Fi reached 1,772 students in 25 dormitories and cottages with no data cap or time limit, and close to 98% of the Main Campus was on the VSU Unifi network. [Established] (E-010; VSU, 30 May 2023) Coverage is not capacity, though: a classroom in the morning, the VSU Market at noon, and the gym during the intramurals each need room for a crowd that moves. [Proposed] Like jeepney seats at rush hour, there can be enough in the town and still too few on the route everyone takes at once. [Proposed] Whether students in academic buildings during class hours are served as well as those in the dormitories is a question only VSU ICT's measurements can answer. [Unresolved] (P-19)
-
 The intranet direction rests on two practical questions: whether people can actually connect wherever they are on campus, and what happens to the systems VSU already runs. This chapter takes both from public sources. The real answers sit with VSU ICT, which runs the network. [Established] (VSU, 30 May 2023)
+
+A classroom in the morning, the VSU Market at noon, and the gym during the intramurals each hold a crowd for an hour or two, then empty as it moves on. [Proposed] Like jeepney seats at rush hour, a network can have room enough across the town and still too little on the route everyone takes at once. [Proposed]
 
 ## How campus Wi-Fi serves people today
 

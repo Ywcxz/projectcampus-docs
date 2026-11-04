@@ -2,9 +2,9 @@
 
 *A digital layer over the physical university*
 
-> **At VSU.** VSU's land runs from the shore of the Camotes Sea to the top of Mt. Pangasugan, 1,099.4 hectares in all; its campus grounds cover 61.6 hectares, with 188 buildings, among them 21 student dormitories. [Established] ([Chapter 2](02-intranet.md)) It has its own market, its own power plant, and its own disaster risk management office. [Established] ([Chapter 2.2](02b-campus-network.md); E-042; [Chapter 3.2](03b-network-design.md)) In that sense VSU is a small town: physically one place, while digitally each piece lives in a different office, website, or group chat. [Proposed] CAMPUS proposes a layer that connects those pieces for the students who need them, and keeps with each connection who said it, with what authority, and who may see it. [Proposed]
-
 CAMPUS proposes a persistent digital layer over VSU that connects people, organizations, knowledge, places, services, and opportunities, and keeps the context of each connection: who said it, with what authority, and who may see it. [Proposed] Everything else in this document, from the social/academic network to Hop-It, sits under this umbrella.
+
+VSU's land runs from the shore of the Camotes Sea to the top of Mt. Pangasugan, 1,099.4 hectares in all; its campus grounds cover 61.6 hectares, with 188 buildings, among them 21 student dormitories. [Established] ([Chapter 2](02-intranet.md)) It has its own market, its own power plant, and its own disaster risk management office. [Established] ([Chapter 2.2](02b-campus-network.md); E-042; [Chapter 3.2](03b-network-design.md)) In that sense VSU is a small town: physically one place, while digitally each piece lives in a different office, website, or group chat. [Proposed]
 
 ## A layer, not a replacement
 

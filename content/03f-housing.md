@@ -2,9 +2,9 @@
 
 *Verified listings for boarding houses and rentals near campus*
 
-> **At VSU.** By the author's observation, a boarding house near campus with a free bed often says so with a sign on its gate, and the sign comes down when the bed fills. [Unresolved] A post in a group does not: listings stay up after the room is taken, and students can't easily compare vacancy, price, house rules, or safety. [Unresolved] (P-22) CAMPUS's own first housing site was retired. [Established] (D-028) Housing would bring back what the sign does well: a listing that shows whether the bed is still free and when someone last confirmed it. [Proposed]
-
 Housing lists boarding houses and rentals near the Main Campus for students who live off campus. University dormitories are not part of it: they stay with VSU's own housing information and the network's dormitory places. [Established] (D-098) An earlier housing site was retired, and that decision stands; this entry returns to the same need as a later module of the network. [Established] (D-028, D-098)
+
+By the author's observation, a boarding house near campus with a free bed often says so with a sign on its gate, and the sign comes down when the bed fills. [Unresolved] A post in a group does not: listings stay up after the room is taken, and students can't easily compare vacancy, price, house rules, or safety. [Unresolved] (P-22) Housing would bring back what the sign does well: a listing that shows whether the bed is still free and when someone last confirmed it. [Proposed]
 
 ## At a glance
 

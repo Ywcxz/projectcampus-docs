@@ -2,9 +2,9 @@
 
 *Existing systems in the Philippines and abroad, and how CAMPUS must differ*
 
-> **At VSU.** Even Facebook tried: Facebook Campus, a section of Facebook for college students only, covered 204 schools before Meta closed it in March 2022, saying Groups served students best. [Established] (E-006) Closer to home, a VSU student has built an unofficial campus map that describes building search, facility details, events, and walking directions. [Established] (E-052) Together they suggest that a campus service wins by being useful every day, not by being campus-only, and that CAMPUS should build beside work like that student's, not over it. [Proposed] This chapter reviews what VSU, Philippine universities, and others already run, and how CAMPUS must differ. [Proposed]
-
 This is the first pass of the review, made in October 2026 from public sources: VSU's own pages, the President's Third State of the University Address, news reports, vendor material, and research papers. [Established] (D-021) It covers VSU's own systems, what VSU people already use, Philippine universities, international precedents, campus delivery, local-first infrastructure, and, lightly, campus digital twins. Nothing here replaces field research or systems discovery with VSU ICT. [Established] (D-004; [Chapter 8](08-evidence.md))
+
+Even Facebook tried: Facebook Campus, a section of Facebook for college students only, covered 204 schools before Meta closed it in March 2022, saying Groups served students best. [Established] (E-006) Closer to home, a VSU student has built an unofficial campus map that describes building search, facility details, events, and walking directions. [Established] (E-052) CAMPUS should build beside work like that student's, not over it. [Proposed]
 
 > **In short.** VSU already runs or has announced much of the official side of the network: document tracking, a helpdesk, staff chat, weather advisories, and a single OneVSU entry point. Outside precedents suggest campus networks win on daily usefulness and verified membership, fail when campus-only access is the only draw, and break down when anonymity has no limits. No system found here offers the network's narrower claim: a community space governed with VSU, where offices can confirm peer answers and students, faculty, and staff talk under rules suited to each role. [Proposed]
 

@@ -2,9 +2,9 @@
 
 *Who said it, who may see it, and who decides*
 
-> **At VSU.** In 2021, VSU's own privacy training put its guiding rule in one line: don't collect what you can't protect. [Established] (VSU, 24 February 2021) CAMPUS starts from that rule. Every piece of information carries a label saying what kind it is, and who may see a connection is decided apart from whether it exists: your adviser knows your grades, but that doesn't put them on the bulletin board. [Proposed] (D-063; D-005) The 2025 case of a VSU community group that no one answerable ran shows what is at stake when no one decides. [Established] (E-023)
-
 A campus network raises trust problems before technical ones. CAMPUS labels every piece of information by type, decides who may see a connection separately from whether it exists, and treats governance as part of the design. [Proposed] Communities have governed shared resources this way for centuries: among the commons Elinor Ostrom found to last are the zanjeras, irrigation communities in the Philippines whose farmers share water under rules they make and enforce themselves. [Established] (Ostrom, 1990) A campus network is that kind of shared resource, and [Chapter 3.2](03b-network-design.md) designs its governance from the same principles. [Proposed]
+
+In 2021, VSU's own privacy training put its guiding rule in one line: don't collect what you can't protect. [Established] (VSU, 24 February 2021) Four years later, a VSU community group whose administrators no one could clearly identify carried a false and damaging accusation posted with a student's name and photograph. [Established] ([Chapter 3](03-social-network.md); E-023) Both bear on this chapter: what a network should keep, and who answers for it when something goes wrong. [Proposed]
 
 ## Six types of information
 
@@ -21,7 +21,7 @@ The types must be distinguishable in the data and, where it matters, on screen. 
 
 ## Connected does not mean public
 
-A relationship can exist while only authorized people see it, only some details show, or only totals appear. Combining harmless facts can also reveal sensitive ones, such as a class schedule plus a dorm, so visibility is decided for combinations as well as single facts. [Proposed] (v0.1 §15.13)
+Your adviser knows your grades, but that doesn't put them on the bulletin board. [Proposed] A relationship can exist while only authorized people see it, only some details show, or only totals appear. Combining harmless facts can also reveal sensitive ones, such as a class schedule plus a dorm, so visibility is decided for combinations as well as single facts. [Proposed] (v0.1 §15.13)
 
 ## Privacy by design
 
