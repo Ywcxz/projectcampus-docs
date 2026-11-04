@@ -44,7 +44,7 @@ What to call it is open: "social/academic network" is a working name, to be revi
 
 Each kind of system is built to make something grow. Facebook grows attention, a group chat carries the conversation of the moment, VSUEE delivers courses, and the helpdesk resolves tickets. The network would be built to move knowledge between people and keep it where the next person can find it. [Proposed]
 
-The closest idea in the research on shared resources is a commons: a resource a community uses under rules that the community helps make and enforce. Elinor Ostrom's study of commons that lasted for generations found they shared a handful of design principles, from clear boundaries to rules members can change and sanctions that rise step by step. [Established] (Ostrom, 1990) A campus network is that kind of resource, and [Chapter 3.2](03b-network-design.md) uses the principles to design its governance. [Proposed]
+The closest idea in the research on shared resources is a commons: a resource a community uses under rules that the community helps make and enforce. Elinor Ostrom's study of commons that lasted for generations found they shared a handful of design principles, from clear boundaries to rules members can change and sanctions that rise step by step. [Established] (Ostrom, 1990) A campus network is that kind of resource, and [Chapter 2.2](02b-network-design.md) uses the principles to design its governance. [Proposed]
 
 ### Three jobs, and the memory that keeps them
 
@@ -54,7 +54,7 @@ The vision covers any purpose students, faculty, and staff have, but a first ver
 2. **Answers people can trust.** Office replies are marked official, other answers carry a name and a role, and an office can confirm the right one, so a wrong answer has an owner. [Proposed] (D-063)
 3. **Talking across roles.** Students, faculty, and staff reach each other in one place, under rules suited to each role. [Proposed]
 
-What makes the three worth more than a group chat is memory. In a chat, a good answer is buried within days and the next batch asks again; on the network, each answer, guide, and notice stays findable, dated, and marked when it goes out of date, so each batch starts where the last one ended. [Proposed] (D-070) Each job is a hypothesis for field research before it becomes a feature. Chapter 3.1 widens the list to 29 candidate use cases. [Established] ([Chapter 3.1](03a-use-cases.md))
+What makes the three worth more than a group chat is memory. In a chat, a good answer is buried within days and the next batch asks again; on the network, each answer, guide, and notice stays findable, dated, and marked when it goes out of date, so each batch starts where the last one ended. [Proposed] (D-070) Each job is a hypothesis for field research before it becomes a feature. Chapter 2.1 widens the list to 29 candidate use cases. [Established] ([Chapter 2.1](02a-use-cases.md))
 
 ## Why VSU needs it
 
@@ -87,7 +87,7 @@ Organizations face the same loss. VSU's list of accredited organizations for 202
 
 ### No shared place across roles
 
-VSU staff have an office chat system, Output Messenger, listed for employees only, and VSU's public list of services shows no equivalent for students. [Established] ([Chapter 10](10-related-work.md)) VSUEE can carry messages and forums inside courses, where its settings allow. [Established] ([Chapter 3.3](03c-network-fit.md)) Outside a course, a student who wants to reach a faculty member they don't have, an adviser, or an office may have nothing but visits, email, the helpdesk, and Facebook. [Unresolved]
+VSU staff have an office chat system, Output Messenger, listed for employees only, and VSU's public list of services shows no equivalent for students. [Established] ([Chapter 10](10-related-work.md)) VSUEE can carry messages and forums inside courses, where its settings allow. [Established] ([Chapter 2.3](02c-network-fit.md)) Outside a course, a student who wants to reach a faculty member they don't have, an adviser, or an office may have nothing but visits, email, the helpdesk, and Facebook. [Unresolved]
 
 ### What is not known
 
@@ -114,14 +114,14 @@ If the evidence holds, the network's benefits would reach different people in di
 | Who | What the network would give them | VSU aim it serves |
 | --- | --- | --- |
 | Students | One place to ask, find, and act, with answers marked by who gave them, notices that can be checked, and organizations and trade among real VSU members | The Third SOUA's aim that students feel comfortable asking for help |
-| First-year and first-generation students | Answers seniors already gave, guides checked against official sources, and a way into the right office before they know which one it is | Information and orientation services ([Chapter 3.4](03d-network-proposal.md)) |
+| First-year and first-generation students | Answers seniors already gave, guides checked against official sources, and a way into the right office before they know which one it is | Information and orientation services ([Chapter 2.4](02d-network-proposal.md)) |
 | Seniors | Answering a question once instead of every year, with their answers still helping after they graduate | Student development services |
 | Offices, OVPSAS first | A way to answer a common question once, in public, to see what students keep asking, and to reach the students a notice concerns | Client-Centered Governance; the Citizen's Charter |
 | Faculty | Consultation requests students can make outside class, under clear norms about hours, and students who share their interests | World-Class Education |
 | Organizations and councils | Communities that outlast their officers, with members, events, documents, and handover | Student development services |
 | Administration | A standing, answerable channel for student voice that feeds the planned listening sessions, and counts of what students ask about by topic, never anyone's private messages | The Third SOUA's planned listening sessions |
-| VSU ICT | A service built from open components VSU could host, following the campus-first direction | [Chapter 2](02-intranet.md) |
-| Crisis Management Committee | Advisories, labelled official, reaching people who already open the network every day | [Chapter 2.1](02a-emergencies.md) |
+| VSU ICT | A service built from open components VSU could host, following the campus-first direction | [Chapter 4](04-intranet.md) |
+| Crisis Management Committee | Advisories, labelled official, reaching people who already open the network every day | [Chapter 4.1](04a-emergencies.md) |
 | Alumni, later | A way to keep helping and mentoring students after their VSU accounts end at graduation | Strong Alumni Engagement |
 
 What it would not do matters as much. It would not replace VSUEE, the portal, the helpdesk, or the document tracker; it would not speak for VSU, which only offices do; it would not score or rank its members; and it would not give the administration private messages or the identities behind pseudonymous posts outside a defined process. [Established] (D-064, D-065, D-072)
@@ -191,7 +191,7 @@ One lesson reverses. Campus launched in the United States as young people were l
 
 ## How it would be designed for VSU
 
-[Chapter 3.2](03b-network-design.md) sets out the design in full. Ten principles shape it, each a proposal. [Proposed]
+[Chapter 2.2](02b-network-design.md) sets out the design in full. Ten principles shape it, each a proposal. [Proposed]
 
 1. **Knowledge moved, not attention held.** No engagement ranking, no hidden scores, no public counts, and a home that ends. Success is counted in questions answered and answers reused. (D-061)
 2. **Places shaped like the university.** Each is tied to a real office, faculty, department, organization, council, service, subject, dormitory, building, or large event, or to an interest its members start; places sit side by side, each with stewards who look after it for a term, and inside each are boards for notices, questions, guides, events, and discussion. (D-062, D-144, refining D-034)
@@ -202,11 +202,11 @@ One lesson reverses. Campus launched in the United States as young people were l
 7. **Hand off, don't duplicate.** VSU's systems keep their work, and group chats keep the talk of the moment; the network links into both. (D-064, D-074)
 8. **Governed as a commons.** Rules written with the community, protecting speech on student welfare and public matters, with moderation kept apart from institutional response, and with notice, reasons, appeal, and sanctions that rise step by step. (D-066)
 9. **Recognition without vanity.** Helping is recognized through confirmed answers and roles a place gives, never through public scores, and knowledge flow is measured for each place, not for each person. (D-072)
-10. **Light on data and phones.** An installable web app, text first, with notices and guides readable offline ([Chapter 2](02-intranet.md)).
+10. **Light on data and phones.** An installable web app, text first, with notices and guides readable offline ([Chapter 4](04-intranet.md)).
 
-Behind all ten is one lesson from networks that institutions have run: a network that becomes one more official channel loses its members, so organizations, councils, and interests need as much room as offices ([Chapter 3.3](03c-network-fit.md)). [Proposed]
+Behind all ten is one lesson from networks that institutions have run: a network that becomes one more official channel loses its members, so organizations, councils, and interests need as much room as offices ([Chapter 2.3](02c-network-fit.md)). [Proposed]
 
-VSU's own principles point the same way. In January 2025 VSU set out its guiding principles as STRIDES: Service, Truth, Resilience, Integrity, Discipline, Excellence, and Social Justice. [Established] (VSU, 16 January 2025) Truth is what the labels and the life of knowledge serve, Integrity what identified participation serves, Service what routing serves, and Social Justice what a free, data-light network serves for students on tight budgets. [Proposed] The same acronym also names VSU's 2026 framework for disasters and emergencies. [Established] ([Chapter 2.1](02a-emergencies.md))
+VSU's own principles point the same way. In January 2025 VSU set out its guiding principles as STRIDES: Service, Truth, Resilience, Integrity, Discipline, Excellence, and Social Justice. [Established] (VSU, 16 January 2025) Truth is what the labels and the life of knowledge serve, Integrity what identified participation serves, Service what routing serves, and Social Justice what a free, data-light network serves for students on tight budgets. [Proposed] The same acronym also names VSU's 2026 framework for disasters and emergencies. [Established] ([Chapter 4.1](04a-emergencies.md))
 
 ## How it would function
 
@@ -227,7 +227,7 @@ VSU's own principles point the same way. In January 2025 VSU set out its guiding
      organizations                             group chats
 ```
 
-Three scenes show the idea; [Chapter 3.2](03b-network-design.md) has more. [Proposed]
+Three scenes show the idea; [Chapter 2.2](02b-network-design.md) has more. [Proposed]
 
 - **A 4:30 a.m. suspension.** A typhoon signal is raised overnight, and under VSU's guidelines a suspension must be announced by 4:30 a.m. [Established] (E-025) On the network, the authorized office posts it once in the university's official place, labelled official. It reaches every member as an urgent notification, the only kind that passes through quiet hours, and its permanent page shows that it is current. Shared into a group chat, it arrives as a card linking back to that page; a later correction updates the same page instead of starting a new rumor; and a post saying the suspension has been extended carries the unverified label until the office says so. [Proposed]
 - **A question every batch asks.** A first-generation student wants to know where a scholarship stipend is claimed. Before her question posts, the network shows the answer a third-year student gave last semester, confirmed by the scholarship office for this academic year, with a note of the one step that changed. She doesn't need to ask, and the student who answered sees, privately, that the answer has now helped someone again. [Proposed]
@@ -235,13 +235,13 @@ Three scenes show the idea; [Chapter 3.2](03b-network-design.md) has more. [Prop
 
 ## How it fits VSU's systems
 
-VSU's systems already hold many of the pieces the network needs: a university Google account for every enrolled student, a learning system with a mobile app, a helpdesk, a document tracker, public feeds of news and announcements, pages listing its graduate faculty's research interests, and an advisory system. [Established] (E-021; E-005; E-004; E-024; E-040; E-026) What none of them offers students is a community space that joins these pieces and that VSU and its students govern. [Proposed] Of seventeen concepts the network depends on, the review in [Chapter 3.3](03c-network-fit.md) finds none fully covered for students by VSU's current systems, thirteen covered in part, three not covered at all, and one unknown. [Proposed] The gap is less a missing system than the connections between existing ones, the community space around them, and a memory that keeps what is learned. [Proposed]
+VSU's systems already hold many of the pieces the network needs: a university Google account for every enrolled student, a learning system with a mobile app, a helpdesk, a document tracker, public feeds of news and announcements, pages listing its graduate faculty's research interests, and an advisory system. [Established] (E-021; E-005; E-004; E-024; E-040; E-026) What none of them offers students is a community space that joins these pieces and that VSU and its students govern. [Proposed] Of seventeen concepts the network depends on, the review in [Chapter 2.3](02c-network-fit.md) finds none fully covered for students by VSU's current systems, thirteen covered in part, three not covered at all, and one unknown. [Proposed] The gap is less a missing system than the connections between existing ones, the community space around them, and a memory that keeps what is learned. [Proposed]
 
-Nothing here moves a VSU system or changes its authority. [Established] (D-004) As v0.1 put it, CAMPUS should know enough to connect the university without owning everything the university knows. [Established] (v0.1 §6.14) [Chapter 3.3](03c-network-fit.md) goes system by system.
+Nothing here moves a VSU system or changes its authority. [Established] (D-004) As v0.1 put it, CAMPUS should know enough to connect the university without owning everything the university knows. [Established] (v0.1 §6.14) [Chapter 2.3](02c-network-fit.md) goes system by system.
 
 ## Similar systems, and where the network differs
 
-Project rule 5 asks, for every precedent, how CAMPUS differs and which VSU need justifies the difference. [Established] (D-021; [Chapter 10](10-related-work.md)) The precedents are reviewed in [Chapter 10](10-related-work.md) and their lessons drawn in [Chapter 3.3](03c-network-fit.md); the pattern is below. [Proposed]
+Project rule 5 asks, for every precedent, how CAMPUS differs and which VSU need justifies the difference. [Established] (D-021; [Chapter 10](10-related-work.md)) The precedents are reviewed in [Chapter 10](10-related-work.md) and their lessons drawn in [Chapter 2.3](02c-network-fit.md); the pattern is below. [Proposed]
 
 | Kind | Examples | What it shows | How the network differs | VSU need behind the difference |
 | --- | --- | --- | --- | --- |
@@ -260,7 +260,7 @@ In one line: campus networks win students with daily usefulness and verified mem
 
 ## Is it feasible?
 
-[Chapter 3.3](03c-network-fit.md) works through each dimension. The judgments below are the author's, from public sources. [Proposed]
+[Chapter 2.3](02c-network-fit.md) works through each dimension. The judgments below are the author's, from public sources. [Proposed]
 
 | Dimension | Judgment | Why | What would change it |
 | --- | --- | --- | --- |
@@ -288,7 +288,7 @@ The prototype on made-up data sits outside these stages: it needs nothing from V
 | 3. Wider pilot | More communities, single sign-on with VSU accounts, and official feeds | VSU ICT, the data protection officer, and more offices | Use falls once the novelty fades, or costs outrun the value |
 | 4. Institutional decision | VSU decides ownership, hosting, staffing, and any relation to DIGITS | An institutional decision (D-029) | VSU declines, and the network remains a research result |
 
-[Chapter 3.4](03d-network-proposal.md) turns these stages into asks, a one-page pilot proposal, and the questions to expect.
+[Chapter 2.4](02d-network-proposal.md) turns these stages into asks, a one-page pilot proposal, and the questions to expect.
 
 ## Later modules
 
@@ -296,9 +296,9 @@ CAMPUS proposes one product, the network, with the campus intranet as its long-t
 
 | Module | Its job | Stage | What it builds on |
 | --- | --- | --- | --- |
-| [Marketplace](03e-marketplace.md) | Buying and selling between verified VSU members | Later [Established] (D-098) | The network's verified membership and moderators [Proposed] |
-| [Housing](03f-housing.md) | Verified listings for boarding houses and rentals near campus | Later [Established] (D-098) | Verified membership; the digital twin's places for distance and routes [Proposed] |
-| [Hop-It](03g-hop-it.md) | Scheduled, pooled delivery on campus | Specified for an Alpha, and kept until it is taken up [Established] (D-027; D-098) | Its own PRD and specification [Established] (D-027) |
+| [Marketplace](02e-marketplace.md) | Buying and selling between verified VSU members | Later [Established] (D-098) | The network's verified membership and moderators [Proposed] |
+| [Housing](02f-housing.md) | Verified listings for boarding houses and rentals near campus | Later [Established] (D-098) | Verified membership; the digital twin's places for distance and routes [Proposed] |
+| [Hop-It](02g-hop-it.md) | Scheduled, pooled delivery on campus | Specified for an Alpha, and kept until it is taken up [Established] (D-027; D-098) | Its own PRD and specification [Established] (D-027) |
 
 What every module shares:
 
@@ -321,7 +321,7 @@ A new idea gets an entry only when it names a problem people at VSU have, the pe
 
 ## Hard questions
 
-- **Why would people move?** Everyone is on Facebook, it costs nothing, and it is familiar. The network wins only by doing a few things clearly better, by being useful before it is social, and by starting dense in one community rather than thin across the campus, as Facebook itself did at Harvard in 2004 ([Chapter 3.3](03c-network-fit.md)). [Proposed]
+- **Why would people move?** Everyone is on Facebook, it costs nothing, and it is familiar. The network wins only by doing a few things clearly better, by being useful before it is social, and by starting dense in one community rather than thin across the campus, as Facebook itself did at Harvard in 2004 ([Chapter 2.3](02c-network-fit.md)). [Proposed]
 - **Accountability or safety to speak?** The direction is set: participation is identified by default, with anonymous or pseudonymous sections allowed. [Established] (D-046) The link between a pseudonym and a member is never opened for criticizing the university, and who holds it is agreed with VSU's data protection officer and the student council before a pilot. [Established] (D-065) Which sections get pseudonyms waits on the Facebook study's H4. [Proposed] (Q-16)
 - **Will offices answer?** The gap between students and the university is partly organizational, so office responsiveness, not software, is the real ask of the pitch. [Unresolved] (Q-17) It now comes first, as stage 1. [Established] (D-068)
 - **Will helpers stay?** Seniors, faculty, and later alumni give the answers, and none of them is paid to. Routing only what each helper chose, capping how many questions reach each person, and letting one answer serve many later askers are the design's answers; whether faculty contributions could count toward their recognized service is a question for VSU. [Unresolved] (Q-47)
@@ -329,17 +329,17 @@ A new idea gets an entry only when it names a problem people at VSU have, the pe
 - **Who is it for?** VSU's college students, faculty, and staff first; then alumni, and later VSU's applicants and their parents. A knowledge exchange open to every level of education and to the public is a different product, outside CAMPUS's scope. [Established] (D-073)
 - **Who gets left out?** A network on phones serves best the students with good phones and data. In a 2022 online survey of 677 Filipino university students, those with more digital capital, meaning the devices and connections they can use and their skill in using them, felt more that they belonged at their university, and students from higher-income families and from cities had more of it. [Established] (E-054) That survey shows a link, not a cause, but it warns that a network built for the best-connected could widen the gap, so the network should work on modest phones and little data. [Proposed] (D-034)
 - **Who moderates, and who owns it?** Moderation needs people, rules, appeals, and an owner, and the network as a whole needs an owner and a budget after a pilot. [Unresolved] (Q-05, Q-42)
-- **Real-time chat?** Chat is the heaviest part to run, and its cost grows with use ([Chapter 3.2](03b-network-design.md)). [Proposed] The network leaves real-time coordination to group chats in its first version and adds chat only if a pilot shows people want it there. [Established] (D-074) What chat would cost then is still open. [Unresolved] (Q-04)
+- **Real-time chat?** Chat is the heaviest part to run, and its cost grows with use ([Chapter 2.2](02b-network-design.md)). [Proposed] The network leaves real-time coordination to group chats in its first version and adds chat only if a pilot shows people want it there. [Established] (D-074) What chat would cost then is still open. [Unresolved] (Q-04)
 - **Minors.** VSU's Integrated High School students hold VSU accounts. [Established] (E-022) Some incoming college students may also be under 18. [Unresolved] The first pilot serves college members aged 18 and over, as the survey does; whether and how younger college students join, with stricter defaults, is agreed with VSU's data protection officer before a wider pilot. [Established] (D-069, D-094)
-- **The law.** Education details are sensitive personal information under the Data Privacy Act, a new system must be registered with the National Privacy Commission, and a host takes on duties under the Safe Spaces Act and the law against online sexual abuse of children. [Established] ([Chapter 3.2](03b-network-design.md); [Chapter 3.3](03c-network-fit.md)) What these require of a VSU-run network needs legal review. [Unresolved] (Q-36)
+- **The law.** Education details are sensitive personal information under the Data Privacy Act, a new system must be registered with the National Privacy Commission, and a host takes on duties under the Safe Spaces Act and the law against online sexual abuse of children. [Established] ([Chapter 2.2](02b-network-design.md); [Chapter 2.3](02c-network-fit.md)) What these require of a VSU-run network needs legal review. [Unresolved] (Q-36)
 - **A university moderating speech.** A state university that removes posts from a forum it runs is not a private company doing the same. The Supreme Court has upheld students' freedom of speech on campus, allowing restrictions on conduct that materially disrupts classes, causes substantial disorder, or invades the rights of others. [Established] (Malabanan v. Ramento, 1984) The network's rules start from that standard, and its moderators never remove a post for criticizing VSU. [Established] (D-066)
 - **One person.** A campus network outlives its builder only if someone keeps caring for it: the University of Brighton's network grew to tens of thousands of users, then declined after years of neglect. [Established] (E-032) A pilot must end with VSU owning the network or with a clean exit. [Proposed]
 
 ## How it grew from v0.1
 
-v0.1 already put a community and knowledge layer (profiles, organization pages, discussions, events) at the foundation of its first build, and it ruled out an unrestricted university social network (v0.1 §7.2). Version 0.2 keeps that limit, since the network is bounded and governed. It adds three things v0.1 did not have: real-time chat, a marketplace, and the explicit aim of replacing Facebook for campus life (D-035). Those three carry most of the moderation and privacy load, so each needs its own evidence. [Established] (D-023) The marketplace then became its own product (D-078), and on 15 October 2026 it became, with Housing and Hop-It's delivery, a later module of the network ([Chapter 3.5](03e-marketplace.md)). [Established] (D-098)
+v0.1 already put a community and knowledge layer (profiles, organization pages, discussions, events) at the foundation of its first build, and it ruled out an unrestricted university social network (v0.1 §7.2). Version 0.2 keeps that limit, since the network is bounded and governed. It adds three things v0.1 did not have: real-time chat, a marketplace, and the explicit aim of replacing Facebook for campus life (D-035). Those three carry most of the moderation and privacy load, so each needs its own evidence. [Established] (D-023) The marketplace then became its own product (D-078), and on 15 October 2026 it became, with Housing and Hop-It's delivery, a later module of the network ([Chapter 2.5](02e-marketplace.md)). [Established] (D-098)
 
-The October 2026 revision of this chapter builds the rest of the proposal around them: why VSU would need it, what it would do for the university, how it differs from social media, how it would work ([Chapter 3.2](03b-network-design.md)), how it fits VSU's systems and whether it is feasible ([Chapter 3.3](03c-network-fit.md)), and how to propose it ([Chapter 3.4](03d-network-proposal.md)). [Established] ([Chapter 3.2](03b-network-design.md); [Chapter 3.3](03c-network-fit.md); [Chapter 3.4](03d-network-proposal.md)) The owner's own brainstorming then sharpened its core around routing and memory, kept moderation apart from institutional response, and set limits on recognition and on who the network serves. [Established] (D-070; D-071; D-072; D-073) These were recorded as proposals D-070 to D-075, with revisions to D-061, D-062, D-063, and D-066, and on 17 October 2026 the owner confirmed all of D-061 to D-075, revising D-065 and D-069. [Established] (D-061; D-075) D-075 also settles how v0.1's relational model carries into the network, the question D-025 left open. [Established] (D-075)
+The October 2026 revision of this chapter builds the rest of the proposal around them: why VSU would need it, what it would do for the university, how it differs from social media, how it would work ([Chapter 2.2](02b-network-design.md)), how it fits VSU's systems and whether it is feasible ([Chapter 2.3](02c-network-fit.md)), and how to propose it ([Chapter 2.4](02d-network-proposal.md)). [Established] ([Chapter 2.2](02b-network-design.md); [Chapter 2.3](02c-network-fit.md); [Chapter 2.4](02d-network-proposal.md)) The owner's own brainstorming then sharpened its core around routing and memory, kept moderation apart from institutional response, and set limits on recognition and on who the network serves. [Established] (D-070; D-071; D-072; D-073) These were recorded as proposals D-070 to D-075, with revisions to D-061, D-062, D-063, and D-066, and on 17 October 2026 the owner confirmed all of D-061 to D-075, revising D-065 and D-069. [Established] (D-061; D-075) D-075 also settles how v0.1's relational model carries into the network, the question D-025 left open. [Established] (D-075)
 
 ## Open questions
 
@@ -373,7 +373,7 @@ The October 2026 revision of this chapter builds the rest of the proposal around
 
 ## Sources
 
-Checked on 8 and 9 October 2026, except Jordan (2019), checked on 16 October 2026; the VSU pages, the European Commission, and Manchester were checked again on 28 October 2026. Each entry starts with the author and date a citation names, and ends with its source type ([Chapter 9](09-governance.md)). Facts already in the [evidence register](08-evidence.md) are cited by their E- number instead. Sources for VSU's systems are listed in [Chapter 3.3](03c-network-fit.md).
+Checked on 8 and 9 October 2026, except Jordan (2019), checked on 16 October 2026; the VSU pages, the European Commission, and Manchester were checked again on 28 October 2026. Each entry starts with the author and date a citation names, and ends with its source type ([Chapter 9](09-governance.md)). Facts already in the [evidence register](08-evidence.md) are cited by their E- number instead. Sources for VSU's systems are listed in [Chapter 2.3](02c-network-fit.md).
 
 - VSU. [All VSU students and staff to get Microsoft and Google licenses](https://www.vsu.edu.ph/articles/news/2394-all-vsu-students-and-staff-to-get-microsoft-google-licenses), 22 August 2023. Official.
 - VSU. [VSU implements new vision, mission, organizational structures](https://www.vsu.edu.ph/articles/news/2666-vsu-implements-new-vision-mission-organizational-structures), 16 January 2025. Official.

@@ -105,12 +105,12 @@ function cellCountSep(line) {
   // column of their own (D-162).
   const CITED_CHAPTERS = chapters.filter((c) => c.slug !== "decisions").map((c) => c.source);
   const COMMON_KNOWLEDGE = [
-    // Chapter 2, approved 28 October 2026
+    // Chapter 4, approved 28 October 2026
     "no internet provider carries that traffic.",
     "each request crosses to the provider's servers and back",
     "Data held under the providers' terms, in their data centers",
     "the campus loses access to it when its link fails",
-    // Chapter 3, approved 28 October 2026: general facts about Facebook
+    // Chapter 2, approved 28 October 2026: general facts about Facebook
     "Meta's standards plus each group's own administrators",
     "Reactions, follower counts, and shares, public by default",
     "Held under Meta's terms, out of VSU's reach",

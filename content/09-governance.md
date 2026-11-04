@@ -2,9 +2,9 @@
 
 *Who said it, who may see it, and who decides*
 
-A campus network raises trust problems before technical ones. CAMPUS labels every piece of information by type, decides who may see a connection separately from whether it exists, and treats governance as part of the design. [Proposed] Communities have governed shared resources this way for centuries: among the commons Elinor Ostrom found to last are the zanjeras, irrigation communities in the Philippines whose farmers share water under rules they make and enforce themselves. [Established] (Ostrom, 1990) A campus network is that kind of shared resource, and [Chapter 3.2](03b-network-design.md) designs its governance from the same principles. [Proposed]
+A campus network raises trust problems before technical ones. CAMPUS labels every piece of information by type, decides who may see a connection separately from whether it exists, and treats governance as part of the design. [Proposed] Communities have governed shared resources this way for centuries: among the commons Elinor Ostrom found to last are the zanjeras, irrigation communities in the Philippines whose farmers share water under rules they make and enforce themselves. [Established] (Ostrom, 1990) A campus network is that kind of shared resource, and [Chapter 2.2](02b-network-design.md) designs its governance from the same principles. [Proposed]
 
-In 2021, VSU's own privacy training put its guiding rule in one line: don't collect what you can't protect. [Established] (VSU, 24 February 2021) Four years later, a VSU community group whose administrators no one could clearly identify carried a false and damaging accusation posted with a student's name and photograph. [Established] ([Chapter 3](03-social-network.md); E-023) Both bear on this chapter: what a network should keep, and who answers for it when something goes wrong. [Proposed]
+In 2021, VSU's own privacy training put its guiding rule in one line: don't collect what you can't protect. [Established] (VSU, 24 February 2021) Four years later, a VSU community group whose administrators no one could clearly identify carried a false and damaging accusation posted with a student's name and photograph. [Established] ([Chapter 2](02-social-network.md); E-023) Both bear on this chapter: what a network should keep, and who answers for it when something goes wrong. [Proposed]
 
 ## Six types of information
 
@@ -46,7 +46,7 @@ Collect only what a feature needs, use it only for that purpose, limit who can a
 - How do reports reach the VSU offices that must act on them, such as the Anti-Sexual Harassment Office?
 - Who may ask for a post's removal on VSU's behalf, and how is that shown to the member?
 
-[Unresolved] [Chapter 3.2](03b-network-design.md) proposes answers, built on D-065 and D-066. [Proposed]
+[Unresolved] [Chapter 2.2](02b-network-design.md) proposes answers, built on D-065 and D-066. [Proposed]
 
 ## Ownership and licensing
 

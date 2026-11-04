@@ -4,7 +4,7 @@
 
 CAMPUS proposes a persistent digital layer over VSU that connects people, organizations, knowledge, places, services, and opportunities, and keeps the context of each connection: who said it, with what authority, and who may see it. [Proposed] Everything else in this document, from the social/academic network to Hop-It, sits under this umbrella.
 
-VSU's land runs from the shore of the Camotes Sea to the top of Mt. Pangasugan, 1,099.4 hectares in all; its campus grounds cover 61.6 hectares, with 188 buildings, among them 21 student dormitories. [Established] ([Chapter 2](02-intranet.md)) It has its own market, its own power plant, and its own disaster risk management office. [Established] ([Chapter 2.2](02b-campus-network.md); E-042; [Chapter 3.2](03b-network-design.md)) In that sense VSU is a small town: physically one place, while digitally each piece lives in a different office, website, or group chat. [Proposed]
+VSU's land runs from the shore of the Camotes Sea to the top of Mt. Pangasugan, 1,099.4 hectares in all; its campus grounds cover 61.6 hectares, with 188 buildings, among them 21 student dormitories. [Established] ([Chapter 4](04-intranet.md)) It has its own market, its own power plant, and its own disaster risk management office. [Established] ([Chapter 4.2](04b-campus-network.md); E-042; [Chapter 2.2](02b-network-design.md)) In that sense VSU is a small town: physically one place, while digitally each piece lives in a different office, website, or group chat. [Proposed]
 
 ## A layer, not a replacement
 
@@ -64,7 +64,7 @@ Integration       VSU systems and outside services, through approved interfaces
 Infrastructure    campus network and servers, cloud, devices, the physical campus
 ```
 
-CAMPUS's parts map onto these layers. The social/academic network is the one product CAMPUS proposes, with the campus intranet as its long-term infrastructure. [Established] (D-098) The network would be the first experience built on the relational layer, with the intranet underneath. [Proposed] The network's later modules, the marketplace, Housing, and Hop-It's delivery ([Chapter 3](03-social-network.md)), would sit in the experience layer and share the relational layer's members and places. [Proposed] The digital twin ([Chapter 4](04-digital-twin.md)) would grow the place part of that layer into a model of the whole campus. [Proposed]
+CAMPUS's parts map onto these layers. The social/academic network is the one product CAMPUS proposes, with the campus intranet as its long-term infrastructure. [Established] (D-098) The network would be the first experience built on the relational layer, with the intranet underneath. [Proposed] The network's later modules, the marketplace, Housing, and Hop-It's delivery ([Chapter 2](02-social-network.md)), would sit in the experience layer and share the relational layer's members and places. [Proposed] The digital twin ([Chapter 3](03-digital-twin.md)) would grow the place part of that layer into a model of the whole campus. [Proposed]
 
 ## What CAMPUS is not
 

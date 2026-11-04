@@ -4,7 +4,7 @@
 
 This chapter asks what the campus ring could do when weather cuts VSU's power and its links to the outside. [Proposed] Like the rest of the intranet direction, it is a proposal for VSU, not a request. [Proposed] (D-060)
 
-Three times in thirteen years, weather has tested VSU's connections. In November 2013, Typhoon Haiyan destroyed the university's internet leased line and about 90% of its fiber backbone ([Chapter 2](02-intranet.md)). In December 2021, five days after Typhoon Odette, power and internet at the Main Campus were only partly restored. In April 2022, after four days of rain from Tropical Storm Agaton, students were trapped on campus, floodwater entered dormitories and academic buildings, and residents from shorelines and critical waterways nearby were evacuated into VSU's academic buildings. [Established] (E-009; E-042; E-015; C-11)
+Three times in thirteen years, weather has tested VSU's connections. In November 2013, Typhoon Haiyan destroyed the university's internet leased line and about 90% of its fiber backbone ([Chapter 4](04-intranet.md)). In December 2021, five days after Typhoon Odette, power and internet at the Main Campus were only partly restored. In April 2022, after four days of rain from Tropical Storm Agaton, students were trapped on campus, floodwater entered dormitories and academic buildings, and residents from shorelines and critical waterways nearby were evacuated into VSU's academic buildings. [Established] (E-009; E-042; E-015; C-11)
 
 > **In short.** In an emergency the campus ring's job narrows to five things: official advisories, where to go, who is safe, how to reach help, and keeping fact apart from rumor. It can do them without the internet if three conditions hold: power at the right buildings, a network open to everyone sheltering there, and services that live on campus and on phones. [Proposed] After Odette, VSU's own staff did parts of this under pressure: generators from VSU's power plant, free Wi-Fi at two places, free charging, and a second provider's line. [Established] (E-042) Emergency mode would plan and power these in advance, the way a fire exit is built, lit, and drilled before the fire, never improvised during it. [Proposed]
 
@@ -76,7 +76,7 @@ When the link comes back, thousands of phones reconnect at once. If each immedia
 4. Discussion and questions.
 5. Background work: search indexes, media, and backups.
 
-The order extends the tiers of D-034, and [Chapter 2.3](02c-ring-tests.md) tests it with hundreds of simulated phones reconnecting at once. [Proposed]
+The order extends the tiers of D-034, and [Chapter 4.3](04c-ring-tests.md) tests it with hundreds of simulated phones reconnecting at once. [Proposed]
 
 ## A campus emergency report, research only
 
@@ -99,7 +99,7 @@ Campus safety apps show the pattern where networks work. At the University at Al
 - **National alerts.** The Free Mobile Disaster Alerts Act of 2014 requires mobile carriers to send free alerts, issued by agencies such as the NDRRMC, PAGASA, and PHIVOLCS, to subscribers in and near affected areas. [Established] (Republic Act No. 10639, 2014) The campus ring would add what national alerts cannot: instructions specific to the campus. [Proposed]
 - **WAIS.** VSU's Weather Advisory and Information System gives localized advisories for the Main Campus and is being upgraded into a multi-hazard dashboard. [Established] (VSU, 9 July 2026; VSU, 18 September 2026) If WAIS is hosted off campus, its advisories would stop reaching the campus when the outside link fails, and a copy on campus would keep them flowing. [Proposed] Where WAIS is hosted is not known. [Unresolved]
 - **The Crisis Management Committee.** It was activated during Agaton. [Established] (VSU, 26 April 2022) Emergency mode would be its tool, switched on and off by it, not by the network's administrators alone. [Proposed]
-- **STRIDES and continuity planning.** Through BOR Resolution No. 30, s. 2026, VSU adopted the Strategic Resilience and Incident Management Framework for Disaster and Emergency Scenarios, the STRIDES Framework, as its institutional framework for disaster preparedness, emergency response, crisis management, and continuity of essential services. It shares its name with VSU's guiding principles ([Chapter 3](03-social-network.md)). VSU also held a public service continuity plan workshop with the Office of Civil Defense in Region VIII in June 2026. [Established] (VSU, 18 September 2026; [Chapter 3](03-social-network.md)) Emergency mode belongs inside that plan, owned by VSU. [Proposed]
+- **STRIDES and continuity planning.** Through BOR Resolution No. 30, s. 2026, VSU adopted the Strategic Resilience and Incident Management Framework for Disaster and Emergency Scenarios, the STRIDES Framework, as its institutional framework for disaster preparedness, emergency response, crisis management, and continuity of essential services. It shares its name with VSU's guiding principles ([Chapter 2](02-social-network.md)). VSU also held a public service continuity plan workshop with the Office of Civil Defense in Region VIII in June 2026. [Established] (VSU, 18 September 2026; [Chapter 2](02-social-network.md)) Emergency mode belongs inside that plan, owned by VSU. [Proposed]
 
 ## Rules for emergency mode
 

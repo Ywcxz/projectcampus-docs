@@ -33,7 +33,7 @@ The site renders a small subset (see `js/main.js`):
 - fenced code blocks for text diagrams, and `---` for a rule
 - a drawn diagram: open the text diagram's fence with ```` ```text svg=name ```` to show `img/diagrams/name.svg` above it, with the text diagram kept beneath as its "Text version". The text is the source: when they differ, the text wins, and the drawing is redrawn to match. The SVG needs `role="img"`, a `title`, and a `desc`, and the render test checks all three (D-188)
 
-Link between chapters by file name, as in `[Hop-It](03g-hop-it.md)`. The site rewrites these to its own pages.
+Link between chapters by file name, as in `[Hop-It](02g-hop-it.md)`. The site rewrites these to its own pages.
 
 ## Claim tags
 
@@ -51,7 +51,7 @@ Put a claim's source in brackets right after its tag, as in `[Established] (D-09
 - An author and year, such as `Ostrom, 1990`, becomes the matching entry in the chapter's `## Sources` list, if one entry names that author and year. Otherwise it is listed as written.
 - Anything else, such as a link, a chapter link, or `v0.1 §15.4`, is listed as written.
 
-A source written before the tag, as in `([Chapter 3](03-social-network.md)). [Established]`, stays in the text and is not numbered.
+A source written before the tag, as in `([Chapter 2](02-social-network.md)). [Established]`, stays in the text and is not numbered.
 
 Every `[Established]` claim cites its source (D-162). The one exception is common knowledge, a general fact about how something works that any standard reference would agree on, once the owner approves it; never anything about VSU, a number, a date, or what someone said or did (D-163). An `[Unresolved]` claim cites its open question and a `[Proposed]` claim its decision where one exists; an author's own proposal needs none.
 
