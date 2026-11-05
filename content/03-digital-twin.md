@@ -30,7 +30,7 @@ The twin's path, step by step
 2  Where to go for what          ─┘  the network's first places
    └─ What is studied here           research only; a labeled mock-up first
 3  VSU's spatial data                if VSU shares it
-4  Status offices already keep       linked where VSU permits
+4  Status offices may keep           linked where VSU permits
 5  Sensors                           deferred
    Then three-dimensional models, simulation, and live dashboards,
    once an office would use them
@@ -41,7 +41,7 @@ The twin's path, step by step
 1. **Places and the way there.** Buildings, rooms, offices, laboratories, dormitories, the VSU Market, gates, and landmarks, with the names people actually use, and walking directions between them with landmarks rather than only a line on a map. Stored on the phone, so it works with weak signal ([Chapter 4](04-intranet.md)). [Proposed] These are the network's first places, not a separate guide: a building or landmark that has a place on the network has its location here, and the twin and the network keep one list of places rather than two ([Chapter 2.2](02b-network-design.md)). [Proposed] (D-144; D-191)
 2. **Where to go for what.** A person starts from a question, such as replacing a lost ID or requesting a transcript, and gets the office, its room and the way there, its hours, what to bring, and the official system to use if there is one, each citing the Citizen's Charter or the office with the date it was last confirmed. [Proposed] The network's "reach the right office" use case would point here ([Chapter 2.1](02a-use-cases.md)). [Proposed]
 3. **VSU's spatial data.** The GIS inventory's layers, if VSU shares them. [Unresolved] (Q-49)
-4. **Status offices already keep.** Room bookings, outages, and maintenance, linked where VSU permits. [Proposed]
+4. **Status offices may keep.** Room bookings, outages, and maintenance, linked where VSU permits. [Proposed] Which of these VSU's offices keep, and in what form, has not been checked. [Unresolved] (Q-10)
 5. **Sensors.** Energy, water, and occupancy readings carried on the campus network's later stage ([Chapter 4](04-intranet.md)). [Deferred] VSU named campus-wide environmental monitoring and connected lab equipment among the aims of its IPv6 work in 2024. [Established] (E-044)
 
 Places are the shared spine of CAMPUS: each physical place would have one record, in which the twin holds what it is, where it is, and the way there, the network adds who can help there and what is posted, and the receptionist is the door into both. [Proposed] (D-191; D-144; D-181) Built this way, the first step would be made once, by the network's first place, rather than twice. [Proposed] (D-178; D-191) What is studied here, below, would grow from the same places and would need none of step 3's data. [Proposed] (D-192)
@@ -76,7 +76,7 @@ Its standing cost is people: each entry would need an owner who confirms it ever
 
 ## What waits
 
-Three-dimensional models, simulation, and live sensor dashboards wait until the earlier steps show an office would use them. [Deferred] In the light review, campus twins serve estates and energy teams first, and the student-facing use is closer to a guide to places, which is why that guide comes first here. [Proposed]
+Three-dimensional models, simulation, and live sensor dashboards wait until the earlier steps show an office would use them. [Deferred] The light review found two campus twins, and they serve different people: the University of Glasgow's was built with an energy-modeling firm and fed with building-management data, and the University of Manchester's 3D scans, below, serve students. [Established] ([Chapter 10](10-related-work.md)) Two cases cannot show what campus twins usually serve first, and a wider review is still open. [Unresolved] (Q-15) The guide to places comes first here because it answers the questions new students bring, not because other twins began there. [Proposed] (D-079)
 
 Building the world before what fills it has gone wrong before: James Madison University built a campus in the virtual world Second Life in 2008, and by its authors' account it failed in April 2012, after four years of successful use. [Established] (Stevens and Stevens, 2012) A 2026 review of digital twins in engineering education found the evidence more promising for understanding than for behaviour, where it is still tentative, and found long-term effects not yet studied. [Established] (Coombs, Soban, and McCartan, 2026) Another review names high costs, infrastructure, and faculty training as the barriers. [Established] (Kotecha et al., 2025) Three-dimensional views can help when they serve a task: the University of Manchester's 3D scans of its music and drama centre gave students a virtual induction before they used its rehearsal rooms. [Established] ([Chapter 10](10-related-work.md)) So the model would follow its content: places, the office guide, and what is studied here come first, and a three-dimensional view earns its place only by showing them better than a list does. [Proposed]
 
@@ -84,7 +84,7 @@ Building the world before what fills it has gone wrong before: James Madison Uni
 
 A twin has three layers. Geometry is the shape of the grounds and buildings, which laser scans and drones can capture. Meaning is what each place is, who is responsible for it, and what happens there, which only people can give. Life is what changes: schedules, notices, and readings. [Proposed] The network's places, tied to real units and looked after by stewards, are the meaning layer, which is why the first step starts there and not with geometry. [Proposed] (D-144; D-191)
 
-For geometry, VSU already holds a good deal: its Phil-LiDAR projects produced flood hazard maps and resource maps for about 40 municipalities and cities in Eastern Visayas. [Established] (Rappler, n.d.) In 2017 it was among the partner universities that signed an agreement to share LiDAR data. [Established] (DREAM, 15 July 2017) Its GIS laboratory was formally launched in December 2000, and in January 2025 it created a Geospatial and GIS Research and Services Center. [Established] (VSU GIS Services Unit, n.d.; [Chapter 2](02-social-network.md)) Whether VSU would share any of this for a model, and on what terms, is open. [Unresolved] (Q-49; Q-75) Students can build such geometry themselves: at Wake Forest University, classes used one drone, laser scans, and teams on foot to map more than 1,000 campus trees across about 90 acres. [Established] (Wake Forest University, 31 August 2026) At VSU, geodetic engineering and forestry projects could do the same for the twin, with VSU's permission for the flights and the data. [Proposed]
+For geometry, VSU already holds a good deal: its Phil-LiDAR projects produced flood hazard maps and resource maps and gave them to the local governments of Eastern Visayas's five provinces. [Established] (VSU RDE, n.d.) The copy of VSU's story published by Rappler puts the maps at about 40 municipalities and cities. [Established] (Rappler, n.d.) In 2017 it was among the partner universities that signed an agreement to share LiDAR data. [Established] (DREAM, 15 July 2017) Its GIS laboratory was formally launched in December 2000, and in January 2025 it created the Geospatial and GIS Research and Services Center, known as GRID. [Established] (VSU GIS Services Unit, n.d.; [Chapter 2](02-social-network.md); OVPREI, n.d.) Whether VSU would share any of this for a model, and on what terms, is open. [Unresolved] (Q-49; Q-75) Students can build such geometry themselves: at Wake Forest University, classes used one drone, laser scans, and teams on foot to map more than 1,000 campus trees across about 90 acres. [Established] (Wake Forest University, 31 August 2026) VSU's students already map: the Viscan YouthMappers, a chapter of the global YouthMappers network advised from the College of Engineering and Technology, was recognized by the university in 2022 and has begun mapping Leyte into OpenStreetMap. [Established] (E-065) The chapter, or geodetic engineering and forestry projects, could do the same for the twin, with VSU's permission for the flights and the data. [Proposed]
 
 An open format would keep the choice of software open. [Proposed] 3D Tiles, adopted as a community standard by the Open Geospatial Consortium in 2019, can be drawn by CesiumJS or by other 3D engines, such as three.js. [Established] (Cesium, 5 February 2019) Which format and which renderer a model would use is open. [Unresolved] (Q-75)
 
@@ -113,13 +113,13 @@ It would be disproved if people in a test find what they need faster, and with f
 ## Open questions
 
 - Would VSU share its GIS inventory and the Citizen's Charter in a usable form, and who would keep office information current? (Q-49)
-- Would the faculties of Agriculture and Forestry, and VSU's research centers, want their work shown on the twin, and who in each would confirm its entries? [Unresolved]
-- Would the Geospatial and GIS Research and Services Center and the Department of Geodetic Engineering share base data for a model, and in which open format? (Q-75)
-- Does VSU itself aim for a digital twin, and which office would own one? [Unresolved]
+- Would the faculties of Agriculture and Forestry, and VSU's research centers, want their work shown on the twin, and who in each would confirm its entries? (Q-78)
+- Would the GRID Center and the Department of Geodetic Engineering share base data for a model, and in which open format? (Q-75)
+- Does VSU itself aim for a digital twin, and which office would own one? (Q-79)
 - What will OneVSU cover for students? (Q-18)
 - Does VSU, or do its students, already run or plan a campus map or directions service that the first step should build on instead? (Q-54)
-- Would browsing the network by place help people find things faster than a list or search? [Unresolved]
-- Which places should not be mapped in detail, among them research sites such as rare trees or the places where wildlife is studied? [Unresolved]
+- Would browsing the network by place help people find things faster than a list or search? (Q-80)
+- Which places should not be mapped in detail, among them research sites such as rare trees or the places where wildlife is studied? (Q-81)
 
 ## Sources
 
@@ -131,9 +131,11 @@ It would be disproved if people in a test find what they need faster, and with f
 - ELTI. [Community-based rainforestation training: course report](https://elti.yale.edu/sites/default/files/rsource_files/baybay_course_report.pdf), with VSU's Institute of Tropical Ecology and Environmental Management and its Department of Liberal Arts and Behavioral Sciences, 2018. External.
 - Kotecha, M. C., Dandridge, T. M., and Reid Smith, T. [Digital twins in engineering and design education: a systematized review](https://peer.asee.org/56296), ASEE Annual Conference, 2025. Scholarly.
 - NARC. [National Abaca Research Center](https://ovprei.vsu.edu.ph/?p=1637), VSU Office of the Vice President for Research, Extension, and Innovation, n.d. Official.
+- OVPREI. [Research centers](https://ovprei.vsu.edu.ph/?p=1524), VSU R&D Nexus, VSU Office of the Vice President for Research, Extension, and Innovation, n.d. Official.
 - OpenStreetMap Foundation. [Copyright and license](https://www.openstreetmap.org/copyright), n.d. External.
 - PhilRootcrops. [Philippine Rootcrop Research and Training Center](https://ovprei.vsu.edu.ph/?p=1548), VSU Office of the Vice President for Research, Extension, and Innovation, n.d. Official.
 - Rappler. [VSU's flood hazard and resource maps for Eastern Visayas towns](https://www.rappler.com/move-ph/issues/disasters/172586-vsu-flood-hazard-maps-eastern-visayas-towns), first published by VSU, n.d. External.
 - Stevens, K. E., and Stevens, S. P. [Lessons from the virtual campus](https://www.igi-global.com/article/lessons-virtual-campus/75776), 2012. Scholarly.
 - VSU GIS Services Unit. [VSU Geographic Information System Services Unit](https://www.vsu.edu.ph/21-content-main/informational/374-vsu-geographic-information-system-services-unit), n.d. Official.
+- VSU RDE. [Flood hazard, resource maps now ready for Region 8](https://www.vsu.edu.ph/rde-news/1260-phil-lidar), VSU research, development, and extension news, n.d. Official.
 - Wake Forest University. [Campus tree mapping supports Wake Forest's Level II arboretum accreditation](https://inside.wfu.edu/?p=42023), 31 August 2026. External, from another university.
