@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 510" role="img" aria-labelledby="dg-twin-path-title dg-twin-path-desc" font-family="IBM Plex Sans, sans-serif">
   <title id="dg-twin-path-title">The twin's path, step by step</title>
-  <desc id="dg-twin-path-desc">Five steps in order. Steps 1 and 2, places and the way there, then where to go for what, are the first step, built as the network's first places. Branching from them is what is studied here: research only, and a labeled mock-up first. Then step 3, VSU's spatial data, if VSU shares it; step 4, status offices already keep, linked where VSU permits; and step 5, sensors, deferred. After the steps come three-dimensional models, simulation, and live dashboards, once an office would use them.</desc>
+  <desc id="dg-twin-path-desc">Five steps in order. Steps 1 and 2, places and the way there, then where to go for what, are the first step, built as the network's first places. Branching from them is what is studied here: research only, and a labeled mock-up first. Then step 3, VSU's spatial data, if VSU shares it; step 4, status offices may keep, linked where VSU permits; and step 5, sensors, deferred. After the steps come three-dimensional models, simulation, and live dashboards, once an office would use them.</desc>
   <defs>
     <marker id="dg-twin-path-arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
       <path class="dg-arrow" d="M0,0 L10,5 L0,10 z" fill="#8B9083"/>
@@ -36,7 +36,7 @@
     <text x="200" y="139" text-anchor="middle">2. Where to go for what</text>
     <text x="560" y="127" text-anchor="middle">What is studied here</text>
     <text x="200" y="221" text-anchor="middle">3. VSU's spatial data</text>
-    <text x="200" y="291" text-anchor="middle">4. Status offices already keep</text>
+    <text x="200" y="291" text-anchor="middle">4. Status offices may keep</text>
     <text x="200" y="361" text-anchor="middle">5. Sensors</text>
     <text x="200" y="444" text-anchor="middle">Then three-dimensional models,</text>
     <text x="200" y="462" text-anchor="middle">simulation, and live dashboards</text>
