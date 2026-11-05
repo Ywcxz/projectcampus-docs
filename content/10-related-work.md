@@ -149,11 +149,15 @@ What CAMPUS adds is a combination, not a component: a campus-first rule for VSU-
 
 ## Campus digital twins
 
-Reviewed only lightly, since the digital twin is research only. [Established] (D-008; [Chapter 3](03-digital-twin.md))
+Reviewed in two short passes, since the digital twin is research only: two cases in October 2026, and four more on 5 November 2026, one of them Philippine and one Southeast Asian. [Established] (D-008; [Chapter 3](03-digital-twin.md))
 
 - The University of Glasgow built a digital twin of its Western Campus and three heavily used student buildings with an energy-modeling firm, feeding it building-management data, as part of a smart campus program. [Established] (IES, 2023)
 - The University of Manchester turned 3D scans of its music and drama centre into a virtual induction that students complete before using its rehearsal rooms, which helped them get familiar with the space. [Established] (Matterport, n.d.)
-- In this light pass, campus twins serve estates and energy teams first, and the student-facing use is closer to a guide to places. [Proposed] VSU's completed inventory of its utility infrastructure, and its continuing work on roads, water systems, drainage, electrical systems, and GIS, are the kind of data a twin would start from. [Established] (VSU, 18 September 2026; C-14) A simple layer of places inside the network can come long before any twin. [Proposed]
+- UP Open University launched a digital twin, a virtual replica of its campus in Los Baños, on 22 October 2024, under a metaverse project with partner universities in Southeast Asia, so that students anywhere can explore the campus. [Established] (Immersive Open Pedagogies, 28 October 2024) UPOU teaches at a distance, and a virtual campus reaches students far from Los Baños; VSU teaches on its grounds, where a new student's questions are about real rooms and offices, so its twin would start from places and the way there. [Proposed] (D-079)
+- A digital twin built at Chiang Mai University, in Thailand, covers the 25 buildings of its Faculty of Engineering and serves facility management first: electricity use by building, floor, and room, air quality, and equipment records for technicians, with a 3D model in which students and visitors can explore the layout. [Established] (Manokeaw et al., 2025) It was handed to the faculty in October 2024, and its authors attribute a drop of 9 to 12 percent in the faculty's 2024 electricity use to it; their evaluation with building managers was qualitative. [Established] (Manokeaw et al., 2025)
+- A digital twin of university buildings in Sweden, presented by researchers at KTH Royal Institute of Technology, serves both the people in the buildings and those who run them: a phone app for finding rooms and places, with near real-time occupancy, and modules that compare room bookings with occupancy sensors to find rooms booked but unused. [Established] (Bäcklund, Lundqvist, and Molinari, 2024) The article describes its features and the workshops behind them, and reports no measured results with users. [Established] (Bäcklund, Lundqvist, and Molinari, 2024)
+- At the Technical University of Madrid, professors and students built a GIS-based digital twin of the 30-hectare South Campus, without private companies: buildings, trees, mobility, accessibility such as pavement slopes, and energy, with a public version for students and a restricted one for management. [Established] (García-Aranda et al., 2024) Its authors call it a pilot, still being extended. [Established] (García-Aranda et al., 2024) It models the building of the university's school of surveying, geodesy, and cartography room by room, and surveyed that school's students on how they reach campus. [Established] (García-Aranda et al., 2024) That school's field is the one closest to VSU's geodetic engineering. [Proposed]
+- Across the six, the twins that facility teams use start from buildings, energy, and sensors; where students are served, it is by finding rooms and places, or by exploring the campus before or instead of a visit. [Proposed] Whether a twin changes how well students find their way has not been measured in any of them. [Unresolved] VSU's completed inventory of its utility infrastructure, and its continuing work on roads, water systems, drainage, electrical systems, and GIS, are the kind of data a twin would start from. [Established] (VSU, 18 September 2026; C-14) A simple layer of places inside the network can come long before any twin. [Proposed]
 
 ## Patterns the use-case inventory borrows
 
@@ -183,6 +187,7 @@ Chapter 2.1 borrows patterns, not products. [Established] ([Chapter 2.1](02a-use
 8. For the network, start dense in one community, be useful to one person before being social, give members ownership of their spaces, and test the network against a well-run Facebook group with the same office commitment (D-062, D-067, D-068). [Proposed]
 9. Show existing answers before a question posts, route questions to helpers who opted in, and recognize helpers without public scores or points (D-071, D-072). [Proposed]
 10. Find out what VSU's student-built tools already do before the twin's first step is proposed, before Hop-It runs with real users, and before Housing grows, and ask their makers whether CAMPUS could build on their work rather than beside it (Q-54). [Proposed]
+11. Keep the twin's first step to places, the way there, and where to go for what, the student uses the reviewed twins share, and build any geometry with VSU's geodetic engineers and the GRID Center, as Madrid's was built by its own professors and students, if VSU agrees (Q-75). [Proposed]
 
 ## Status
 
@@ -194,9 +199,14 @@ Chapter 2.1 borrows patterns, not products. [Established] ([Chapter 2.1](02a-use
 | International platforms | Second pass, 8 October 2026, with [Chapter 2](02-social-network.md) |
 | Campus delivery | First pass; delivery coverage in Baybay, and VSU students' own delivery services, not yet checked |
 | Local-first infrastructure | Second pass, 8 October 2026, with [Chapter 4](04-intranet.md) |
-| Campus digital twins | Light pass |
+| Campus digital twins | Second pass, 5 November 2026: six cases |
 
 ## Sources
+
+- Bäcklund, K., Lundqvist, P., and Molinari, M. [Showcasing a digital twin for higher educational buildings: developing the concept toward human centricity](https://www.frontiersin.org/journals/built-environment/articles/10.3389/fbuil.2024.1347451/full), *Frontiers in Built Environment* 10, 2024. Scholarly.
+- García-Aranda, C., Martínez-Cuevas, S., Torres, Y., and Pedrote Sanz, M. [A digital twin of a university campus from an urban sustainability approach: case study in Madrid (Spain)](https://www.mdpi.com/2413-8851/8/4/167), *Urban Science* 8(4), 167, 2024. Scholarly.
+- Immersive Open Pedagogies. [The first Metaverse Academic Nexus for Global Opportunities Philippine Forum](https://iop.upou.edu.ph/the-first-metaverse-academic-nexus-for-global-opportunities-philippine-forum/), UP Open University, 28 October 2024. External, from another university.
+- Manokeaw, S., et al. [A dynamic digital twin framework for sustainable facility management in a smart campus: a case study of Chiang Mai University](https://www.mdpi.com/2227-7080/13/10/439), *Technologies* 13(10), 439, 2025. Scholarly.
 
 Checked on 4 October 2026, except the local-first infrastructure and network sources added on 8 October 2026; every entry cited for a claim was checked again on 28 October 2026. Each entry starts with the author and date a citation names, and ends with its source type ([Chapter 9](09-governance.md)). Facts already in the [evidence register](08-evidence.md) are cited by their E- number instead. Sources for VSU's own network are listed in [Chapter 4](04-intranet.md), and for VSU's student-facing systems in [Chapter 2.3](02c-network-fit.md).
 
