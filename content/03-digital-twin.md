@@ -50,7 +50,7 @@ The network's later modules build on the early steps: Housing shows distance and
 
 ## What is studied here
 
-By VSU's own account, CHED identified it in 2000 as a Center of Excellence in Agriculture, Agricultural Engineering, and Forestry. [Established] (E-061) Which of those designations is still current has not been confirmed. [Unresolved] Some of the work in these fields is done in the open, as at the rainforestation site in the Nature Park, so a place on the twin could show what is studied there. [Proposed] (D-192)
+By VSU's own account, CHED identified it in 2000 as a Center of Excellence in Agriculture, Agricultural Engineering, and Forestry. [Established] (E-061) CHED's own list as of May 2018 names VSU a Center of Excellence in Agriculture and in Agricultural Engineering, and a VSU report of its designations names those two and a Center of Development in Development Communication, but not Forestry. [Established] (E-062; E-063) Whether Forestry's designation of 2000 is still current has not been confirmed, and the sources found suggest it is not. [Unresolved] (E-064) Some of the work in these fields is done in the open, as at the rainforestation site in the Nature Park, so a place on the twin could show what is studied there. [Proposed] (D-192)
 
 Picture a first-year student at the edge of a crop plot. She opens the twin on her phone and sees what is planted, how far along the trial is, which program runs it, and a link to the place on the network where she can ask about it. [Proposed] (D-192) In the Nature Park, a tree shows its species and that it stands on the first rainforestation site. [Proposed] She never sees who planted either. [Proposed] (D-192) Nor does she see who is there now. [Established] (D-089; D-093)
 
@@ -64,7 +64,7 @@ Each entry would hold five things. [Proposed] (D-192)
 
 An entry would appear only with the consent of those who own the work, students included, and unpublished research would show only what its owners and VSU allow. [Proposed] (D-192) Some sites are safer left vague, such as rare trees or the places where wildlife is studied. [Proposed]
 
-Agriculture and Forestry lead, by the author's choice: two of VSU's three designations are in those fields, and research centers such as PhilRootcrops and the National Abaca Research Center work in agriculture. [Proposed] (D-192; E-061) Engineering follows: Agricultural and Biosystems Engineering, whose field holds the third designation, with work such as an irrigation trial; Geodetic Engineering, whose survey control points would also anchor the twin's own coordinates; and Mechanical Engineering, with work such as a test rig. [Proposed] (D-192) Mechanical Engineering is the author's own program, and it is included because he can supply his own work as the first real examples. [Proposed] (D-192)
+Agriculture and Forestry lead, by the author's choice. [Established] (D-192) Agriculture is a Center of Excellence on CHED's list, and research centers such as PhilRootcrops and the National Abaca Research Center work in agriculture; the Nature Park holds the first rainforestation site. [Established] (E-062; PhilRootcrops, n.d.; NARC, n.d.; ELTI, 2018) Engineering follows: Agricultural and Biosystems Engineering, whose field, agricultural engineering, is VSU's other Center of Excellence on CHED's list, with work such as an irrigation trial; Geodetic Engineering, whose survey control points would also anchor the twin's own coordinates; and Mechanical Engineering, with work such as a test rig. [Proposed] (D-192; E-062) Mechanical Engineering is the author's own program, and it is included because he can supply his own work as the first real examples. [Proposed] (D-192)
 
 It would serve a first-year who walks past the fields without knowing what they hold, a student choosing a major, a project, or a thesis site, and visitors, and it would give faculties and research centers a way to show their work where it happens. [Proposed] Whether students want this, and whether faculties want their work shown, has not been asked. [Unresolved] An entry would link to a research center's own page rather than restate it as its own authority. [Proposed]
 
@@ -101,8 +101,6 @@ The author's design notes for a later model are these. [Proposed]
 - An isometric view, which shows a building's height and floors, and keeps nearby boarding houses from crowding into one label at a wide zoom.
 - The campus and the barangays around it, not a map of the world.
 - Trees and plots placed by surveyed coordinates, such as RTK GNSS, rather than by hand.
-
-When the author tried measuring the campus by hand in Google Earth, it proved slower than expected, which is one reason the model waits for VSU's own spatial data. [Unresolved] His own 3D sketches so far use Roblox Studio, chosen because it runs on the computers available to him; they are sketches, not a choice of engine for VSU's model. [Unresolved] (Q-75)
 
 ### The spatial interface
 

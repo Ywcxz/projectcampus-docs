@@ -13,7 +13,7 @@ In January 2025, VSU created new research centers, among them a Geospatial and G
 | Research discovery | Finding researchers, expertise, projects, laboratories, and publications | Must not duplicate VSU's research repositories or management systems. It could grow from the network's relational model and the topics members choose to help with (D-071, D-075). [Deferred] |
 | Analytics and AI, including GIS | Insight and assistance built on governed data | Only in this order: governed data, meaningful relationships, a validated use case, then analytics or AI. Never the reverse. [Deferred] |
 
-Learning, including the learning record and high-school-to-college bridging, is outside this proposal for now. [Proposed] (D-190) PEW, the author's own concept for learning engineering through problems that carry across courses, is a separate project, as the Education Protocol Concept is. [Proposed] (D-190)
+Learning, including the learning record and high-school-to-college bridging, is outside this proposal for now. [Established] (D-190) PEW (Personalized Engineering Workspace), the author's own concept for learning engineering through problems that carry across courses, is a separate project, as the Education Protocol Concept is. [Established] (D-190)
 
 The digital twin was listed here until 9 October 2026, when it moved out, keeping the same conditions; it now has its own chapter. [Established] ([Chapter 3](03-digital-twin.md); D-077; D-081)
 
