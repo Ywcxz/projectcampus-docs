@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 254" role="img" aria-labelledby="dg-twin-layers-title dg-twin-layers-desc" font-family="IBM Plex Sans, sans-serif">
+  <title id="dg-twin-layers-title">A twin's three layers</title>
+  <desc id="dg-twin-layers-desc">Three layers, from top to bottom. Life: what changes, such as schedules, notices, and readings. Meaning: what each place is, who is responsible for it, and what happens there, which only people can give; the network's places, looked after by stewards, are this layer, and the first step starts here. Geometry: the shape of the grounds and buildings, which laser scans and drones can capture.</desc>
+  <g class="dg-node" fill="#EAEAE0" stroke="#C3BEA9" stroke-width="1.2">
+    <rect x="20" y="20" width="660" height="44" rx="6"/>
+  </g>
+  <g class="dg-node dg-key" fill="#D5E6D3" stroke="#17643A" stroke-width="1.4">
+    <rect x="20" y="74" width="660" height="92" rx="6"/>
+  </g>
+  <g class="dg-node" fill="#EAEAE0" stroke="#C3BEA9" stroke-width="1.2">
+    <rect x="20" y="176" width="660" height="58" rx="6"/>
+  </g>
+  <g class="dg-title" font-size="14" font-weight="600" fill="#1F2A22">
+    <text x="36" y="47">Life</text>
+    <text x="36" y="99">Meaning</text>
+    <text x="36" y="201">Geometry</text>
+  </g>
+  <g class="dg-sub" font-size="11.5" fill="#52594C">
+    <text x="150" y="47">what changes: schedules, notices, readings</text>
+    <text x="150" y="99">what each place is, who is responsible for it,</text>
+    <text x="150" y="114">and what happens there; only people can give it</text>
+    <text x="150" y="201">the shape of the grounds and buildings;</text>
+    <text x="150" y="216">laser scans and drones can capture it</text>
+  </g>
+  <g class="dg-label" font-size="11.5" font-style="italic" fill="#52594C">
+    <text x="150" y="139">the network's places, looked after by stewards:</text>
+    <text x="150" y="154">the first step starts here</text>
+  </g>
+</svg>
