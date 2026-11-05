@@ -11,7 +11,6 @@ In the author's experience as a Mechanical Engineering graduate of VSU, a thesis
 ```text svg=build-order
 Master document, the reference for everything after it
   ──► the network's first place, with its receptionist
-        ──► one learning simulation, once the first place exists
   ──► concept note, printed, with a PDF
   ──► interactive site, built now, with placeholders
   ──► student survey site, built, and kept closed
@@ -30,7 +29,7 @@ student survey site ──► field research, once permission is granted
 
 1. **Master document.** This document, the reference for everything after it. Decisions live in its register.
 2. **The network's first place, with its receptionist.** The first thing people can use: one place of the network, seeded with real public information (the Citizen's Charter, VSU's service pages, and the guide's seven sourced entries) and with made-up members labeled as made up (D-108), with a receptionist at its door that points students to what people wrote and writes no answers of its own (D-178, D-181). It needs nothing from VSU (D-014). It starts once Q-33 (compose or build) and Q-58 (its name) are answered; its code will live in a repository of its own, private until its licence and the commercial path are settled (D-179, D-184; Q-77). Real members wait for a pilot and a privacy review (D-178).
-3. **One learning simulation.** Once the first place exists, a simulation for one Mechanical Engineering course, its topic chosen with an instructor of VSU's Department of Mechanical Engineering and tried in that class under the instructor's lead (D-178). Its design, and how it relates to the rest of CAMPUS, are for a later revision of this document. [Unresolved]
+3. **One learning simulation, deferred.** A second build, a simulation for one Mechanical Engineering course once the first place exists (D-178), is deferred and may be taken up later; learning is outside this proposal for now. [Proposed] (D-190)
 4. **Concept note.** A short note for the first approach to OVPSAS, built from this document (D-083) and tried first on readers the author trusts (D-095). It is printed, with a PDF of the same text, and the interactive site is its companion, reached from a QR code on the note (D-100).
 5. **Interactive site.** A summary of this document that a visitor can walk around in, and the pitch (D-151). Each scene shows a picture, a title, and a short summary, with objects that open a deeper scene, more context, or a source, and a link to its chapter here. Zoomed out, the scenes sit on a simple map of the kinds of place on campus, and any scene, the map, or an audience's path can be opened directly by its address. [Established] (D-152; D-153) It is built now, with placeholders where VSU evidence is still missing, filled in as field research reports. Administration and other interested parties see it early; students see it only after they have answered the survey (D-084).
 6. **Student survey site.** Built on a site of its own, so respondents don't read the proposal before answering, and kept closed until VSU's written permission is in hand (D-037, D-039, D-114).
@@ -81,7 +80,7 @@ Some steps need a permission that is not a stage of support. Each is asked for a
 | Ethics clearance | Research with people as participants | VSU's Research Ethics Board, through its Human Ethics Review Committee, if its review covers a study by an alumnus (E-051, Q-51) | Not yet asked |
 | Access to VSU data or systems | Aggregate network figures (D-058), or a look inside VSU's existing systems | VSU ICT for network figures; otherwise each system's owner, not yet known (Q-10) | Not yet asked |
 
-Informal advice and feedback from VSU people count as none of these. [Established] (D-090) Permission to prototype and the pilot are permissions too, and they stay on the ladder as stages of support. [Established] (D-029) Each activity waits for its own gate: the survey and the interviews for research permission, and for ethics clearance if VSU requires it; the network's first place for none, since it uses public information and made-up members (D-014, D-178); and a pilot with real members for permission to prototype. [Established] (D-090) What trying the learning simulation in a class requires is not yet known. [Unresolved]
+Informal advice and feedback from VSU people count as none of these. [Established] (D-090) Permission to prototype and the pilot are permissions too, and they stay on the ladder as stages of support. [Established] (D-029) Each activity waits for its own gate: the survey and the interviews for research permission, and for ethics clearance if VSU requires it; the network's first place for none, since it uses public information and made-up members (D-014, D-178); and a pilot with real members for permission to prototype. [Established] (D-090)
 
 ## Environments
 
