@@ -24,7 +24,7 @@ VSU's Main Campus spreads 188 buildings over 61.6 hectares of grounds, among the
 
 Each step stands on its own, and none commits VSU to the next. [Proposed]
 
-```text
+```text svg=twin-path
 The twin's path, step by step
 1  Places and the way there      ─┐  the first step, built as
 2  Where to go for what          ─┘  the network's first places
