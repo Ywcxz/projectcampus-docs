@@ -1,12 +1,12 @@
 # The Facebook Landscape Study
 
-*How VSU communicates on public Facebook pages and groups, observed by hand*
+*How VSU communicates on public Facebook pages and groups, observed without identifying anyone*
 
-The network is proposed as VSU's own alternative to Facebook for campus life (D-035), yet what VSU's Facebook landscape actually looks like has never been mapped. [Established] (D-041; D-042) This study maps it by observation alone: which public pages and groups exist, who runs them, how official information travels through them, and what happens to the questions people ask there. It has not started. [Established] (D-041) When it does, it counts the way a birdwatcher does: kinds, not individuals, recorded without touching the nest. [Proposed]
+The network is proposed as VSU's own alternative to Facebook for campus life (D-035), yet what VSU's Facebook landscape actually looks like has never been mapped. [Established] (D-041; D-042) This study maps it by observation alone: which public pages and groups exist, who runs them, how official information travels through them, and what happens to the questions people ask there. Its first collection, every post from July to October 2026 in two community groups, began in November 2026. [Proposed] (D-198) Throughout, it counts the way a birdwatcher does: kinds, not individuals, recorded without touching the nest. [Proposed]
 
 In 2025, a public Facebook group for VSU people that began as a lost-and-found page had grown past 12,500 members, with administrators no one could clearly identify, and VSU's student media investigated it for online hate and a false accusation against a student. [Established] (E-023)
 
-> **In short.** Four starting hypotheses are tested, from whether official announcements change as they travel to whether groups are replaced when their founders leave, each against cut-offs fixed before any data was read. [Established] (D-042; D-053) The author does it all by hand, records no names, links, or screenshots, and reports findings only by kind of channel. [Established] (D-041; D-044) It cannot show what happens in private chats or how many students a problem affects, so on its own it never makes a problem Established. [Established] (D-038) The workbook is built and checked on synthetic data, so the census can begin. [Established] (D-043)
+> **In short.** Four starting hypotheses are tested, from whether official announcements change as they travel to whether groups are replaced when their founders leave, each against cut-offs fixed before any data was read. [Established] (D-042; D-053) The author maps channels by hand and collects posts from community groups through a scraping service. Every name, ID, and link is dropped before the posts are kept, and findings are reported only by kind of channel. [Proposed] (D-196; D-197; D-044) It cannot show what happens in private chats or how many students a problem affects, so on its own it never makes a problem Established. [Established] (D-038) The workbook is built and checked on synthetic data, so the census can begin. [Established] (D-043)
 
 ## Why observe before asking
 
@@ -19,9 +19,9 @@ In 2025, a public Facebook group for VSU people that began as a lost-and-found p
 These rules come from the owner's brief. [Established] (D-041)
 
 - **Public channels only.** Public pages and public groups related to VSU Main Campus. Private groups, group chats, and personal profiles are out of scope, whether or not the author can see them.
-- **By hand.** The author does all Facebook work manually. No scraping, scripts, browser automation, or AI tools open, browse, or collect from Facebook or any Meta site.
+- **By hand, except collection.** The author maps channels and traces announcements by hand. Posts and comments in public community groups may be collected through a scraping service the author runs from his own account. [Proposed] (D-196) No AI tool opens, browses, or collects from Facebook or any Meta site. [Established] (D-041)
 - **Observation only.** The study records what is publicly visible and asks nothing of anyone.
-- **Nothing that identifies people.** No names, profile links, post links, or screenshots are recorded. Field notes are paraphrases, with no quotes, names, or links.
+- **Nothing that identifies people.** No names, profile links, post links, or screenshots are recorded. Field notes are paraphrases, with no quotes, names, or links. Identifiers in collected posts are used only by a script on the author's side, then dropped. [Proposed] (D-197)
 
 Public visibility does not settle whether studying something is ethical, and verbatim quotes can be found again by searching for them, which identifies their authors; the Association of Internet Researchers' guidelines note that reworded quotes or composites can reduce that risk. [Established] (franzke et al., 2020) Recording no quotes, names, or links applies that advice. [Established] (D-044; franzke et al., 2020)
 
@@ -39,6 +39,24 @@ The working rule, adopted for the census and open to revision after the first se
 - **Channels about another campus only are out.**
 
 Groups with no posts in the 30 days before they are checked stay in the census but are excluded as inactive. They can still be named as the group a newer one replaces, which H3 needs, and they get no day tallies. [Established] (D-052)
+
+## Posts collected from community groups
+
+The first collection covers two public community groups, described here by kind as D-199 allows. One is the largest community group for VSU students, which began as a lost-and-found page; the author takes it to be the group in E-023. The other is a student-run group begun for applicants' admission and dormitory questions, where students now post too. Every post from July to October 2026 is collected, with its comments and replies. [Proposed] (D-198; D-199) By the author's first reading, most posts in both groups buy and sell things or arrange food deliveries, and admission, student life, and housing come next; coding will give the shares. [Unresolved]
+
+Collecting every post replaces the sampled days for these two groups, and it serves three uses. It measures H2 on every question, not a sample, with a question counted as answered if a useful reply comes within 24 hours. It supplies real student questions, paraphrased, for the test list of the first place's front door (P-24). And it gives evidence for the later modules students already improvise in these groups: the marketplace, Housing, and Hop-It. [Proposed] (D-198; D-098)
+
+Each stage keeps less than the one before. [Proposed] (D-197)
+
+| Stage | Where it is kept | What it holds | Until |
+| --- | --- | --- | --- |
+| Raw | The scraping service | What the service returns, identifiers included | The author exports it, then deletes the run |
+| Filtered | A private study database, separate from the prototype's | Text with names, IDs, links, photos, and numbers removed; commenters as roles such as poster, official page, admin, or other-1; dates and minutes to each reply | Coding ends, or 31 March 2027, whichever comes first |
+| Coded | Private, outside this repository | Categories, judgements, and paraphrases of questions | Kept |
+
+How often members post is counted inside the filtering script and kept only as a distribution across members, never per member, so that no one's activity can be followed. [Proposed] (D-197) Claude drafts the coding and the paraphrases from the filtered text in working sessions, and the author checks every row, with the recode D-049 sets; the filtered text is never committed to any repository. [Proposed] (D-197) The two groups were chosen by the author, not drawn from the census, so their results describe these groups and not every community group. [Unresolved] Posts about health, money trouble, family, safety, harassment, or distress, and any accusation against a person, get a category and no paraphrase. In the applicants' group, where some members are likely under 18, a paraphrase gives only the question, never the poster's circumstances. [Proposed] (D-197; D-198)
+
+The Data Privacy Act's rules do not apply to personal information processed for research intended for a public benefit, subject to other laws, regulations, and ethical standards, and only to the minimum extent the research needs; whoever holds the data must still keep it secure. [Established] (National Privacy Commission, 2016) The stages above are how this study keeps to that minimum, and its purpose is stated here for the same reason: to show how students' questions are answered now, so that VSU can weigh the network on evidence. [Proposed] (D-196; D-197) Whether VSU's data protection officer reads the study the same way is open. [Unresolved] Collecting this way may break Facebook's terms, which the author checks by hand, since no tool here opens a Meta site; he accepts the risk, and [Chapter 11](11-risks.md) records it. [Unresolved] (D-196)
 
 ## Starting hypotheses
 
@@ -77,7 +95,7 @@ A copy filled with synthetic data matched independent calculations for every sum
 
 Day tallies sample days, not posts: random days for each included group, stratified by weekday, each tallied two days after it happens so that replies have time to arrive. [Established] (D-042)
 
-The design is a constructed week. Each group gets `k` dates for every weekday inside an `N`-week window, and with `k` above 1 the window splits into `k` blocks, one date per weekday in each. The dates come from a fixed seed, so the plan can be reproduced and no date can be swapped later for a busier one. [Established] (D-043) With `k` = 1, each group needs seven tallies, so twenty groups need 140. [Established] (D-051)
+The design is a constructed week. Each group gets `k` dates for every weekday inside an `N`-week window, and with `k` above 1 the window splits into `k` blocks, one date per weekday in each. The dates come from a fixed seed, so the plan can be reproduced and no date can be swapped later for a busier one. [Established] (D-043) With `k` = 1, each group needs seven tallies, so twenty groups need 140. [Established] (D-051) For the two groups whose posts are collected, every post in the window takes the place of sampled days. [Proposed] (D-198)
 
 In newspaper content analysis, Riffe, Aust, and Lacy found that samples stratified by weekday estimated six months of content better than simple random or consecutive-day samples, and that one constructed week did about as well as four. [Established] (Riffe et al., 1993) Whether that efficiency carries over to Facebook groups has not been tested. [Unresolved] The settings are fixed. The window runs six weeks with `k` = 1, raised to 2 only if a practice tally takes under about 15 minutes; three practice tallies on days outside the sample come first, to time them. The window starts on the Monday after the census is settled, inside regular class weeks and clear of exam weeks and breaks. [Established] (D-051)
 
@@ -85,7 +103,7 @@ In newspaper content analysis, Riffe, Aust, and Lacy found that samples stratifi
 
 - **What happens in private.** Private groups and chats are invisible to this study. A problem that doesn't appear in public channels may still exist. [Established] (D-041)
 - **Reasons.** It records what people do, not why. [Established] (D-041)
-- **What was removed.** Posts deleted or hidden before a tally are missed, and counts keep changing after it. [Established] (D-041; D-043)
+- **What was removed.** Posts deleted or hidden before a tally are missed, and counts keep changing after it. [Established] (D-041; D-043) Where a group's admins approve posts before they appear, the posts they declined are never seen, and how many there are is not known. [Unresolved]
 - **How many people a problem affects.** Activity in public groups is not a measure of the student body; the survey measures prevalence. This study alone cannot make a problem Established, and the D-038 bars stay as they are. [Established] (D-038)
 - **A second opinion.** One person codes everything. The working definitions limit drift, and a random tenth of the field notes is recoded some weeks later to show how consistent the coding is. [Established] (D-049)
 
@@ -96,11 +114,11 @@ The cut-offs were fixed on 7 October 2026, before any data was read, as D-038 fi
 | ID | Measure | Supports it | Counts against it | Judged after |
 | --- | --- | --- | --- | --- |
 | H1 | Reappearances of official announcements that were altered or contradicted | 25% or more | Under 10% | 20 traced announcements |
-| H2 | Questions in community groups with no answer by tally time | 30% or more | 15% or less | 50 questions |
+| H2 | Questions in community groups with no answer by tally time, or within 24 hours where posts are collected | 30% or more | 15% or less | 50 questions |
 | H3 | Included community groups that replace an earlier group | 25% or more | Under 10% | 15 community groups |
 | H4 | The highest topic rate of anonymous posting, against the overall rate, among topics with at least 10 posts | A topic at 2× or more | Anonymous posts under 5% of all posts, or no topic at 1.5× | 30 anonymous posts, and a topic with 10 posts |
 
-H1 is judged on alterations alone, so its result does not depend on which announcements the author chooses to trace. [Established] (D-053) H4 counts only topics with at least 10 posts, so a topic with a handful of posts cannot decide the result. [Established] (D-054)
+For collected groups, the 24-hour measure was set before any comment was collected, and the cut-offs stay as they were. [Proposed] (D-198) H1 is judged on alterations alone, so its result does not depend on which announcements the author chooses to trace. [Established] (D-053) H4 counts only topics with at least 10 posts, so a topic with a handful of posts cannot decide the result. [Established] (D-054)
 
 ## Reporting
 
@@ -108,11 +126,15 @@ Rules for what leaves the workbook. [Established] (D-044)
 
 - The workbook stays private, outside this repository, as the stakeholder log does (D-030).
 - This chapter gains a findings section with counts and rates by kind of channel.
-- Official VSU pages may be named. Community-run pages and groups, their admins, and their members are not.
+- Official VSU pages may be named. Community-run pages and groups, their admins, and their members are not. [Established] (D-044) A community-run page or group may be described by its kind, how it began, its size in ranges, and the year it started. [Proposed] (D-199)
 - Examples on the interactive site are paraphrased composites, never quotes, screenshots, or links.
 - Findings enter the evidence register in [Chapter 8](08-evidence.md), typed by the kind of channel observed: official or community knowledge.
 
-## Status, October 2026
+## Status, November 2026
+
+- On 14 November 2026 the owner changed how posts from community groups are collected and handled. The change awaits his confirmation. [Proposed] (D-196, D-197, D-198, D-199)
+- The first group's posts from July to October 2026 have been collected, without their comments; the second group's come next. [Established] (D-196; D-198)
+- A third group, for VSU students and run from VSU's official page by the author's account, has been paused since January 2025. It is left out for now, and why it was paused is an open question. [Unresolved] (Q-83)
 
 - The workbook is built and verified with synthetic data. [Established] (D-043; D-054)
 - No channel has been censused and no day tallied. [Established] (D-051)
@@ -120,11 +142,12 @@ Rules for what leaves the workbook. [Established] (D-044)
 - The owner settled the rest of the study's design the same day: the author's own activity, which channels count, H4's wording and topics, the recode check, the sampling settings, inactive groups, and the cut-offs. [Established] (D-045, D-047 to D-054)
 - The first search pass and the census can start. [Established] (D-047; D-051)
 - Workbook v1.3 has the H4 topic counts, the Results tab, and the decided settings. [Established] (D-050; D-051; D-053; D-054)
-- Nothing in the study's design is open. Next come the first search pass and the census, then three practice tallies, then the start date. [Established] (D-051)
+- The design of 7 October stands except where D-196 to D-199 revise it. The first search pass and the census, the traces, and the day tallies for other groups are still to come. [Established] (D-051)
 
 ## Sources
 
-Checked on 7 October 2026; the AoIR guidelines were checked again on 28 October 2026. Each entry starts with the author and date a citation names, and ends with its source type ([Chapter 9](09-governance.md)).
+Checked on 7 October 2026; the AoIR guidelines were checked again on 28 October 2026, and the Implementing Rules on 14 November 2026. Each entry starts with the author and date a citation names, and ends with its source type ([Chapter 9](09-governance.md)).
 
 - franzke, a. s., Bechmann, A., Zimmer, M., Ess, C., and the Association of Internet Researchers. [Internet Research: Ethical Guidelines 3.0](https://aoir.org/reports/ethics3.pdf), 2020. Scholarly.
+- National Privacy Commission. [Implementing Rules and Regulations of Republic Act No. 10173, the Data Privacy Act of 2012](https://privacy.gov.ph/wp-content/uploads/2023/06/IRR_RA-10173-as-amended.pdf), 2016, as amended, Section 5. Official.
 - Riffe, D., Aust, C. E., and Lacy, S. R. [The Effectiveness of Random, Consecutive Day and Constructed Week Sampling in Newspaper Content Analysis](https://aejmc.us/wp-content/uploads/sites/29/2012/09/Journalism-Quarterly-1993-RiffeAustLacy-133-39.pdf), Journalism Quarterly 70(1), 133–139, 1993. Scholarly.
