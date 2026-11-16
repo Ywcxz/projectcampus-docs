@@ -16,6 +16,7 @@ Master document, the reference for everything after it
   ──► student survey site, built, and kept closed
 
 first place + concept note + interactive site
+  ──► VSU ICT, in person, on the network
   ──► OVPSAS, in person, with two separate asks:
       permission for the survey and interviews, and interest in CAMPUS
   ──► field research: survey · interviews · office workflows
@@ -25,17 +26,17 @@ first place + concept note + interactive site
 student survey site ──► field research, once permission is granted
 ```
 
-[Established] (D-083; D-084; D-100; D-114; D-151; D-178)
+[Established] (D-083; D-084; D-100; D-114; D-151; D-178; D-202)
 
 1. **Master document.** This document, the reference for everything after it. Decisions live in its register.
 2. **The network's first place, with its receptionist.** The first thing people can use: one place of the network, seeded with real public information (the Citizen's Charter, VSU's service pages, and the guide's seven sourced entries) and with made-up members labeled as made up (D-108), with a receptionist at its door that points students to what people wrote and writes no answers of its own (D-178, D-181). It needs nothing from VSU (D-014). It is built as a small app of its own (D-193), and its first build, on the guide's seven entries, is in a private repository of its own under a working name until Q-58 is answered (D-194). The repository stays private, and the first place is shown as a private preview rather than deployed, until its licence and the commercial path are settled (D-179, D-184; Q-77). The Citizen's Charter's services come next. Real members wait for a pilot and a privacy review (D-178).
 3. **One learning simulation, deferred.** A second build, a simulation for one Mechanical Engineering course once the first place exists (D-178), is deferred and may be taken up later; learning is outside this proposal for now. [Established] (D-190)
-4. **Concept note.** A short note for the first approach to OVPSAS, built from this document (D-083) and tried first on readers the author trusts (D-095). It is printed, with a PDF of the same text, and the interactive site is its companion, reached from a QR code on the note (D-100).
+4. **Concept note.** A short note for the first presentation, to VSU ICT, and then for OVPSAS, built from this document (D-083, D-202); the note for VSU ICT is one page and tried first on readers the author trusts (D-095). It is printed, with a PDF of the same text, and the interactive site is its companion, reached from a QR code on the note (D-100).
 5. **Interactive site.** A summary of this document that a visitor can walk around in, and the pitch (D-151). Each scene shows a picture, a title, and a short summary, with objects that open a deeper scene, more context, or a source, and a link to its chapter here. Zoomed out, the scenes sit on a simple map of the kinds of place on campus, and any scene, the map, or an audience's path can be opened directly by its address. [Established] (D-152; D-153) It is built now, with placeholders where VSU evidence is still missing, filled in as field research reports. Administration and other interested parties see it early; students see it only after they have answered the survey (D-084).
 6. **Student survey site.** Built on a site of its own, so respondents don't read the proposal before answering, and kept closed until VSU's written permission is in hand (D-037, D-039, D-114).
-7. **OVPSAS.** In person, with the first place, the concept note, and the interactive site, and two separate asks: permission to run the survey and the interviews, and interest in CAMPUS ([Chapter 2.4](02d-network-proposal.md); D-083, D-178). The visit is by appointment, asked for in a formal letter that carries the concept note; until that letter, nothing more is asked of VSU. [Proposed] (D-195)
+7. **VSU ICT, then OVPSAS.** The first presentation is to VSU ICT, on the network, asking for its advice on the project's standing (Q-82) and on where the network overlaps what VSU ICT and DIGITS plan. [Established] (D-202) OVPSAS follows, in person, with the first place, the concept note, and the interactive site, and two separate asks: permission to run the survey and the interviews, and interest in CAMPUS ([Chapter 2.4](02d-network-proposal.md); D-083, D-178). The visit is by appointment, asked for in a formal letter that carries the concept note; until that letter, nothing more is asked of VSU. [Proposed] (D-195)
 8. **Field research.** The survey once permission is granted, the student interviews, the study of office workflows and systems, and the Facebook landscape study ([Chapter 8.1](08a-facebook-study.md)), shaped by how the builds are used and run when a VSU decision needs them (D-178). Which parts need VSU's permission or an ethics review is open (Q-51), and the protocol is published in [Chapter 8](08-evidence.md) before the survey opens (D-086).
-9. **The pitch, with findings.** The interactive site presented again, to OVPSAS first, with findings in place of placeholders. A problem is shown as Established only once it clears the D-038 bars; until then it stays Proposed or Unresolved. No separate pitch slides are made. [Established] (D-151)
+9. **The pitch, with findings.** The interactive site presented again, to VSU ICT and OVPSAS, with findings in place of placeholders. A problem is shown as Established only once it clears the D-038 bars; until then it stays Proposed or Unresolved. No separate pitch slides are made. [Established] (D-151)
 
 Hop-It's Alpha is no longer on this list: delivery is a later module of the network, taken up on its own evidence, and its PRD keeps its own sequence for then: synthetic rehearsal, individual baseline, bundled cohort, evidence report, decision. [Established] (D-098)
 
