@@ -144,7 +144,7 @@ The pitch is the interactive site, presented in person: once with the concept no
 4. **Every batch starts over.** The same questions asked year after year, and answers lost within days. It stays on the path, shown as a question with how we'd find out until the interviews and the survey clear the D-038 bars. (D-151; D-175)
 5. **Where concerns go.** At the services offices: a concern raised and answered from zero each time, with no way to see what became of it the last time (P-23), shown as a question until it clears the D-038 bars. (D-151; D-175)
 6. **What VSU already has.** Its systems, and its offices' own outreach, such as USSO Days, shown with respect, and the gap between them. (E-058, E-059)
-7. **The network in three jobs, kept by memory.** Reaching the people who know, answers someone stands behind, and talking across roles, and what it will never have.
+7. **The network in three jobs.** Routing, memory, and trust: reaching the people who know, keeping the answer for the next batch, and answers someone stands behind; and what it will never have. (D-201)
 8. **How it would be governed.** With the community, by VSU's own principles, with due process, and with moderation kept apart from VSU's responses.
 9. **The test.** The pilot, its comparison, its thresholds, and its stop conditions.
 10. **The ask.** One office's commitment, then one semester.
