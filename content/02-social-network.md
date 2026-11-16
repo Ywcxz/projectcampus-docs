@@ -2,7 +2,7 @@
 
 *A campus community space that VSU designs and governs*
 
-Much of VSU's campus life already runs on a social network: notices of suspended classes, organizations recruiting members, students selling books and looking for rooms. That network is mostly Facebook and Messenger, built for attention and conversation and governed from outside the university. [Unresolved] The centerpiece proposal of CAMPUS is VSU's own alternative for campus life: a community space where students, faculty, staff, and offices can do what they now do on Facebook, in a form designed and governed for the university, to connect relevant information to the right people and close the gap between students and the institution. [Established] (D-035) It leads the first pitch, to OVPSAS. Nothing about it has been approved, built, or tested. [Established] ([Overview](00-overview.md))
+Much of VSU's campus life already runs on a social network: notices of suspended classes, organizations recruiting members, students selling books and looking for rooms. That network is mostly Facebook and Messenger, built for attention and conversation and governed from outside the university. [Unresolved] The centerpiece proposal of CAMPUS is VSU's own alternative for campus life: a community space where students, faculty, staff, and offices can do what they now do on Facebook, in a form designed and governed for the university, to connect relevant information to the right people and close the gap between students and the institution. [Established] (D-035) It leads the first pitch, to OVPSAS. Its first place exists as a prototype with made-up members. [Established] (D-193; D-108) Nothing about it has been approved by VSU or tested with students. [Established] ([Overview](00-overview.md))
 
 By the author's observation, the batch group chat shows what that costs: each new batch starts its own group chats, one for the batch and others for scholarships, and the student who creates each one becomes, without meaning to, the keeper of one of the busiest information channels the batch has. [Unresolved] (P-10) Answers about enrollment, scholarships, and dormitories are given there, buried under newer messages within days, and given again to the next student who asks. [Unresolved] (P-10) A year later the next batch starts new chats, and seniors who answered the same questions year after year begin to stop. [Unresolved] (P-08, P-10)
 
@@ -46,15 +46,15 @@ Each kind of system is built to make something grow. Facebook grows attention, a
 
 The closest idea in the research on shared resources is a commons: a resource a community uses under rules that the community helps make and enforce. Elinor Ostrom's study of commons that lasted for generations found they shared a handful of design principles, from clear boundaries to rules members can change and sanctions that rise step by step. [Established] (Ostrom, 1990) A campus network is that kind of resource, and [Chapter 2.2](02b-network-design.md) uses the principles to design its governance. [Proposed]
 
-### Three jobs, and the memory that keeps them
+### Three jobs: routing, memory, and trust
 
 The vision covers any purpose students, faculty, and staff have, but a first version cannot win every use case at once, and the principles allow no feature without a named reason. The author's observations point to three jobs where the network has to beat Facebook first. [Proposed] (Q-02)
 
-1. **Reaching the people who know.** A question reaches the office that can act on it, or a person who knows the answer, whether a senior, a faculty member, or later an alumnus, without several visits and without the asker knowing in advance who that is. [Proposed] (D-071)
-2. **Answers people can trust.** Office replies are marked official, other answers carry a name and a role, and an office can confirm the right one, so a wrong answer has an owner. [Proposed] (D-063)
-3. **Talking across roles.** Students, faculty, and staff reach each other in one place, under rules suited to each role. [Proposed]
+1. **Routing: reaching the people who know.** A question reaches the office that can act on it, or a person who knows the answer, whether a senior, a faculty member, or later an alumnus, without several visits and without the asker knowing in advance who that is. [Proposed] (D-071) Routing crosses roles: students, faculty, and staff reach each other in one place, under rules suited to each role. [Proposed] (D-201)
+2. **Memory: answers kept for the next batch.** In a chat, a good answer is buried within days and the next batch asks again; on the network, each answer, guide, and notice stays findable, dated, and marked when it goes out of date, so each batch starts where the last one ended. [Proposed] (D-070)
+3. **Trust: answers someone stands behind.** Office replies are marked official, other answers carry a name and a role, and an office can confirm the right one, so a wrong answer has an owner. [Proposed] (D-063)
 
-What makes the three worth more than a group chat is memory. In a chat, a good answer is buried within days and the next batch asks again; on the network, each answer, guide, and notice stays findable, dated, and marked when it goes out of date, so each batch starts where the last one ended. [Proposed] (D-070) Each job is a hypothesis for field research before it becomes a feature. Chapter 2.1 widens the list to 29 candidate use cases. [Established] ([Chapter 2.1](02a-use-cases.md))
+Memory is what makes the other two worth more than a group chat: a routed question and a trusted answer help one student once, and a kept answer helps every student who asks after her. [Proposed] (D-201) Each job is a hypothesis for field research before it becomes a feature. Chapter 2.1 widens the list to 29 candidate use cases. [Established] ([Chapter 2.1](02a-use-cases.md))
 
 ## Why VSU needs it
 
@@ -292,7 +292,7 @@ The prototype on made-up data sits outside these stages: it needs nothing from V
 
 ## Later modules
 
-CAMPUS proposes one product, the network, with the campus intranet as its long-term infrastructure. [Established] (D-098) The marketplace, Housing, and Hop-It's delivery are later modules of the network, not separate products, and none of them is part of its first version. [Established] (D-098) That version stays with the three jobs and the memory that keeps them. [Proposed] (Q-02) Each module is a short entry until field research supports the problem it names. [Proposed] (principle 1) Until it is taken up, a module may be shown as a mock-up on made-up data, labeled as a later module, but it is not built as a working prototype; only the network gets one. [Established] (D-099, D-102)
+CAMPUS proposes one product, the network, with the campus intranet as its long-term infrastructure. [Established] (D-098) The marketplace, Housing, and Hop-It's delivery are later modules of the network, not separate products, and none of them is part of its first version. [Established] (D-098) That version stays with the three jobs: routing, memory, and trust. [Proposed] (Q-02; D-201) Each module is a short entry until field research supports the problem it names. [Proposed] (principle 1) Until it is taken up, a module may be shown as a mock-up on made-up data, labeled as a later module, but it is not built as a working prototype; only the network gets one. [Established] (D-099, D-102)
 
 | Module | Its job | Stage | What it builds on |
 | --- | --- | --- | --- |
