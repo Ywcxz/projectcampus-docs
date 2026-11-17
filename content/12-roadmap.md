@@ -2,7 +2,7 @@
 
 *What gets made, in what order, and how progress is judged*
 
-This master document is the reference, and what people read is built from it: a concept note and an interactive site, which is also the pitch. [Established] (D-082, D-151) CAMPUS builds first and learns from use, so the steps below start with something people can use. [Established] (D-178; D-151) Institutional progress is tracked separately, on a seven-stage ladder where each stage needs its own evidence. [Established] (D-029; D-090)
+This master document is the reference, and what people read is built from it: a concept note and an interactive site, which is also the pitch. [Established] (D-082, D-151) In a meeting, the author presents from a few static pitch boards built from the same document. [Proposed] (D-204) CAMPUS builds first and learns from use, so the steps below start with something people can use. [Established] (D-178; D-151) Institutional progress is tracked separately, on a seven-stage ladder where each stage needs its own evidence. [Established] (D-029; D-090)
 
 In the author's experience as a Mechanical Engineering graduate of VSU, a thesis moves in stages, each judged by a panel before the next: a title, an outline, a final defense. [Unresolved] Passing the title defense is not graduating, and no student would claim it is; the ladder below asks the same honesty of CAMPUS. [Proposed]
 
